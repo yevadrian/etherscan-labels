@@ -1,0 +1,15 @@
+Address,Name Tag,Label
+0xbfacb56e0ab0dc99e80a95b0412c8dc9c035cd2d,Resonate : AddressLockProxy.sol,Resonate
+0x74bd7427c8424e71c2a92e23e4abe4aaecd299de,Resonate : Chainlink Oracle,Resonate
+0xe3890f1d7032f3be1924f65507355a3ff1f575cf,Resonate : Curve LP Oracle,Resonate
+0x00fd2c29cf3aa4880a4c05e7ca1382bf987b3495,Resonate : Dev Wallet,Resonate
+0xe999232e3edd607610fe16ee7aebadba92fec5de,Resonate : Governance Controller,Resonate
+0xc7faceb1307c98918a5d7ba050d291c59fb7492c,Resonate : Manual Oracle,Resonate
+0x3bf38b338c5c45ab8068827f3bf92cbca951b87f,Resonate : Metadata Handler.sol,Resonate
+0x8f74c989252b94fd2d08a668884d303d57c91422,Resonate : Output Receiver Proxy.sol,Resonate
+0x0f89ba3f140ea9370ab05d434b8e32fdf41a6093,Resonate : Price Provider.sol,Resonate
+0x80ca847618030bc3e26ad2c444fd007279daf50a,Resonate : Resonate.sol,Resonate
+0xedb07875051b26b56747e738efb3d7a271d9145e,Resonate : Sandwich Bot Proxy.sol,Resonate
+0x492cbb6217d34d68f0abb77a9d9781c8ccbfdfe8,Resonate : Smart Wallet Checker.sol,Resonate
+0x7420414672906d623238a3b25049e7af61385cf5,Resonate : UniswapV2 LP Oracle,Resonate
+0xebb1185f41a2347dd77b45e1f5e068f1e84f536a,Resonate: Helper.sol,Resonate

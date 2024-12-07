@@ -1,0 +1,654 @@
+Contract Address,Token Name,Website,Label
+0xd850942ef8811f2a866692a623011bde52a462c1,VeChain ((VEN)),https://www.vechain.org/,Old Contract
+0x3883f5e181fccaf8410fa61e12b59bad963fb645,Theta Token ((THETA)),https://www.thetatoken.org/,Old Contract
+0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab,IOSToken ((IOST)),https://iost.io/,Old Contract
+0xde2f7766c8bf14ca67193128535e5c7454f8387c,Metadium ((META)),https://www.metadium.com/,Old Contract
+0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814,Aurora DAO ((AURA)),https://auroradao.com/,Old Contract
+0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5,Kin ((KIN)),https://www.kin.org/,Old Contract
+0x0cf0ee63788a0849fe5297f3407f701e122cc023,Streamr (old) ((XDATA)),https://streamr.network/,Old Contract
+0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d,Aeternity ((AE)),https://www.aeternity.com/,Old Contract
+0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d,MATRIX AI Network ((MAN)),https://www.matrix.io/,Old Contract
+0x1985365e9f78359a9b6ad760e32412f4a445e862,Reputation ((REP)),https://www.augur.net/,Old Contract
+0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050,Tracer ((TCR)),https://tracer.finance/,Old Contract
+0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20,DuckDaoDime ((DDIM)),https://duckdao.io/,Old Contract
+0x2008e3057bd734e10ad13c9eae45ff132abc1722,Zebi Coin ((ZCO)),https://www.zebi.io/,Old Contract
+0xa110eeebc0751407bdcaea4cd230f04a2b82a33a,GoWithMi ((GMAT)),https://www.gowithmi.com/,Old Contract
+0xaaef88cea01475125522e117bfe45cf32044e238,GuildFi Token ((GF)),https://guildfi.com/,Old Contract
+0xdb8646f5b487b5dd979fac618350e85018f557d4,BitcoinToken ((BTK)),https://btk.community/,Old Contract
+0x1fc52f1abade452dd4674477d4711951700b3d27,NOKU ((NOKU)),https://www.noku.io,Old Contract
+0x1556a3ddb4fa2e9e8d6355380e4d22f9d32592cc,SCIENCE BLOCKCHAIN ((SCI)),,Old Contract
+0x53d428716900eae876ad1d7e4535e796b5faeda2,Zero Fee Xchange ((ZFE)),https://zerofeexchange.com/,Old Contract
+0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16,Shikage ((SHKG)),https://shikage.space/,Old Contract
+0x688478f003b8d0f10b8af2122bf20378555ef958,BolttCoin ((BOLTT)),https://bolttcoin.io/,Old Contract
+0xea3fb95c634deb377439394ac52e65141de378b2,SERENITY,,Old Contract
+0x833850be8858722cfc5e5e75f2fe6275e055d888,DecentraBNB ((DBNB)),https://decentrabnb.com/,Old Contract
+0x85e076361cc813a908ff672f9bad1541474402b2,Telcoin ((TEL)),https://www.telco.in/,Old Contract
+0xb68ce1e522556c05868658767b03955e996c1f56,MeconCash ((MCH)),http://www.meconcash.com/,Old Contract
+0x870ff0b9214ee330674dd143bc1836f8b11a627a,iOWN Token ((iOWN)),https://www.iowntoken.com/,Old Contract
+0xeb9951021698b42e4399f9cbb6267aa35f82d59d,Lif ((LIF)),http://windingtree.com,Old Contract
+0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec,Lympo ((LYM)),,Old Contract
+0x38ef3d08efc74857cc129e9e6026b0d4db9aada9,ExhibitToken ((EXIT)),,Old Contract
+0xa5289a3700f813adbd65df7484cc70a469a2a6ce,CREEnergy Refinery (Sisika) ((CRS)),https://www.creenergy.ca/,Old Contract
+0x292317a267adfb97d1b4e3ffd04f9da399cf973b,CREDITS ((CS)),,Old Contract
+0x8888880cd9c0a6a63c2d6514e1dfff10caa33db8,Sora Dog ((SORA)),https://soradog.xyz/,Old Contract
+0x5c543e7ae0a1104f78406c340e9c64fd9fce5170,vSlice ((VSL)),http://www.vslice.io/,Old Contract
+0x5be1ddca209772f8d7a8c58b28b397e4a496f1f9,Tweebaa ((TWEE)),https://tweebaa.com/,Old Contract
+0x51c77689a9c2e8ccbecd4ec9770a1fa5fa83eef1,IdleTUSD v3 [Max yield],https://idle.finance/,Old Contract
+0x5c7cbeede0dfeeed9373c76f309335ad52213edf,WUAOCOIN ((WUAO)),https://www.wuaocoin.com/,Old Contract
+0x123ab195dd38b1b40510d467a6a359b201af056f,LGO ((LGO)),https://lgo.group/lgo-token,Old Contract
+0x5a731151d6510eb475cc7a0072200cffc9a3bfe5,KingToken (($KING)),https://www.kingswap.io/,Old Contract
+0xfb54c2a6b2a4fc3af9b781585215da8ee6bce363,TigerCash ((TCH)),http://www.cointiger.com/,Old Contract
+0x6f371ca338bbddd0baf719e1d5d0797cce20774f,Ethereum Rush ((ETR)),https://ethereumrush.org/,Old Contract
+0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0,CosplayToken ((COT)),https://cot.curecos.com/,Old Contract
+0xf83e5f1ba4a36a4b02f056291dc529d4f2d3959a,SUAPP ((SUT)),https://suapp.org/,Old Contract
+0x601f16d1d60839dca26b0895b6a23774bca10719,Mystery Ghost Token ((MGT)),https://www.mysteryghosttoken.com/,Old Contract
+0x0914b7ae021c229b7a51ff936f8ffc8c81fbcea7,Virtual Rehab ((VRH)),https://www.virtualrehab.co/,Old Contract
+0x51bb3ab03ab49ec5cb3883705949657838a015fd,CRYNcoin ((CRYN)),https://www.cryncoin.io/,Old Contract
+0xd0513db39d87e8825389feb10bd911dc53b3a153,Fintropy ((FINT)),https://fintropy.io/,Old Contract
+0xac8c238be0c383c9592ffead981ccc23fcb2c990,UnochainNetwork ((UNON)),https://unochain.io/,Old Contract
+0xe05d803fa0c5832fa2262465290abb25d6c2bfa3,Synth sXAU ((sXAU)),,Old Contract
+0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e,Topinvestmentcoin ((TICO)),https://www.ticoex.io/,Old Contract
+0xcf8048b2d336c569a3985bd93cbb91b758ded178,IZE Fintech Blockchain ((IZE)),http://izeholdings.io/en/,Old Contract
+0x2bb33dcf5409cafc6262a7df7edd06211522a346,Novax ((NVX)),https://novaxcoin.com/,Old Contract
+0xf62dff6d13b8ac6f7707335b4d936a2ca5e16d04,Visor ((VISR)),https://www.visor.finance/,Old Contract
+0xd76b5c2a23ef78368d8e34288b5b65d616b746ae,Ether Token ((ETH)),https://bancor.network/,Old Contract
+0x5c6183d10a00cd747a6dbb5f658ad514383e9419,Nexxus ((NXX)),,Old Contract
+0x6a750d255416483bec1a31ca7050c6dac4263b57,Maximine Coin ((MXM)),https://maximine.io/,Old Contract
+0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15,Seigniorage Shares ((SHARE)),https://dollarprotocol.com/,Old Contract
+0xdf9d4674a430bdcc096a3a403128357ab36844ba,WadzPay ((WTK)),https://wadzpay.com/,Old Contract
+0x6750c97aa8a1b388ed560a06aefd64d457455ba7,Blocktix Token ((TIX)),,Old Contract
+0x91432f5e45a5e30f5e29fea0fd5ef5cb6b303440,HumanX ((HMX)),https://www.hmx.global/,Old Contract
+0x65292eeadf1426cd2df1c4793a3d7519f253913b,COSS ((COSS)),,Old Contract
+0xfb71ab03d371c43f5e2f3747e5f790370399e778,OREOCOIN ((OREO)),https://gooreo.com/,Old Contract
+0x32310f5cf83ba8ebb45cae9454e072a08850e057,AWG ((AWG)),https://aurus.io/,Old Contract
+0xa1c4d403ad39ab741626ce509eb80e3706b15d8d,AWX ((AWX)),https://aurus.io/,Old Contract
+0xe0c8087ce1a17bdd5d6c12eb52f8d7eff7791987,Linfinity ((LFT)),https://www.linfinity.io/,Old Contract
+0x4e005a760e00e17c4912a8070eec047cfecbabbb,NEXT.exchange ((NEXT)),https://next.exchange/,Old Contract
+0xb2733eba27537da9285e5cfb94acca0a3606f2d9,Cardino | t.me/CardinoCasino ((CINO)),https://cardinocasino.io/,Old Contract
+0xd6adcf63e8416edf64967c1a09a12cf56ee10e51,XBanking ((DEFI)),https://xbanking.org/,Old Contract
+0x5026f9ef7645b00570e99c42d5b320c01a898a43,WalletPlusX ((WPX)),https://wplus.io/,Old Contract
+0x3096ba3d90ebf5b5e7866edb492cad12e3c9e776,Psyche ((USD1)),https://psyche.cash/,Old Contract
+0xf45b14ddabf0f0e275e215b94dd24ae013a27f12,Synth sXTZ ((sXTZ)),,Old Contract
+0x86fff8610c0c054a7a196886942e53d9cf1aad94,LeadRex Token ((LDXT)),,Old Contract
+0xd235e29b1dd177cd74f2955d081204a6cd04515e,The Intelligent BTC Trading Set ((INTBTC)),https://www.tokensets.com/set/intbtc,Old Contract
+0xaf55f3b7dc65c8f9577cf00c8c5ca7b6e8cc4433,Enter-Coin ((ENTRC)),https://entercoin.net/,Old Contract
+0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed,Tokoin ((TOKO)),https://www.tokoin.io/,Old Contract
+0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22,DataBroker DAO Token ((DATA)),,Old Contract
+0x0cd022dde27169b20895e0e2b2b8a33b25e63579,EverRise ((RISE)),http://www.everrise.com/,Old Contract
+0x697bbedac86bb8f13cbe757aea95e75fb830a99d,Sonata Capital ((SONATA)),https://www.sonata.capital/,Old Contract
+0x5e3845a1d78db544613edbe43dc1ea497266d3b8,LNX Protocol ((LNX)),https://lnxprotocol.io/,Old Contract
+0x05d412ce18f24040bb3fa45cf2c69e506586d8e8,MFTU ((MFTU)),https://www.mftu.net,Old Contract
+0x88093840aad42d2621e1a452bf5d7076ff804d61,Soft Yearn Finance ((SYFI)),https://syfi.finance/,Old Contract
+0x5b5d8a8a732a3c73ff0fb6980880ef399ecaf72e,PROOF ((PF)),,Old Contract
+0x8eb38715604b938812dec25a0a1bc05b4becb9ca,Gric Coin ((GC)),https://agric.io/,Old Contract
+0x21efe20be784ac5da569f72070e64525f95ccab6,AZBI core ((AZBI)),https://azbi.io/,Old Contract
+0x5498c8ab3c04de12aba7fe46da31e6336e40dc98,Fusang Corp ((FSC)),https://www.fusang.co/invest-fsc,Old Contract
+0x178bf8fd04b47d2de3ef3f6b3d112106375ad584,unagii_Tether USD ((uUSDT)),https://unagii.com/,Old Contract
+0xd0b171eb0b0f2cbd35ccd97cdc5edc3ffe4871aa,MoedaLoyaltyPoints ((MDA)),,Old Contract
+0x1fe72034da777ef22533eaa6dd7cbe1d80be50fa,PayAccept ((PAY)),https://www.payaccept.net/,Old Contract
+0xd9db58c0cd8b93906ec87e353d6b1dbe19f3bfed,shuffle.monster token V2 ((SHUF)),https://shuffle.monster/,Old Contract
+0xd8fa690304d2b2824d918c0c7376e2823704557a,SquidGrow,http://squidgrow.com/,Old Contract
+0x5554e04e76533e1d14c52f05beef6c9d329e1e30,Autonio ((NIO)),https://auton.io/,Old Contract
+0xeef338c585ee3cf674f717937f12e6f52accf5e1,Jarvis Reward Token ((JRT)),,Old Contract
+0x3db6ba6ab6f95efed1a6e794cad492faaabf294d,LTO Network Token ((LTO)),http://ltonetwork.com,Old Contract
+0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac,BCAP ((BCAP)),,Old Contract
+0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a,Swarm Fund ((SWM)),https://www.swarm.fund/,Old Contract
+0x212dd60d4bf0da8372fe8116474602d429e5735f,Stobox Token ((STBU)),https://stobox.io/,Old Contract
+0x10f135ce102eee47dca8fe8e19dca6324dfbd684,CoinDaily ((CDY)),http://www.coindaily.io/,Old Contract
+0xc6ea98b258be9be21d88d6e501ae8728a8a09b35,Gimmer ((GMR)),,Old Contract
+0x66e6782411e0e4829bf9610980f9864cd085e1a1,Shibarium Token,https://shibarium.vip/,Old Contract
+0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468,StatusGenesis ((SGT)),https://status.im/,Old Contract
+0xd96f6687f1b86892e932d68a2d3130c41f0402f5,Flowchain ((FLC)),https://flowchain.co/,Old Contract
+0xf62dff6d13b8ac6f7707335b4d936a2ca5e16d04,Visor ((VISR)),https://www.visor.finance/,Old Contract
+0x10f135ce102eee47dca8fe8e19dca6324dfbd684,CoinDaily ((CDY)),http://www.coindaily.io/,Old Contract
+0x3096ba3d90ebf5b5e7866edb492cad12e3c9e776,Psyche ((USD1)),https://psyche.cash/,Old Contract
+0xba3a79d758f19efe588247388754b8e4d6edda81,VeriSafe ((VSF)),,Old Contract
+0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f,Remittance Token ((REMCO)),https://www.remittancetoken.io,Old Contract
+0x80af3f06aefb9f436981cb12b9da35c5da023efd,BTCUSDCTA,https://www.tokensets.com/set/btcusdcta,Old Contract
+0x8752bf7ad53d25a4165b9370f2becc22dd8ae838,BlockNoteX ((BNOX)),https://blocknote.gold/eng/bnox,Old Contract
+0x138e326c28114f65202b4ed82a1eecdf81451e09,Exclusive Platform ((XPL)),https://exclusiveplatform.com/,Old Contract
+0xb39d10435d7d0f2ea26a1c86c42be0fd8a94f59b,CryptoTittes ((CT)),,Old Contract
+0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1,Melon ((MLN)),,Old Contract
+0x178bf8fd04b47d2de3ef3f6b3d112106375ad584,unagii_Tether USD ((uUSDT)),https://unagii.com/,Old Contract
+0x5a731151d6510eb475cc7a0072200cffc9a3bfe5,KingToken (($KING)),https://www.kingswap.io/,Old Contract
+0xf3bcace04ecc0e23dc0133d239c61c6bd47ef408,TOKPIE ((TKP)),https://tokpie.io/,Old Contract
+0xab16e0d25c06cb376259cc18c1de4aca57605589,FinallyUsableCryptoKarma ((FUCK)),,Old Contract
+0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16,Shikage ((SHKG)),https://shikage.space/,Old Contract
+0xcf20dfb8b66fcfb4a1dfcc00f45cfb3c6d852996,KappiNetwork ((KAPPN)),https://kappi.network/,Old Contract
+0xa7b87611a9577cb8ad3f9b1e85e7884933603405,ESAX Token ((ESAX)),https://esax.tech/,Old Contract
+0x1b793e49237758dbd8b752afc9eb4b329d5da016,ViteToken ((VITE)),https://www.vite.org/,Old Contract
+0xfb54c2a6b2a4fc3af9b781585215da8ee6bce363,TigerCash ((TCH)),http://www.cointiger.com/,Old Contract
+0xcac383e4b00bd616c15ef0fdfd25623d5035a2e3,Speed Shopper Token ((SSTX)),https://www.speedshopper.io/sstx_ico/,Old Contract
+0x9a6aa7d170ecd757b6993e6eaf42190edc7dbaf4,Barter ((BRTR)),http://barter.company/,Old Contract
+0xca64ea7d78c793a224ba4c82aa39cf17b95827bf,Reborn dollar ((REBD)),http://reborn.foundation/,Old Contract
+0xbc5eae92e95adca735edd3783cc2acda8023dad4,MEXC Token ((MEXC)),https://mexc.life/,Old Contract
+0x49a1cbb5d28cdedd55b7daa627f658fbd8cf1d23,ETERBASE ((XBASE)),https://www.eterbase.com/,Old Contract
+0x041a36b015486941ce8d5f2c7ff2e88f97390640,Ledgis ((LED)),https://www.ledgis.io/,Old Contract
+0x78a52e12c7b63d05c12f9608307587cf654ec3d0,Crypto Village Accelerator ((CVA)),,Old Contract
+0x1c289a12a8552b314d0d153d6991fd27a54aa640,BitMax token ((BTMX)),https://bitmax.io/,Old Contract
+0x7c8f07ac5b0a2876ee582a661d53de2d0bbad96f,Synth iBNB ((iBNB)),,Old Contract
+0x694c68c7577a9a6a8cf2f6da0066790201afc260,OWL Token ((OWL)),,Old Contract
+0x36324b8168f960a12a8fd01406c9c78143d41380,ySUSD ((ySUSD)),https://yearn.fi/,Old Contract
+0x2ab22d3f1205b9f523ebe80ae2853f7644830760,CraftR ((CRAFTR)),https://craftr.io/,Old Contract
+0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8,BaaSid ((BAAS)),https://www.baasid.com/,Old Contract
+0xc03841b5135600312707d39eb2af0d2ad5d51a91,BasketCoin ((BSKT)),https://basketcoin.io/,Old Contract
+0xfac7bea255a6990f749363002136af6556b31e04,Ethereum Name Service ((ENS)),https://ens.domains/,Old Contract
+0xbd6467a31899590474ce1e84f70594c53d628e46,KardiaChain Token ((KAI)),https://kardiachain.io/,Old Contract
+0x919362f32f37364ccd6972aac8b889d918dc59be,MEDOOZA Ecosystem v1.1 ((MDZA)),https://medooza.io/,Old Contract
+0xe7d269c682d4693a0fa5b1d419bc3c860890c22f,Fightbackcoin Token ((FBC)),https://fightbackcoin.com/,Old Contract
+0xd996035db82cae33ba1f16fdf23b816e5e9faabb,BNS Token ((BNS)),https://bitbns.com/,Old Contract
+0x3bb90142552dd38cd0f8e81ad758182cacaa7a92,iChain LP ((ICLP)),https://icechain.io/,Old Contract
+0x4d67edef87a5ff910954899f4e5a0aaf107afd42,BlueSparrowToken,https://bluesparrowtoken.com/,Old Contract
+0x7b8d9e95caa85d7905c3435da1ba9fa7f79bf4fa,The Intelligent ETH Trading Set ((INTETH)),https://www.tokensets.com/set/inteth,Old Contract
+0x5498c8ab3c04de12aba7fe46da31e6336e40dc98,Fusang Corp ((FSC)),https://www.fusang.co/invest-fsc,Old Contract
+0x111111f7e9b1fe072ade438f77e1ce861c7ee4e3,Consumer Activity Token ((CAT)),,Old Contract
+0xea3fb95c634deb377439394ac52e65141de378b2,SERENITY,,Old Contract
+0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750,Bytom ((BTM)),https://bytom.io/,Old Contract
+0x29428639d889fa989405ee9baf3ba088e6994edc,$BASED (($BASED)),https://based.money/,Old Contract
+0xd0b171eb0b0f2cbd35ccd97cdc5edc3ffe4871aa,MoedaLoyaltyPoints ((MDA)),,Old Contract
+0xd178b20c6007572bd1fd01d205cc20d32b4a6015,aidus ((AID)),https://aidus.io/,Old Contract
+0xeadd9b69f96140283f9ff75da5fd33bcf54e6296,Crypto Carbon Energy ((CYCE)),https://cycecoin.com/,Old Contract
+0xd1a616cd3bd9db97639ec484d843d37f2caa3035,AgroLyte Token ((AGR)),https://agrolyte.com,Old Contract
+0xf45f0e16b5e096286e1fb463d34be9f3df5e3602,BitMax token ((BTMX)),https://bitmax.io/,Old Contract
+0xd5dad1db7f112037c0c6cf0792dc2a7866bfd136,Ethereum Meta ((ETHM)),https://ethermeta.com/,Old Contract
+0xcde3ef6cacf84ad36d8a6eccc964f25351296d36,BitcoinGalaxy ((BTCG)),https://www.bitcoingalaxy.io/,Old Contract
+0xff44e1835de192e59eb019fc413995ef1a9f32c9,Diagon ((DGN)),https://ico.diagon.io/,Old Contract
+0xabe580e7ee158da464b51ee1a83ac0289622e6be,Offshift ((XFT)),https://offshift.io/,Old Contract
+0x86fff8610c0c054a7a196886942e53d9cf1aad94,LeadRex Token ((LDXT)),,Old Contract
+0xf6276830c265a779a2225b9d2fcbab790cbeb92b,XCELTOKEN ((XCEL)),https://xceltoken.com/,Old Contract
+0xaf4421f0d43c5c1d54380736e3f738b159417744,USDG ((USDG)),https://www.acashcorp.com/,Old Contract
+0x92e78dae1315067a8819efd6dca432de9dcde2e9,Veros ((VRS)),http://vedh.io/,Old Contract
+0xefe9708dff609bde726b0efd6a731a78dc23a13b,DeepCloud ((DEEP)),https://www.deepcloudai.com/,Old Contract
+0x7a3c45f34ea5df6fe5f6af710ec8a04d388a71d1,PANDO COIN ((PANDO)),https://pandobrowser.com/,Old Contract
+0xdf6e5f56a3e862af41ba4833c9626318e9bbe1a2,YFZ Finance ((YFZ)),,Old Contract
+0x8f29f76986b4dd9f2a0a79c45792fece2fabef21,CORNELLA,https://cornella.vip/,Old Contract
+0xb0514a5b4aa58ac6e954f537598dd42a71916581,HUMToken ((HUM)),https://humanscape.io/,Old Contract
+0x559e848a1b6a7afc69ee27f8d20280a42628b2cf,Synth sJPY ((sJPY)),,Old Contract
+0xa25d01d15fc0e3cdede1bebee4124394aae0db33,Follow Coin ((FLLW)),https://followcoin.io/,Old Contract
+0x29ac3094e01ebd60dab99f4746e04ae0fe013a95,VENT ((VENT)),https://ventmode.io/,Old Contract
+0x0b76544f6c413a555f309bf76260d1e02377c02a,Internet Node Token ((INT)),https://intchain.io/,Old Contract
+0xeb70bbf15fd1c0542896a80f2af90c8fd40a9ec5,InnovativeBioresearchCoin ((INNBC)),https://www.innovativebioresearch.com/,Old Contract
+0x2bb33dcf5409cafc6262a7df7edd06211522a346,Novax ((NVX)),https://novaxcoin.com/,Old Contract
+0x38ef3d08efc74857cc129e9e6026b0d4db9aada9,ExhibitToken ((EXIT)),,Old Contract
+0xbd168cbf9d3a375b38dc51a202b5e8a4e52069ed,BlueWhaleToken ((BWX)),,Old Contract
+0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097,Realio Network ((RIO)),https://realio.network/,Old Contract
+0x5c6183d10a00cd747a6dbb5f658ad514383e9419,Nexxus ((NXX)),,Old Contract
+0xfe2786d7d1ccab8b015f6ef7392f67d778f8d8d7,Parsiq Token ((PRQ)),http://www.parsiq.io/,Old Contract
+0xa7bff17268a909aa807b2ebeb63abbf1b452f0a6,R1C4RD0 ((R1C)),https://r1c4rd0.io/,Old Contract
+0xa59b009cd174710d9c79b5b1fe38d7347717cf4e,HolyToken ((HOLY)),https://holyheld.com/,Old Contract
+0x4fe6ea636abe664e0268af373a10ca3621a0b95b,Ethbits ((ETB)),,Old Contract
+0x292317a267adfb97d1b4e3ffd04f9da399cf973b,CREDITS ((CS)),,Old Contract
+0x985dd3d42de1e256d09e1c10f112bccb8015ad41,OceanToken ((OCEAN)),https://oceanprotocol.com/,Old Contract
+0xa5c807a62cd6774d6bf518dd2dec0ae17446ad8d,SoulZ Monogatari ((SLZM)),http://www.SoulZ.xyz,Old Contract
+0x9e1ea347c63818763256abd9c8df3e77be473de8,MetalStream ((MTLSTR)),https://www.metalstream.io/,Old Contract
+0x044727e50ff30db57fad06ff4f5846eab5ea52a2,Kitty Inu ((kitty)),http://kittyinu.com/,Old Contract
+0xad7615b0524849918aee77e6c2285dd7e8468650,Robocalls ((RCALLS)),,Old Contract
+0xaacc1c5af6d46a374428beaecf90948ec5322ea3,1irst ((FST)),https://1irstcoin.com/,Old Contract
+0x7d4e35a2090b3ba805ddb39b2c4b83612890df87,POW NFT ((POW)),https://www.pownft.com/,Old Contract
+0xd62d7520dd1da1a21240e3ee5e72b8fdcfba7d25,ZBX Token ((XT)),https://zbx.com/,Old Contract
+0xba8c0244fbdeb10f19f6738750daeedf7a5081eb,Suterusu ((Suter)),,Old Contract
+0x0914b7ae021c229b7a51ff936f8ffc8c81fbcea7,Virtual Rehab ((VRH)),https://www.virtualrehab.co/,Old Contract
+0xe59064a8185ed1fca1d17999621efedfab4425c9,PrimeDAO Token ((PRIME)),https://primedao.eth.link/#/,Old Contract
+0xf2ef3551c1945a7218fc4ec0a75c9ecfdf012a4f,CAGE ((C4G3)),https://cag3.io/,Old Contract
+0xd9c6d58ec4b6045067190042999351889fd27eb7,ETHUSDCTA,https://www.tokensets.com/set/ethusdcta,Old Contract
+0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea,ERC20 ((ERC20)),https://erc20.tech/,Old Contract
+0xd3172862ff028cc42660576a0a36cfbc94b50eec,SynchroBitCoin ((SNB)),https://snbtoken.io/,Old Contract
+0x10010054c81c8c01951e6a631dd228bb02d8d1e5,Hundred Finance ((HND)),https://hundred.finance/,Old Contract
+0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5,VIU ((VIU)),,Old Contract
+0x835a44027ee4e92bbd8874e5ede9e5148b069e96,PROTOS ((PRTS)),http://protosmanagement.com/,Old Contract
+0x960b236a07cf122663c4303350609a66a7b288c0,Aragon ((ANT)),https://aragon.org/,Old Contract
+0x704b5267fae30c40fd0a4b14d83e414b4a920afa,fecore.finance ((FECORE)),https://fecore.finance/,Old Contract
+0x8041cf5c01ac5b3d4557410df2bf1ae054472ccf,SparkPoint ((SPRK)),https://www.sparkpoint.io/,Old Contract
+0x20b1a8a9ca1c7302b7f774266c491c7b11622779,ARCS ((ARX)),https://www.arcs-chain.com/,Old Contract
+0xeb58cbc02fa1eb966e8d27e90559a00c518e4234,Verse ((VERSE)),https://aidiinu.finance/,Old Contract
+0xefbdd2ca166b193075efe8530a612c5daa10012a,KickCoin ((KC)),https://www.kickico.com/,Old Contract
+0x8bbf4dd0f11b3a535660fd7fcb7158daebd3a17e,ETHGAS ((EGAS)),,Old Contract
+0xe5556ab0d831454cefbb986201bf9daa0eec52a1,AZBI FUNCTION FARM ((AZFF)),https://azbi.io/,Old Contract
+0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac,Volt Inu ((VOLT)),https://voltinu.in/,Old Contract
+0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd,Fetch ((FET)),https://fetch.ai/,Old Contract
+0xa0872ee815b8dd0f6937386fd77134720d953581,EduCoinToken ((EDU)),,Old Contract
+0xe33a35fd5cad21ce72ebbc8a2885bdd0983de043,WBTC USDC RSI Set,https://www.tokensets.com/set/btcusdcrsi,Old Contract
+0x3aca71c508e06dc6b2758dab6eb20f7654572fb7,DREP ((DREP)),https://www.drep.org,Old Contract
+0x2bb33dcf5409cafc6262a7df7edd06211522a346,Novax ((NVX)),https://novaxcoin.com/,Old Contract
+0x2e22dce89b364869a9f60ed488e39559c8eb58e1,CONUN ((CON)),https://conun.io/,Old Contract
+0x62195cfda73f99e1bff4881fdcfbf5c9576d3c88,lexDAO ((LEX)),https://lexdao.club/,Old Contract
+0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a,DFT ((DFT)),https://www.digifinex.com/,Old Contract
+0x0944d2c41fef3088467287e208e5bbb622a0c09c,Synth sTRX ((sTRX)),,Old Contract
+0x06b05ce580df7ae8cbba7e12438428e4e34e61d7,MARKET Protocol Token ((MKT)),,Old Contract
+0xe35b998e650d7dbc5b4204fcf9aff12f63aec1f0,Bitpara TRY ((BTRY)),https://www.bitpara.com/,Old Contract
+0x73eacaa09d400eecd10b87784fd29d024505da3b,1Planet Token ((1PL)),,Old Contract
+0x78751b12da02728f467a44eac40f5cbc16bd7934,IdleDAI v3 [Max yield],https://idle.finance/,Old Contract
+0x956db12ba768a65c3f2383c0fa1b52e29b9bb86d,D3V1L69,https://d3v1l.io/,Old Contract
+0xd62e9252f1615f5c1133f060cf091acb4b0faa2b,NovaLend ((NLC)),https://novalend.co/,Old Contract
+0xde14b266ed4280ed320ca022bcfcc15df7a05d95,Canamex Silver ((CXSLV)),https://www.canamexgold.com/,Old Contract
+0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787,PAID Network ((PAID)),https://paidnetwork.com/,Old Contract
+0x1f6321308df0f437133d2c083f6583b2fcf8125b,ETH Trending Alpha ST ((ETAS)),https://www.tokensets.com/set/etas,Old Contract
+0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376,unagii_Dai Stablecoin ((uDAI)),https://unagii.com/,Old Contract
+0x728781e75735dc0962df3a51d7ef47e798a7107e,Wolk Protocol Token ((WOLK)),,Old Contract
+0xc6ea98b258be9be21d88d6e501ae8728a8a09b35,Gimmer ((GMR)),,Old Contract
+0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a,Substratum ((SUB)),https://substratum.net/,Old Contract
+0x22ef8b5919e9985ff1ffba627ef7ee1e4b4b0e86,Xfinance ((XFI)),https://xfinance.io/,Old Contract
+0xf150ec99e2f53672fd2fcd12b47797024f4a1902,LasMeta ((LASM)),https://lasmeta.io/,Old Contract
+0x807b9487aaf00629b674bd6d02e4917453bc5939,Ethbits ((ETB)),,Old Contract
+0xf51494955a43c23e34d83c1c5f1305b652fe0bca,CYBR Token ((CYBR)),https://cybrtoken.io/,Old Contract
+0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b,Grumpy Cat ((GRUMPY)),https://grumpy.finance/,Old Contract
+0xaaf7d4cd097317d68174215395eb02c2cca81e31,electrumdark ((ELD)),https://electrumdark.com/,Old Contract
+0xf27c8a87bcf259f8b02f62b969a8404d15054d0e,among.finance ((AMONG)),https://among.finance/,Old Contract
+0x47dd62d4d075dead71d0e00299fc56a2d747bebb,EQUAL ((EQL)),https://equal.tech/,Old Contract
+0x5e8f855966d638135a968861e80dda722291b06d,Coinvest COIN V2 Token ((COIN)),,Old Contract
+0x274c5236276422330060aa95caded86da0a297c2,Folgory Coin ((FLG)),https://folgory.com/,Old Contract
+0x0d395b3ae53865a5b12364d6a227a82620328aae,Okschain Token ((OKS)),https://okschain.com/,Old Contract
+0x786001c9c5ca6e502deb8a8a72480d2147891f32,BetProtocolToken ((BEPRO)),https://www.betprotocol.com/,Old Contract
+0x5498c8ab3c04de12aba7fe46da31e6336e40dc98,Fusang Corp ((FSC)),https://www.fusang.co/invest-fsc,Old Contract
+0x1c83501478f1320977047008496dacbd60bb15ef,DigitexFutures ((DGTX)),https://digitexfutures.com/,Old Contract
+0x3a1343a3ca3c32a69b79ae82e8a9a71c1293c566,Onyx S&amp;P 500 ((OSPV)),https://onyx.to/,Old Contract
+0xe77ec1bf3a5c95bfe3be7bdbacfe3ac1c7e454cd,MINER ((MINER)),https://miner.build/,Old Contract
+0xe9a9d1101204b51e8620a28e471f44bb8775e50d,SWTCoin ((SWAT)),http://www.swatcoin.network/,Old Contract
+0x6e5709515c767c907e43a03388cc816bd65e797c,Synth sXAG ((sXAG)),,Old Contract
+0x8c65e992297d5f092a756def24f4781a280198ff,GazeCoin ((GZE)),https://www.gazecoin.io/,Old Contract
+0xf230b790e05390fc8295f4d3f60332c93bed42e2,Tronix ((TRX)),https://tron.network/,Old Contract
+0x6251583e7d997df3604bc73b9779196e94a090ce,Hercules ((HERC)),https://herc.one/,Old Contract
+0xc011a72400e58ecd99ee497cf89e3775d4bd732f,Synthetix Network Token ((SNX)),https://www.synthetix.io/,Old Contract
+0x7b0c06043468469967dba22d1af33d77d44056c8,Morpheus.Network ((MRPH)),https://morpheus.network,Old Contract
+0x28d3e409bb9bc58f1ca6e009f8fc78a1db85e6b7,Gem Exchange and Trading ((GXT)),https://www.gxtglobal.com/,Old Contract
+0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38,UTRUST ((UTK)),https://utrust.com/,Old Contract
+0xc63e7b1dece63a77ed7e4aeef5efb3b05c81438d,FUCKtoken ((FUCK)),,Old Contract
+0xd639c50ae803ae2f2b1d536d3b57ab41cbb624f3,Permian ((XPR)),https://www.permian.io/,Old Contract
+0x0fd3822072ad001aac1c90a09d9506f097f24458,NOA ((NOA)),https://metanoa.io/,Old Contract
+0x0f67e5f815eb6665cfde792662790e02f21d43e4,BlingFinance ((BLING)),https://fantasygold.io/,Old Contract
+0x9f801c1f02af03cc240546dadef8e56cd46ea2e9,VAIOT Token ((VAI)),https://vaiot.ai/en,Old Contract
+0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a,KaratBank Coin ((KBC)),https://karatgold.io/,Old Contract
+0xb94c53b0e67fabac3d97173482663ef597d4174a,Old Giveth Token ((GTH)),https://giveth.io/,Old Contract
+0xb5a73f5fc8bbdbce59bfd01ca8d35062e0dad801,Perlin ((PERL)),http://perlin.net/,Old Contract
+0xf6caa4bebd8fab8489bc4708344d9634315c4340,BLACK DIA COIN ((BDA)),http://en.bdacoin.org/,Old Contract
+0x0c9718a4b2f467dbcc9a71a442d715a2e6889e4c,ELyX ((ELyX)),http://elynet.io/,Old Contract
+0xc0ea6306f6360fe7dcab65d16bf1a3af92c79aa2,GANA ((GANA)),https://ganacoin.io/,Old Contract
+0xa1a6f16d26aa53aec17e4001fd8cb6e6d5b17ff7,1irst ((FST)),https://1irstcoin.com/,Old Contract
+0x57ab1e02fee23774580c119740129eac7081e9d3,Synth sUSD ((sUSD)),https://www.synthetix.io/,Old Contract
+0x5c743a35e903f6c584514ec617acee0611cf44f3,Experty ((EXY)),https://experty.io/en,Old Contract
+0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847,tBTC ((TBTC)),https://tbtc.network/,Old Contract
+0xec8b363164cf453bdaadfad4094b566dada41f4d,Cryptonity ((XNY)),https://cryptonity.io/,Old Contract
+0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee,GMB ((GMB)),https://gamb.io/,Old Contract
+0xdc5bbcf8189a69337f693a9f3f63ae37789ede92,TrustlessState Set ((TLS)),https://www.tokensets.com/set/tls,Old Contract
+0x92cfbec26c206c90aee3b7c66a9ae673754fab7e,OpenLeverage ((OLE)),https://openleverage.finance/,Old Contract
+0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c,Fountain 2 ((FTN)),https://fountainhub.com/en/index.html,Old Contract
+0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,bZx Protocol Token ((BZRX)),https://bzx.network/,Old Contract
+0x9279a5f436fc99ea2415a503671c099867c1b961,Adult X Token ((ADUX)),,Old Contract
+0xfc858154c0b2c4a3323046fb505811f110ebda57,NOIA Token ((NOIA)),https://noia.network/,Old Contract
+0x32b87fb81674aa79214e51ae42d571136e29d385,CyberFM ((CYFM)),https://www.cyber-fm.com/,Old Contract
+0xcbeabd17c4545e6ae5a3b40d49c8c1b896688d85,Ubricoin ((UBN)),https://ubricoin.ubrica.com/,Old Contract
+0x418c24191ae947a78c99fdc0e45a1f96afb254be,UERII ((UERII)),https://www.uerii.com/,Old Contract
+0xa76942d04cfbbb7a3f20687ac1d11d150185f38d,Bitazza ((BTZ)),https://bitazza.com/,Old Contract
+0xd8fa690304d2b2824d918c0c7376e2823704557a,SquidGrow,http://squidgrow.com/,Old Contract
+0xfbf8e2727dc3d986069c19b13d41e34d3601a0b8,Blockchain Labs Asia ((BLABS)),https://www.blabs.asia/,Old Contract
+0xb16e967ff83de3f1e9fceafbc2c28c1c5c56ef91,Polkadog ((PDOG)),https://polkadog.io/,Old Contract
+0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7,Lendefi Token ((LDFI)),https://lendefi.io/,Old Contract
+0xb39d10435d7d0f2ea26a1c86c42be0fd8a94f59b,CryptoTittes ((CT)),,Old Contract
+0x2da22bea3c346038626bb1775c8f1e7d98d20607,Jincor Token ((JCR)),,Old Contract
+0x5824f275dab2c59b8972a1fda45ff404c9a703e3,EQUAL ((EQL)),,Old Contract
+0x31bb711de2e457066c6281f231fb473fc5c2afd3,Vether ((VETH)),https://vetherasset.org/,Old Contract
+0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f,Remittance Token ((REMCO)),https://www.remittancetoken.io,Old Contract
+0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c,COSS ((COSS)),https://coss.io/,Old Contract
+0x6ea6531b603f270d23d9edd2d8279135dc5d6773,InsurChain Coin ((INSUR)),,Old Contract
+0x2fd61567c29e7adb4ca17e60e1f4a3fcfe68acb8,SymVerse ((SYM)),https://www.symverse.com/,Old Contract
+0x02ba9b528425f9de08f961b88a10b03be8b8b998,MASQ ((MASQ)),https://www.masq.ai/,Old Contract
+0x17280da053596e097604839c61a2ef5efb7d493f,Jobchain ((JOB)),https://jobchain.com/,Old Contract
+0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f,DLP Duck Token ((DUCK)),https://duckdao.io,Old Contract
+0x3839d8ba312751aa0248fed6a8bacb84308e20ed,Bezop ((Bez)),https://bezop.io/,Old Contract
+0xe7d269c682d4693a0fa5b1d419bc3c860890c22f,Fightbackcoin Token ((FBC)),https://fightbackcoin.com/,Old Contract
+0xf45b14ddabf0f0e275e215b94dd24ae013a27f12,Synth sXTZ ((sXTZ)),,Old Contract
+0x90017be7948eb595a331461e07744e4a66b6f28b,AmongUs.Finance ((AUF)),https://amongus.finance/,Old Contract
+0x2b4dd5851da6e7ea0bc2d2c814c229abecf5dc80,MOBU token ((MOBU)),https://mobu.io/,Old Contract
+0x010cecff28d506230f1e83d3983e1684fa1343ac,Reborn dollar ((REBD)),http://reborn.foundation/,Old Contract
+0xedf66033e74cd7734316c4cb5aeaa2e8f7f620c8,Opu Coin ((OPU)),,Old Contract
+0x77599d2c6db170224243e255e6669280f11f1473,Opacity ((OPQ)),https://www.opacity.io/,Old Contract
+0xaaa4eb35d08dbb9b1b8760cb9ffe77b9023d7511,ETH Trending Alpha Set ((ETA)),https://www.tokensets.com/set/eta,Old Contract
+0x9aca6abfe63a5ae0dc6258cefb65207ec990aa4d,DigiPulse ((DGT)),,Old Contract
+0xff73c2999e093300330e760d45ef4c6239898eef,Glass Apple Estate ((APR)),https://exchange.greyzdorf.io/listed/apr,Old Contract
+0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa,ThoreCoin ((THR)),http://www.thorecoin.com/,Old Contract
+0xec38b0f0128a6e56e717855299ed97c9e3bb1845,TokenBot ((BOT)),https://tokenbot.com/,Old Contract
+0xefbdd2ca166b193075efe8530a612c5daa10012a,KickCoin ((KC)),https://www.kickico.com/,Old Contract
+0x32b87fb81674aa79214e51ae42d571136e29d385,CyberFM ((CYFM)),https://www.cyber-fm.com/,Old Contract
+0x85558055812f19eb084b8ba327470e84ad795b11,InnovativeBioresearchCoin ((INNBC)),,Old Contract
+0x65292eeadf1426cd2df1c4793a3d7519f253913b,COSS ((COSS)),,Old Contract
+0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2,Webflix Token ((WFX)),http://www.webflix.io/,Old Contract
+0x41c028a4c1f461ebfc3af91619b240004ebad216,TacoToken ((TACO)),https://www.tacoswap.io/,Old Contract
+0xb07ec2c28834b889b1ce527ca0f19364cd38935c,Cardstack ((CARD)),,Old Contract
+0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22,DataBroker DAO Token ((DATA)),,Old Contract
+0x8f9bfe5b6a5c3fea8c64ad41a5cf6f60ec4aa47c,SWAPCOINZ ((SPAZ)),https://swapcoinz.io/,Old Contract
+0x316b13b951efe25aad1cb565385b23869a7d4c48,ETH 26 EMA Crossover Yield,https://www.tokensets.com/set/ethemaapy,Old Contract
+0x4e005a760e00e17c4912a8070eec047cfecbabbb,NEXT.exchange ((NEXT)),https://next.exchange/,Old Contract
+0xb9d6ce05a2cdbc4572bafbef179cd37bdaabe942,xCrypt ((XCT)),https://www.xcrypt.club/,Old Contract
+0x41c37a4683d6a05adb31c39d71348a8403b13ca9,Chain ((CHN)),https://chain.com/,Old Contract
+0xb250382d6a8b5e366236af688a22e0036c4d63a9,SHIFT TOKEN ((SHIFT)),www.shift-token.com,Old Contract
+0x9cec335cf6922eeb5a563c871d1f09f2cf264230,Autonio ((NIOX)),https://www.autonio.foundation/,Old Contract
+0xed30dd7e50edf3581ad970efc5d9379ce2614adb,ARC Governance Token ((ARCX)),https://arcx.money/,Old Contract
+0x0a60f309a967b327f5d5a007cbd66fc786058395,MPAY ((MPAY)),,Old Contract
+0xe05d803fa0c5832fa2262465290abb25d6c2bfa3,Synth sXAU ((sXAU)),,Old Contract
+0x96d8fbf95f72f5abe9ef04f1ade94e1ba79be508,itCoin® Black ((ITC)),https://www.giftz.com/,Old Contract
+0x8eb38715604b938812dec25a0a1bc05b4becb9ca,Gric Coin ((GC)),https://agric.io/,Old Contract
+0xf230b790e05390fc8295f4d3f60332c93bed42e2,Tronix ((TRX)),https://tron.network/,Old Contract
+0x3156c455e3ba7979fb132ad62886d78850717068,ONE ARMY COIN ((OAC)),https://www.onearmy.earth/,Old Contract
+0xb4c0913f28a1d8931a49a2328d6374e0f2c2308c,,https://www.nthchain.io/,Old Contract
+0xef68e7c694f40c8202821edf525de3782458639f,Loopring ((LRC)),https://loopring.org/,Old Contract
+0xebe499ae537484f182b48ec9d8f72ae5a293f366,SUAPP ((SUP)),https://suapp.org/,Old Contract
+0x728781e75735dc0962df3a51d7ef47e798a7107e,Wolk Protocol Token ((WOLK)),,Old Contract
+0xa1a6f16d26aa53aec17e4001fd8cb6e6d5b17ff7,1irst ((FST)),https://1irstcoin.com/,Old Contract
+0xc94aa079c114d02c484dd55256d854d71feeca70,CryptoNode ((CNODE)),https://www.cryptonode.me/,Old Contract
+0x59d8c5a3e2d25a550e294d82dfb2a3128d324bbc,Brickblock ((BBK)),,Old Contract
+0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847,tBTC ((TBTC)),https://tbtc.network/,Old Contract
+0xbd6467a31899590474ce1e84f70594c53d628e46,KardiaChain Token ((KAI)),https://kardiachain.io/,Old Contract
+0xe33a35fd5cad21ce72ebbc8a2885bdd0983de043,WBTC USDC RSI Set,https://www.tokensets.com/set/btcusdcrsi,Old Contract
+0xad6250f0bd49f7a1eb11063af2ce9f25b9597b0f,OpenEden T-Bills ((TBILL)),https://app.openeden.com/,Old Contract
+0xec7180a95b5533093d5c1795224797b42b578a94,War Riders Gun ((WRG)),https://warriders.com/,Old Contract
+0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4,Zloadr ((ZDR)),http://www.zloadr.com/,Old Contract
+0xb16d3ed603d62b125c6bd45519eda40829549489,Insureum Token ((ISR)),https://insureum.co/,Old Contract
+0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b,Grumpy Cat ((GRUMPY)),https://grumpy.finance/,Old Contract
+0xed354cae598148846aa9694254c854fc7051163c,Shido ((SHIDO)),https://shido.io/,Old Contract
+0x0675daa94725a528b05a3a88635c03ea964bfa7e,Taklimakan ((TKLN)),https://taklimakan.io/,Old Contract
+0xc4bcd64cb216d49fd3c643a32762f34626b45a1a,CosmoCoin ((COSM)),https://cosmochain.io/,Old Contract
+0x22a7d3c296692ba0f91c631b41bdfbc702885619,CanYaCoin ((CAN)),,Old Contract
+0xa76942d04cfbbb7a3f20687ac1d11d150185f38d,Bitazza ((BTZ)),https://bitazza.com/,Old Contract
+0xdf6e5f56a3e862af41ba4833c9626318e9bbe1a2,YFZ Finance ((YFZ)),,Old Contract
+0xc0134b5b924c2fca106efb33c45446c466fbe03e,aleph.im ((ALEPH)),https://aleph.im/#/,Old Contract
+0x274c5236276422330060aa95caded86da0a297c2,Folgory Coin ((FLG)),https://folgory.com/,Old Contract
+0x0fd3822072ad001aac1c90a09d9506f097f24458,NOA ((NOA)),https://metanoa.io/,Old Contract
+0x2091aca1bf97359c62d4a5af2420a0f88303f39e,Aligator Finance,https://aligator.finance/,Old Contract
+0x377ca3bbeaba02e1ce0a265bcf43e81c6b913051,Contracoin ((CTCN)),https://contracoin.network/,Old Contract
+0xcd91f9ba7209a3b9efd453bb80492ad892edf5c2,STOREDIG ((SDIG)),https://storedig.shop/,Old Contract
+0xa60e0df948708764f5397e556973a520db378598,Panaroma Token ((PANA)),https://panaroma.finance/,Old Contract
+0x92e78dae1315067a8819efd6dca432de9dcde2e9,Veros ((VRS)),http://vedh.io/,Old Contract
+0x378903a03fb2c3ac76bb52773e3ce11340377a32,Clipper Coin Capital ((CCCX)),http://clippercoin.com/en/pc_index.html,Old Contract
+0x180c288c2151200ad37d150308346b1be421d32c,MOVE ((MOVE)),,Old Contract
+0x0cbc9b02b8628ae08688b5cc8134dc09e36c443b,Tratok ((TRAT)),http://tratok.com/,Old Contract
+0x925b8c327d0065827977d08f8009dba33ad9f450,Boleno ((BLN)),,Old Contract
+0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a,KaratBank Coin ((KBC)),https://karatgold.io/,Old Contract
+0x912b38134f395d1bfab4c6f9db632c31667acf98,DeFi Bids ((BIDS)),https://defibids.com/,Old Contract
+0xae5652ea226bfae00b8d542e58231362af836fda,STeX.Exchange ((STE)),,Old Contract
+0x601f16d1d60839dca26b0895b6a23774bca10719,Mystery Ghost Token ((MGT)),https://www.mysteryghosttoken.com/,Old Contract
+0x1556a3ddb4fa2e9e8d6355380e4d22f9d32592cc,SCIENCE BLOCKCHAIN ((SCI)),,Old Contract
+0x35f06858577b526a9351c6d42c89748281b6fe30,COSS Exchange Liquidity Token ((CELT)),,Old Contract
+0x31d1244177bdd492cd18d889853c0aa05ab1ea06,MarketPeak ((PEAK)),https://marketpeak.com/,Old Contract
+0xd6f279b7ccbcd70f8be439d25b9df93aeb60ec55,IdleWBTC v3 [Max yield],https://idle.finance/,Old Contract
+0x48f775efbe4f5ece6e0df2f7b5932df56823b990,Revain ((R)),https://revain.org/,Old Contract
+0xd1a616cd3bd9db97639ec484d843d37f2caa3035,AgroLyte Token ((AGR)),https://agrolyte.com,Old Contract
+0x072a1ba9fa10dea38ad2f4043a8385fbbf108cb2,Tater (($TATR)),https://tatr.tech/,Old Contract
+0x1fc52f1abade452dd4674477d4711951700b3d27,NOKU ((NOKU)),https://www.noku.io,Old Contract
+0x0301256716f6a18666db5a6009c2bff7c98fdde9,datbit ((DBT)),https://datbit.org/,Old Contract
+0xcd8d927f2cb03d2efb7f96ceb66ec4976843e012,Synth iTRX ((iTRX)),,Old Contract
+0x63120ccd7b415743e8753afd167f5ad4a1732c43,QARK Token of QAN Platform ((QARK)),https://qanplatform.com/,Old Contract
+0x66eb65d7ab8e9567ba0fa6e37c305956c5341574,HELEX ((HLX)),https://helex.world/,Old Contract
+0xf6276830c265a779a2225b9d2fcbab790cbeb92b,XCELTOKEN ((XCEL)),https://xceltoken.com/,Old Contract
+0x2b4dd5851da6e7ea0bc2d2c814c229abecf5dc80,MOBU token ((MOBU)),https://mobu.io/,Old Contract
+0x98b69ebb4ce228145463d7c08aa71fbb6791fe86,Rocket Token ((RKTN)),https://www.rockettoken.space/,Old Contract
+0x5d8d9f5b96f4438195be9b99eee6118ed4304286,Old Cover Protocol ((COVER)),https://www.coverprotocol.com/,Old Contract
+0xa3701a6b76995384f7e8ef0e4bfda447fb1e60d9,The Amc Token ((TAMC)),https://theamctoken.com/,Old Contract
+0xca64ea7d78c793a224ba4c82aa39cf17b95827bf,Reborn dollar ((REBD)),http://reborn.foundation/,Old Contract
+0xca29db4221c111888a7e80b12eac8a266da3ee0d,Boleno ((BLN)),http://bolenum.com/,Old Contract
+0x178bf8fd04b47d2de3ef3f6b3d112106375ad584,unagii_Tether USD ((uUSDT)),https://unagii.com/,Old Contract
+0xe98cb1c943ad6263e3258f98a5001cc775ede7cd,MEDIKEY ((MKEY)),https://medikey.io/,Old Contract
+0xdc5bbcf8189a69337f693a9f3f63ae37789ede92,TrustlessState Set ((TLS)),https://www.tokensets.com/set/tls,Old Contract
+0x5af2be193a6abca9c8817001f45744777db30756,Voyager ((VGX)),https://www.investvoyager.com/,Old Contract
+0x09df6a5ca936be45f5ae45c7e58c9b4602011fcd,yearn.fuel ((YFUEL)),https://home.yfuel.finance/,Old Contract
+0x2da22bea3c346038626bb1775c8f1e7d98d20607,Jincor Token ((JCR)),,Old Contract
+0xdcc27bbaa14cafd8a6aeb847e1b01c5dffb70935,VANTA Token ((VNT)),https://vanta.network/,Old Contract
+0xbbb1bd2d741f05e144e6c4517676a15554fd4b8d,FunFair ((FUN)),,Old Contract
+0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed,Tokoin ((TOKO)),https://www.tokoin.io/,Old Contract
+0x8aa688ab789d1848d131c65d98ceaa8875d97ef1,MultiVAC ((MTV)),https://www.mtv.ac/,Old Contract
+0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec,Lympo ((LYM)),,Old Contract
+0xb5a5f22694352c15b00323844ad545abb2b11028,ICON ((ICX)),https://icon.foundation/,Old Contract
+0x65ac08c55f21d4a73ca1d429a17a6872b23bfd55,ALL BEST ICO.com ((ALLBI)),https://allbestico.com/,Old Contract
+0x12b98c621e8754ae70d0fdbbc73d6208bc3e3ca6,IdleUSDC v3 [Max yield],https://idle.finance/,Old Contract
+0x6e5709515c767c907e43a03388cc816bd65e797c,Synth sXAG ((sXAG)),,Old Contract
+0x65ac08c55f21d4a73ca1d429a17a6872b23bfd55,ALL BEST ICO.com ((ALLBI)),https://allbestico.com/,Old Contract
+0x1e987df68cc13d271e621ec82e050a1bbd62c180,WAGMI ((WAGMI)),https://www.wagmigame.io/,Old Contract
+0x096b9077f6d2925c36a696345671bd9782df3c86,MetalStream Gold ((MSGLD)),https://www.metalstream.io/,Old Contract
+0xf62dff6d13b8ac6f7707335b4d936a2ca5e16d04,Visor ((VISR)),https://www.visor.finance/,Old Contract
+0xa98f029bb4e74c12fb07bbc25854e5a04f7acf4c,CRYPTOBUCKS ((CBUCKS)),https://www.cryptobucksltd.com/,Old Contract
+0x985dd3d42de1e256d09e1c10f112bccb8015ad41,OceanToken ((OCEAN)),https://oceanprotocol.com/,Old Contract
+0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1,Melon ((MLN)),,Old Contract
+0xe98cb1c943ad6263e3258f98a5001cc775ede7cd,MEDIKEY ((MKEY)),https://medikey.io/,Old Contract
+0x0f4546bb7fdb5929eee6736ed5794d3e6f5a9fa1,House Coupon Token ((HCT)),http://ico.nareigus.com/,Old Contract
+0xae95e8729f05225d0b9106bb5f56cbce9c1e4817,OERO Token ((OEUR)),https://oero.io/,Old Contract
+0x63120ccd7b415743e8753afd167f5ad4a1732c43,QARK Token of QAN Platform ((QARK)),https://qanplatform.com/,Old Contract
+0xfb13dfc9f8f3eeddd7c9b581d0d7cf367513ff7c,Para ((Para)),https://para.global/,Old Contract
+0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847,tBTC ((TBTC)),https://tbtc.network/,Old Contract
+0x34769d3e122c93547836addd3eb298035d68f1c3,NumisMe Token ((NUME)),https://numisme.io/,Old Contract
+0x0f133cc70162f6eb373b3b3cc2bd2932bf8e2ade,Bookya ((BKYA)),https://www.bookya.com/,Old Contract
+0x5d8d9f5b96f4438195be9b99eee6118ed4304286,Old Cover Protocol ((COVER)),https://www.coverprotocol.com/,Old Contract
+0xe5874039ea940af0a0f304e512c48bcb8d25aca4,OTOCASH ((OTO)),https://www.otocash.io/,Old Contract
+0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee,EchoLink ((EKO)),https://echolink.info/,Old Contract
+0x22ef8b5919e9985ff1ffba627ef7ee1e4b4b0e86,Xfinance ((XFI)),https://xfinance.io/,Old Contract
+0x0914b7ae021c229b7a51ff936f8ffc8c81fbcea7,Virtual Rehab ((VRH)),https://www.virtualrehab.co/,Old Contract
+0x73eacaa09d400eecd10b87784fd29d024505da3b,1Planet Token ((1PL)),,Old Contract
+0x5b53f9755f82439cba66007ec7073c59e0da4a7d,FlowchainCoin ((FLC)),https://flowchain.co/,Old Contract
+0x601f16d1d60839dca26b0895b6a23774bca10719,Mystery Ghost Token ((MGT)),https://www.mysteryghosttoken.com/,Old Contract
+0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5,GamyFi ((GFX)),https://www.gamyfi.org/,Old Contract
+0xfb66321d7c674995dfcc2cb67a30bc978dc862ad,PEPE2.0,https://www.pepe20.vip/,Old Contract
+0x8dd5fbce2f6a956c3022ba3663759011dd51e73e,TrueUSD ((TUSD)),,Old Contract
+0x86fff8610c0c054a7a196886942e53d9cf1aad94,LeadRex Token ((LDXT)),,Old Contract
+0xc76fb75950536d98fa62ea968e1d6b45ffea2a55,COL ((COL)),https://unit.xyz/,Old Contract
+0x45ed02e374aef2e4b34c04e86ad9d45891d10751,Digital Fantasy Sports ((DFS)),http://www.dfstoken.com/,Old Contract
+0x7600bf5112945f9f006c216d5d6db0df2806edc6,Caelum Token ((CLM)),http://caelumproject.io/,Old Contract
+0x162433c934aa74ba147e05150b1206b2c922f71d,CRESO ((CRE)),https://www.creso.io,Old Contract
+0xe5556ab0d831454cefbb986201bf9daa0eec52a1,AZBI FUNCTION FARM ((AZFF)),https://azbi.io/,Old Contract
+0x02ba9b528425f9de08f961b88a10b03be8b8b998,MASQ ((MASQ)),https://www.masq.ai/,Old Contract
+0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22,DataBroker DAO Token ((DATA)),,Old Contract
+0xb16e967ff83de3f1e9fceafbc2c28c1c5c56ef91,Polkadog ((PDOG)),https://polkadog.io/,Old Contract
+0x28d3e409bb9bc58f1ca6e009f8fc78a1db85e6b7,Gem Exchange and Trading ((GXT)),https://www.gxtglobal.com/,Old Contract
+0xfb54c2a6b2a4fc3af9b781585215da8ee6bce363,TigerCash ((TCH)),http://www.cointiger.com/,Old Contract
+0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed,Tokoin ((TOKO)),https://www.tokoin.io/,Old Contract
+0xd9db58c0cd8b93906ec87e353d6b1dbe19f3bfed,shuffle.monster token V2 ((SHUF)),https://shuffle.monster/,Old Contract
+0x7495d89d347ae9ddc95942938b58e933ab3bf7d1,EsportsPro ((ESPRO)),https://esportspro.gg/,Old Contract
+0x0cd022dde27169b20895e0e2b2b8a33b25e63579,EverRise ((RISE)),http://www.everrise.com/,Old Contract
+0xa9c6416ed46c2e94039b8724e8fd394fe5a310d6,,https://yland.finance/,Old Contract
+0xef0fda1d4bd73ddc2f93a4e46e2e5adbc2d668f4,ETH 20 MA Crossover Yield,https://www.tokensets.com/set/ethmacoapy,Old Contract
+0xc0ea6306f6360fe7dcab65d16bf1a3af92c79aa2,GANA ((GANA)),https://ganacoin.io/,Old Contract
+0xdf99c7f9e0eadd71057a801055da810985df38bd,PlusCoin ((PLC)),http://plus-coin.com/en/,Old Contract
+0x06afad679999600ed84b8ad0a0f5ef65e4dbb57c,CanYaCoin ((CAN)),,Old Contract
+0x11b156a597b9174c9d037209ae2fa41ccf318ce6,Zentachain ((CHAIN)),https://zentachain.io/,Old Contract
+0x725803315519de78d232265a8f1040f054e70b98,Dao.Casino ((BET)),,Old Contract
+0x29ac3094e01ebd60dab99f4746e04ae0fe013a95,VENT ((VENT)),https://ventmode.io/,Old Contract
+0xbd6467a31899590474ce1e84f70594c53d628e46,KardiaChain Token ((KAI)),https://kardiachain.io/,Old Contract
+0x71fbecb11e291f824fd5dc9e760f56a5239e4702,Hodl DAO ((HODL)),https://www.hdao.org,Old Contract
+0xe35b998e650d7dbc5b4204fcf9aff12f63aec1f0,Bitpara TRY ((BTRY)),https://www.bitpara.com/,Old Contract
+0xc66ea802717bfb9833400264dd12c2bceaa34a6d,MKR ((MKR)),https://makerdao.com/,Old Contract
+0xeef8102a0d46d508f171d7323bceffc592835f13,KriosCoin ((KRI)),https://www.krios.io/,Old Contract
+0xf45b14ddabf0f0e275e215b94dd24ae013a27f12,Synth sXTZ ((sXTZ)),,Old Contract
+0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d,MarketPeak ((PEAK)),https://marketpeak.com/,Old Contract
+0xdf329603bd378021698f9833cd5205b52f9e370e,Ethershift ((ESH)),http://www.switch.ag/,Old Contract
+0xad7615b0524849918aee77e6c2285dd7e8468650,Robocalls ((RCALLS)),,Old Contract
+0xed4699f180a14b5974c26f494483f9c327fd381a,Synth sAUD ((sAUD)),,Old Contract
+0x5c6d9a1f19cf402a261922b41b3d24c5acbf109f,VIP ((VIP)),http://vipchains.org/,Old Contract
+0xd76b5c2a23ef78368d8e34288b5b65d616b746ae,Ether Token ((ETH)),https://bancor.network/,Old Contract
+0x91432f5e45a5e30f5e29fea0fd5ef5cb6b303440,HumanX ((HMX)),https://www.hmx.global/,Old Contract
+0x51bb3ab03ab49ec5cb3883705949657838a015fd,CRYNcoin ((CRYN)),https://www.cryncoin.io/,Old Contract
+0x960b236a07cf122663c4303350609a66a7b288c0,Aragon ((ANT)),https://aragon.org/,Old Contract
+0xf424b10e1e9691ae5fb530fe4c3e6b9971013d49,yxDAI ((yxDAI)),https://idle.finance/,Old Contract
+0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,bZx Protocol Token ((BZRX)),https://bzx.network/,Old Contract
+0x08876e77f75454132c75b0202d11f7175898c705,BGL Token ((BGL)),https://www.buglab.io/,Old Contract
+0x5c2f940281e735ca3496d8138be12d18023dce9f,BANANA TOKEN ((BNANA)),,Old Contract
+0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32,WORLD CUP INU ((WCI)),https://worldcupinu.app/,Old Contract
+0x0e2298e3b3390e3b945a5456fbf59ecc3f55da16,YAM ((YAM)),http://yam.finance/,Old Contract
+0x77607588222e01bf892a29abab45796a2047fc7b,unagii_ETH ((uETH)),https://www.unagii.com/,Old Contract
+0x36324b8168f960a12a8fd01406c9c78143d41380,ySUSD ((ySUSD)),https://yearn.fi/,Old Contract
+0x1a95b271b0535d15fa49932daba31ba612b52946,minereum ((MNE)),http://minereum.com,Old Contract
+0xdf6e5f56a3e862af41ba4833c9626318e9bbe1a2,YFZ Finance ((YFZ)),,Old Contract
+0xc1e6c6c681b286fb503b36a9dd6c1dbff85e73cf,JetCoin (()),,Old Contract
+0x7a7f7dd9c4acd198617c72f54623bdb0c1dff343,VIONC ((VNC)),,Old Contract
+0xac838aee2f650a6b970ecea56d4651653c1f84a1,ClearCoin ((CLR)),,Old Contract
+0x8888881ed3c937311a4b6594e58be673e604895a,Ticker is Elepe (($elepe)),https://elepe.wtf/,Old Contract
+0x6251583e7d997df3604bc73b9779196e94a090ce,Hercules ((HERC)),https://herc.one/,Old Contract
+0x0df721639ca2f7ff0e1f618b918a65ffb199ac4e,uDOO ((uDOO)),https://howdoo.io/,Old Contract
+0xbf952ed8472a47cc6b5119cde96565553c187c30,MERO Token ((MERO)),http://ico.vreo.io/,Old Contract
+0xe05d803fa0c5832fa2262465290abb25d6c2bfa3,Synth sXAU ((sXAU)),,Old Contract
+0xbd149d3f7614b52f8a5e7e8986afd77e5d0e57cf,BuckHathCoin ((BHIG)),https://www.buckhath.com,Old Contract
+0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16,Shikage ((SHKG)),https://shikage.space/,Old Contract
+0x697bbedac86bb8f13cbe757aea95e75fb830a99d,Sonata Capital ((SONATA)),https://www.sonata.capital/,Old Contract
+0x86d5b3b108dbc56e9e5ea7d5c56a3e32ccadac35,AgaveCoin ((AGVC)),https://www.agavecoin.org/,Old Contract
+0x7d4e35a2090b3ba805ddb39b2c4b83612890df87,POW NFT ((POW)),https://www.pownft.com/,Old Contract
+0xb5a73f5fc8bbdbce59bfd01ca8d35062e0dad801,Perlin ((PERL)),http://perlin.net/,Old Contract
+0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5,VIU ((VIU)),,Old Contract
+0x8c7c047051f37746bb1dcd16ae37851a3891635c,BullBearEthereum Set ((BBE)),https://www.tokensets.com/set/bbe,Old Contract
+0x01f2acf2914860331c1cb1a9acecda7475e06af8,MeshBox ((MESH)),https://meshbox.network/,Old Contract
+0x3ca51bd89078145a8a16f09fc254677550bdb566,IdealCoin ((IDC)),https://idealcoin.io/,Old Contract
+0x0c22719d1bb82a754243ce84654e857d626f898e,CONUN ((CON)),https://conun.io/,Old Contract
+0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e,Onyx USD ((OUSD)),https://onyx.to/,Old Contract
+0x7a3c45f34ea5df6fe5f6af710ec8a04d388a71d1,PANDO COIN ((PANDO)),https://pandobrowser.com/,Old Contract
+0x1ae4167599f37d8b60e3272ec80df948ad1e1874,BRIX International Limited,https://www.brix.international,Old Contract
+0xf77832a3429054f12968aa57d78a1e31f55ec853,SURGED FINANCE ((SURG)),https://surged.finance/,Old Contract
+0x9145b60407ccfd30fb74fc00959ce6511d1364b6,Micro Payment Shield ((VFD)),http://www.vfdc.io,Old Contract
+0xc80c5e40220172b36adee2c951f26f2a577810c5,Banker Token ((BNK)),https://bankera.com/,Old Contract
+0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c,Rocket Bunny ((BUNNY)),https://rocketbunny.io,Old Contract
+0x35f06858577b526a9351c6d42c89748281b6fe30,COSS Exchange Liquidity Token ((CELT)),,Old Contract
+0xaa6144ba938c166e701d96f4fdeb51be73c2d0df,TECTUM ((TEC)),https://tectum.io/,Old Contract
+0xe35b998e650d7dbc5b4204fcf9aff12f63aec1f0,Bitpara TRY ((BTRY)),https://www.bitpara.com/,Old Contract
+0x78a52e12c7b63d05c12f9608307587cf654ec3d0,Crypto Village Accelerator ((CVA)),,Old Contract
+0xafbf03181833ab4e8dec24d708a2a24c2baaa4a4,MandoX ((MANDOX)),https://www.officialmandox.com/,Old Contract
+0xb0514a5b4aa58ac6e954f537598dd42a71916581,HUMToken ((HUM)),https://humanscape.io/,Old Contract
+0xc03841b5135600312707d39eb2af0d2ad5d51a91,BasketCoin ((BSKT)),https://basketcoin.io/,Old Contract
+0x4b2c54b80b77580dc02a0f6734d3bad733f50900,Kiba Inu ((KIBA)),https://kibainu.space/,Old Contract
+0x2cf618c19041d9db330d8222b860a624021f30fb,CRUISEBIT ((CRBT)),https://www.cruisebit.com/,Old Contract
+0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0,EOS ((EOS)),https://eos.io/,Old Contract
+0x3db6ba6ab6f95efed1a6e794cad492faaabf294d,LTO Network Token ((LTO)),http://ltonetwork.com,Old Contract
+0x32e523782faec81a8faec56481851d22a923fa85,X Chain Gas ((XCHG)),https://icechain.io/,Old Contract
+0xba6db13aeae3607d400ddffd675aa4e88ecc9a69,Sensorium ((SENSO)),https://sensoriumxr.com,Old Contract
+0xb5a5f22694352c15b00323844ad545abb2b11028,ICON ((ICX)),https://icon.foundation/,Old Contract
+0x5498c8ab3c04de12aba7fe46da31e6336e40dc98,Fusang Corp ((FSC)),https://www.fusang.co/invest-fsc,Old Contract
+0xe2492f8d2a2618d8709ca99b1d8d75713bd84089,HeartBout ((HB)),,Old Contract
+0x013ae307648f529aa72c5767a334ddd37aab43c3,Synth sBNB ((sBNB)),,Old Contract
+0x0f67e5f815eb6665cfde792662790e02f21d43e4,BlingFinance ((BLING)),https://fantasygold.io/,Old Contract
+0x4afea0f1252335e5e6be870139de87725e16560b,Natmin ((NAT)),,Old Contract
+0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd,Fetch ((FET)),https://fetch.ai/,Old Contract
+0xaacc1c5af6d46a374428beaecf90948ec5322ea3,1irst ((FST)),https://1irstcoin.com/,Old Contract
+0x9073ee83b6ce96c444547ddcaf777b9352163581,Synth sBTC ((sBTC)),,Old Contract
+0x0fd3822072ad001aac1c90a09d9506f097f24458,NOA ((NOA)),https://metanoa.io/,Old Contract
+0x316b13b951efe25aad1cb565385b23869a7d4c48,ETH 26 EMA Crossover Yield,https://www.tokensets.com/set/ethemaapy,Old Contract
+0x833850be8858722cfc5e5e75f2fe6275e055d888,DecentraBNB ((DBNB)),https://decentrabnb.com/,Old Contract
+0x00c4b398500645eb5da00a1a379a88b11683ba01,Eximchain Token ((EXC)),https://eximchain.com/,Old Contract
+0xf44745fbd41f6a1ba151df190db0564c5fcc4410,COPYTRACK ((CPY)),https://copytrack.io/,Old Contract
+0x5c743a35e903f6c584514ec617acee0611cf44f3,Experty ((EXY)),https://experty.io/en,Old Contract
+0x8a77e40936bbc27e80e9a3f526368c967869c86d,Merculet ((MVP)),https://merculet.io/,Old Contract
+0x577f56a16080787323a8e4a9227c040b1c2017cd,DEBIT Coin ((DBC)),,Old Contract
+0x3607f34271b8d734e323690dd71a0212627f91e5,Blockchain Labs Asia ((BLABS)),https://www.blabs.asia/,Old Contract
+0xa645264c5603e96c3b0b078cdab68733794b0a71,Mysterium ((MYST)),https://mysterium.network,Old Contract
+0x9638189d7d55a66e6a02e3f6c1e1b2d3f32f096d,KAPPUSAMA ((KPSM)),https://kappi.network/,Old Contract
+0x5ef5309d2864bb25ecabe351f4a247656411f066,Soarcoin ((SOAR)),,Old Contract
+0x85e076361cc813a908ff672f9bad1541474402b2,Telcoin ((TEL)),https://www.telco.in/,Old Contract
+0xd863580f1bebaa86ef4526678feb72bdcb8f9cb3,EGW Capital ((EGWCAP)),https://www.egwcap.io/,Old Contract
+0x0927f81524dce83123760e2f3bf195afa9d07dcc,EGW Capital ((EGWCAP)),https://www.egwcap.io/,Old Contract
+0xefe98765da3824ef4a5358ba798cec87c13d8c62,Freight Trust Protocol ((BOL)),http://www.freighttrust.com/,Old Contract
+0x5c543e7ae0a1104f78406c340e9c64fd9fce5170,vSlice ((VSL)),http://www.vslice.io/,Old Contract
+0xf9918ce795c6cdea4875a906512bbc15a7d61abd,W GREEN PAY ((WGP)),http://wpay.sg/,Old Contract
+0xa3701a6b76995384f7e8ef0e4bfda447fb1e60d9,The Amc Token ((TAMC)),https://theamctoken.com/,Old Contract
+0x2bb33dcf5409cafc6262a7df7edd06211522a346,Novax ((NVX)),https://novaxcoin.com/,Old Contract
+0x2956356cd2a2bf3202f771f50d3d14a367b48070,Ether Token ((WETH)),https://weth.io/?r=old,Old Contract
+0xb91b114a24a1c16834f1217cc3b9ee117b6c817a,Synth sCEX ((sCEX)),,Old Contract
+0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787,PAID Network ((PAID)),https://paidnetwork.com/,Old Contract
+0x5824f275dab2c59b8972a1fda45ff404c9a703e3,EQUAL ((EQL)),,Old Contract
+0xd3172862ff028cc42660576a0a36cfbc94b50eec,SynchroBitCoin ((SNB)),https://snbtoken.io/,Old Contract
+0x18562c02456962d1537cd3e4c70e88c48a466418,Davies ((DVS)),https://daviescoin.io/,Old Contract
+0x0d81b042bb9939b4d32cdf7861774c442a2685ce,yxUSDC ((yxUSDC)),https://idle.finance/,Old Contract
+0x827de8cb5bf8da8f16093505c58b5677122cdcec,Cryptaur ((CPT)),https://cryptaur.com/,Old Contract
+0x47dd62d4d075dead71d0e00299fc56a2d747bebb,EQUAL ((EQL)),https://equal.tech/,Old Contract
+0x835a44027ee4e92bbd8874e5ede9e5148b069e96,PROTOS ((PRTS)),http://protosmanagement.com/,Old Contract
+0x78e14b9a8d006ec7e23988a0a87263569c3f4839,BullBearBitcoin Set ((BBB)),https://www.tokensets.com/set/bbb,Old Contract
+0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b,Grumpy Cat ((GRUMPY)),https://grumpy.finance/,Old Contract
+0x73104e9d3da91e410a6c211068f7bffabbbd3e26,ETH Moonshot X Set,https://www.tokensets.com/set/ethmoonx,Old Contract
+0xc7cbd25da431758d42877d0bba8b504383de475e,Dato Link ((DATL)),https://dato.asia/,Old Contract
+0x696a89e6dfa39b1c8ecf9ad86e826205ed17a8d8,Attention Token of Media ((ATM)),,Old Contract
+0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466,AION ((AION)),https://aion.network/,Old Contract
+0x418c24191ae947a78c99fdc0e45a1f96afb254be,UERII ((UERII)),https://www.uerii.com/,Old Contract
+0x05860d453c7974cbf46508c06cba14e211c629ce,Eden Coin ((EDN)),https://edenchain.io,Old Contract
+0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5,Reputation ((REP)),,Old Contract
+0xdb8646f5b487b5dd979fac618350e85018f557d4,BitcoinToken ((BTK)),https://btk.community/,Old Contract
+0xe5f3a2fd1b5841294845963997bbd6f14cc2d822,VentiSwap Token ((VST)),https://ventiswap.com/,Old Contract
+0xdd9e590967b2ca30aaf71c016afe168e95fec3eb,RobotInfra ((ROBOT)),https://www.robotinfra.com/,Old Contract
+0xffa52dce6eb5695436be96ca9b7df63382e4c34d,Onyx S&amp;P 500 Short ((OSPVS)),https://onyx.to/,Old Contract
+0x0f237d5ea7876e0e2906034d98fdb20d43666ad4,Connect coin(XCON) ((XCON)),https://connectingcoin.io/,Old Contract
+0xb68ce1e522556c05868658767b03955e996c1f56,MeconCash ((MCH)),http://www.meconcash.com/,Old Contract
+0xc143e8f788726fcd8f6864b555c01f21855aafdd,CanYaCoin ((CAN)),,Old Contract
+0x0d1c63e12fde9e5cada3e272576183aba9cfeda2,Zenswap Network Token ((ZNT)),https://www.zenswapnetwork.info/,Old Contract
+0xae31b85bfe62747d0836b82608b4830361a3d37a,Aergo ((AERGO)),https://www.aergo.io/,Old Contract
+0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a,DFT ((DFT)),https://www.digifinex.com/,Old Contract
+0x2047b5bb05567b54e3012f7b2bc282d3b390c1a5,Etica ((ETI)),https://www.etica-protocol.org/,Old Contract
+0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee,GMB ((GMB)),https://gamb.io/,Old Contract
+0x1e987df68cc13d271e621ec82e050a1bbd62c180,WAGMI ((WAGMI)),https://www.wagmigame.io/,Old Contract
+0xa19bbef64eff0d060a653e4df10a57b6d8006d3e,Enegra ((EGX)),https://www.enegra.com/,Old Contract
+0xd9db58c0cd8b93906ec87e353d6b1dbe19f3bfed,shuffle.monster token V2 ((SHUF)),https://shuffle.monster/,Old Contract
+0xac8c238be0c383c9592ffead981ccc23fcb2c990,UnochainNetwork ((UNON)),https://unochain.io/,Old Contract
+0xbc5991ccd8caceba01edc44c2bb9832712c29cab,unagii_USD Coin ((uUSDC)),https://unagii.com/,Old Contract
+0x3498a750cf528c9f8b6ab908754537ca3d7ecc33,Solarex ((SRX)),,Old Contract
+0x21efe20be784ac5da569f72070e64525f95ccab6,AZBI core ((AZBI)),https://azbi.io/,Old Contract
+0x96006f60b452526481a26eab55265ecdf82e7361,HollaEx ((HEX)),https://hollaex.com/,Old Contract
+0xe9a9d1101204b51e8620a28e471f44bb8775e50d,SWTCoin ((SWAT)),http://www.swatcoin.network/,Old Contract
+0x9f801c1f02af03cc240546dadef8e56cd46ea2e9,VAIOT Token ((VAI)),https://vaiot.ai/en,Old Contract
+0x8a2d988fe2e8c6716cbcef1b33df626c692f7b98,EverRise ((RISE)),,Old Contract
+0x91432f5e45a5e30f5e29fea0fd5ef5cb6b303440,HumanX ((HMX)),https://www.hmx.global/,Old Contract
+0xac3872335ad27ec5b4d2b7d14058be4ef21011ff,EterArt ((WAW)),https://www.eterart.com/,Old Contract
+0xfdb29741f239a2406ae287913ef12415160378d3,wrongOS,,Old Contract
+0x5e3845a1d78db544613edbe43dc1ea497266d3b8,LNX Protocol ((LNX)),https://lnxprotocol.io/,Old Contract
+0xcf8048b2d336c569a3985bd93cbb91b758ded178,IZE Fintech Blockchain ((IZE)),http://izeholdings.io/en/,Old Contract
+0xf19eac69f9566f0b40660bd0cc16234330f38456,CraftR ((CRAFTR)),,Old Contract
+0xf4a6febd991ee19e1e7517f8e128227483343c5f,RiveX Token ((RVX)),https://www.rivex.io/,Old Contract
+0x27af23d8db2a3fbce7d04e84f594285fb0059316,https://unimex.finance/ ((UMEX)),https://unimex.finance/,Old Contract
+0x7064aab39a0fcf7221c3396719d0917a65e35515,Cpollo ((CPLO)),,Old Contract
+0x2b143041a6f8be9dcc66e9110178a264a223a3bd,Synth iBTC ((iBTC)),,Old Contract
+0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7,Lendefi Token ((LDFI)),https://lendefi.io/,Old Contract
+0x611171923b84185e9328827cfaae6630481ecc7a,Streamity ((STM)),http://www.streamity.org/,Old Contract
+0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c,COSS ((COSS)),https://coss.io/,Old Contract
+0xa1a6f16d26aa53aec17e4001fd8cb6e6d5b17ff7,1irst ((FST)),https://1irstcoin.com/,Old Contract
+0x28af5a2f0cc12f2f19dd946608c945456b52b3f6,Synth sCHF ((sCHF)),,Old Contract
+0xb16e967ff83de3f1e9fceafbc2c28c1c5c56ef91,Polkadog ((PDOG)),https://polkadog.io/,Old Contract
+0x12b98c621e8754ae70d0fdbbc73d6208bc3e3ca6,IdleUSDC v3 [Max yield],https://idle.finance/,Old Contract
+0x10010054c81c8c01951e6a631dd228bb02d8d1e5,Hundred Finance ((HND)),https://hundred.finance/,Old Contract
+0x96006f60b452526481a26eab55265ecdf82e7361,HollaEx ((HEX)),https://hollaex.com/,Old Contract
+0xc463f34040ad6222c1ffb03acebdfaac032202d6,KiloAmple ((kMPL)),https://amplesense.io/,Old Contract
+0x5958107be1ecc8d0d1593b3d7cc75f5e48304682,Fear &amp; Greed Sentiment Set ((GREED)),https://www.tokensets.com/set/greed,Old Contract
+0xd6adcf63e8416edf64967c1a09a12cf56ee10e51,XBanking ((DEFI)),https://xbanking.org/,Old Contract
+0x5b5d8a8a732a3c73ff0fb6980880ef399ecaf72e,PROOF ((PF)),,Old Contract
+0xaadb05f449072d275833baf7c82e8fca4ee46575,Spectre Utility Token ((SXU)),,Old Contract
+0x814964b1bceaf24e26296d031eadf134a2ca4105,Newbium ((NEWB)),https://coins.newbium.com/,Old Contract
+0x471a6229830cf6bafa13091e2a2ed67b591d4893,kNetwork Oracle ((KNOC)),https://kappi.network/,Old Contract
+0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847,tBTC ((TBTC)),https://tbtc.network/,Old Contract
+0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5,Reputation ((REP)),,Old Contract
+0xb0dfb2df1b29b304c59e92e8f8bff329b9d20f62,KINWA Token ((KINWA)),,Old Contract
+0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97,PayFair ((PFR)),,Old Contract
+0x44e2ca91cea1147f1b503e669f06cd11fb0c5490,CoinMetro Token ((XCM)),https://coinmetro.com/,Old Contract
+0x5554e04e76533e1d14c52f05beef6c9d329e1e30,Autonio ((NIO)),https://auton.io/,Old Contract
+0xf142b8202e66889b669865c34345e4a3e82ae4b3,Sonata Asia Growth Fund ((SAGF)),https://www.sonata.capital/,Old Contract
+0x922a690cca871d19e8cc0ee5a49bf08893797e43,EPIN TOKEN ((EPTK)),https://epintoken.com/,Old Contract
+0x1fe72034da777ef22533eaa6dd7cbe1d80be50fa,PayAccept ((PAY)),https://www.payaccept.net/,Old Contract
+0xb67b88a25708a35ae7c2d736d398d268ce4f7f83,Etheremon ((EMON)),,Old Contract
+0xae7f21c0dfe5481ca77d538b5609938a51850942,Synth iCEX ((iCEX)),,Old Contract
+0x8888880cd9c0a6a63c2d6514e1dfff10caa33db8,Sora Dog ((SORA)),https://soradog.xyz/,Old Contract
+0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a,KaratBank Coin ((KBC)),https://karatgold.io/,Old Contract
+0xd6f279b7ccbcd70f8be439d25b9df93aeb60ec55,IdleWBTC v3 [Max yield],https://idle.finance/,Old Contract
+0x044727e50ff30db57fad06ff4f5846eab5ea52a2,Kitty Inu ((kitty)),http://kittyinu.com/,Old Contract
+0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c,Rock ((RKT)),,Old Contract
+0x3eb064766109d150e4362222df80638bce00e037,Synth sEUR ((sEUR)),,Old Contract
+0xec2e5c8d51fdd54fef83db8300399a3c2e167922,EBCoin ((EBC)),https://www.ebcoin.io/,Old Contract
+0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2,Webflix Token ((WFX)),http://www.webflix.io/,Old Contract
+0x2ad8529da0488a7c2a1af1e22d1902f7ad2943eb,BCAChain Initial Token ((BCAC)),http://en.bcachain.org/,Old Contract
+0x5a386eb0fcbfee3f0d759e263053c09162ff102d,Woonkly ((Woonk)),https://woonkly.com/,Old Contract
+0xe2311ae37502105b442bbef831e9b53c5d2e9b3b,Banana ((BANANA)),https://cyberkongz.com/,Old Contract
+0xf23e4cbfab1871aeb0f3c1e327ff0051f1f178ec,BTC Network Demand ((BYTE)),https://www.tokensets.com/set/byte,Old Contract
+0x5c7cbeede0dfeeed9373c76f309335ad52213edf,WUAOCOIN ((WUAO)),https://www.wuaocoin.com/,Old Contract
+0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5,GamyFi ((GFX)),https://www.gamyfi.org/,Old Contract
+0x54186df214506ff5613196170d1bd576895193ab,BitcoinPeso ((BTCP)),,Old Contract
+0x3f06b5d78406cd97bdf10f5c420b241d32759c80,CYBERFM ((CYFM)),https://cyberfmradio.com/,Old Contract
+0xa08247a74bbc40a59d218eeda587ab187836ab66,IceChain Balancer ((ICEB)),https://icechain.io/,Old Contract
+0x577f56a16080787323a8e4a9227c040b1c2017cd,DEBIT Coin ((DBC)),,Old Contract
+0x2047b5bb05567b54e3012f7b2bc282d3b390c1a5,Etica ((ETI)),https://www.etica-protocol.org/,Old Contract
+0xe2fb6529ef566a080e6d23de0bd351311087d567,Covesting ((COV)),https://covesting.io/,Old Contract
+0x6750c97aa8a1b388ed560a06aefd64d457455ba7,Blocktix Token ((TIX)),,Old Contract
+0xa76942d04cfbbb7a3f20687ac1d11d150185f38d,Bitazza ((BTZ)),https://bitazza.com/,Old Contract
+0x5114c3db64727fb14d5c3d88bede12d87b26211d,Grow Token ((GRWT)),,Old Contract
+0xdf9d4674a430bdcc096a3a403128357ab36844ba,WadzPay ((WTK)),https://wadzpay.com/,Old Contract
+0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f,CyberMiles ((CMT)),https://www.cybermiles.io/,Old Contract
+0x9145b60407ccfd30fb74fc00959ce6511d1364b6,Micro Payment Shield ((VFD)),http://www.vfdc.io,Old Contract
+0xd96f6687f1b86892e932d68a2d3130c41f0402f5,Flowchain ((FLC)),https://flowchain.co/,Old Contract
+0xf39f19565b8d937ec30f1db5bd42f558d1e312a6,Kappi Token ((KAPP)),https://kappi.network/,Old Contract
+0xdc5bbcf8189a69337f693a9f3f63ae37789ede92,TrustlessState Set ((TLS)),https://www.tokensets.com/set/tls,Old Contract
+0x862da0a691bb0b74038377295f8ff523d0493eb4,MINDOL ((MIN)),,Old Contract
+0x39e743fee400a5d9b36f1167b70c10e8f06440e5,TNC Group Token ((TNC)),https://tncitgroup.com/,Old Contract

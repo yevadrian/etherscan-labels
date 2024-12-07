@@ -1,0 +1,121 @@
+Contract Address,Token Name,Website,Label
+0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9,Aave Token ((AAVE)),https://aave.com/,Loans
+0xc00e94cb662c3520282e6f5717214004a7f26888,Compound ((COMP)),https://compound.finance/,Loans
+0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206,Nexo ((NEXO)),https://nexo.com/,Loans
+0x4c19596f5aaff459fa38b0f7ed92f11ae6543784,TrueFi ((TRU)),https://truefi.io/,Loans
+0xd9fcd98c322942075a5c3860693e9f4f03aae07b,Euler ((EUL)),https://www.euler.finance/,Loans
+0x2ba592f78db6436527729929aaf6c908497cb200,Cream ((CREAM)),https://cream.finance/,Loans
+0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d,Celsius ((CEL)),https://celsius.network/,Loans
+0x13119e34e140097a507b07a5564bde1bc375d9e6,MoneyToken ((IMT)),https://moneytoken.eu/,Loans
+0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61,B.Protocol ((BPRO)),https://bprotocol.org/,Loans
+0x2791bfd60d232150bff86b39b7146c0eaaa2ba81,BiFi ((BiFi)),https://bifi.finance/,Loans
+0x1fcdce58959f536621d76f5b7ffb955baa5a672f,The Force Token ((FOR)),https://for.tube/,Loans
+0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b,Aurox Token ((URUS)),https://getaurox.com/,Loans
+0x80fb784b7ed66730e8b1dbd9820afd29931aab03,EthLend ((LEND)),https://aave.com/,Loans
+0x72e9d9038ce484ee986fea183f8d8df93f9ada13,SMARTCREDIT Token,https://smartcredit.io/,Loans
+0xfa5047c9c78b8877af97bdcb85db743fd7313d4a,ROOK ((ROOK)),https://www.rook.fi/,Loans
+0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15,Fringe ((FRIN)),https://fringe.fi/,Loans
+0x92e187a03b6cd19cb6af293ba17f2745fd2357d5,Unit Protocol ((DUCK)),https://unit.xyz/,Loans
+0x054f76beed60ab6dbeb23502178c52d6c5debe40,DeFiner ((FIN)),https://definer.org/,Loans
+0x59e9261255644c411afdd00bd89162d09d862e38,ETHA ((ETHA)),https://ethalend.org/,Loans
+0x3bdbd2b661560bcdf59bdc74576f65e2f714b836,ZENTEREST RUNE,https://mantradao.com/,Loans
+0x132e549262f2b2ad48aa306c3d389e55bb510419,ZENTEREST BAO ((zenBAO)),https://mantradao.com/,Loans
+0xdcb01cc464238396e213a6fdd933e36796eaff9f,Yield ((YLD)),https://yield.credit/,Loans
+0xa07be94d721df448b63ec6c3160138a2b2619e1d,ZENTEREST Wrapped NXM,https://mantradao.com/,Loans
+0x66d696474784ded49b5d0a43e50bf59d63402d74,ZENTEREST CREAM,http://mantradao.com/,Loans
+0x76a034e76aa835363056dd418611e4f81870f16e,Value ETH ((vETH)),https://valuedefi.io/,Loans
+0x6f989c161c1e6c2780b1c97788f125a3d40d5bc0,OpenSky Bespoke Borrow Receipt ((OBBR)),https://opensky.finance/,Loans
+0xb595a7715d7d5a0252e5d3cdddfa2e1c7c1feebe,ZENTEREST YFI ((zenYFI)),http://mantradao.com/,Loans
+0x186af393bf9ceef31ce7eae2b468c46231163cc7,Yearn Loans Finance ((YlFi)),https://yloans.finance/,Loans
+0x0f8bf37e79930c100f3d93ac0ee87f0d3e7a7fb0,SAFEHEDGE,https://safehedgecrypto.io/,Loans
+0xdf2705d4368cd2ee3bbff73594ae47244064dffb,Xenoverse ((XENO)),https://xenoverse.io/,Loans
+0x5d1b1019d0afa5e6cc047b9e78081d44cc579fc4,yfrb.Finance ((YFRB)),https://www.yfrb.finance/,Loans
+0xa8e31ad81d609ff616645849987fef30a3ffabd9,ZENTEREST FRAX,https://mantradao.com/,Loans
+0xab576bcbb0c3303c9e680fbfdeca67e062eae59c,ZENTEREST TerraUSD ((zenUST)),https://mantradao.com/,Loans
+0x82413f75f0da101e0fe7f6ff6cba3461f7e04f29,WePiggy Uniswap ((pUNI)),https://wepiggy.com/,Loans
+0x7a665de4b80835295901dd84ece07e942a9fe400,ZENTEREST renBTC,https://mantradao.com/,Loans
+0x078dbeab281befe80fff6ea151355ef5c9dfc1dc,p2pl.finance ((P2PL)),https://p2pl.finance/,Loans
+0xf533c78c0790676008d576c5cc2e63e0856ed4f0,ZENTEREST RFUEL,http://mantradao.com/,Loans
+0x7c5d5100b339fe7d995a893af6cb496b9474373c,Loon Network ((LOON)),https://www.loonetwork.com/,Loans
+0x2277964ce25d22f9f12e1497181575d77037c0b3,SULFERC,https://stithulf.com/,Loans
+0x0775c81a273b355e6a5b76e240bf708701f00279,Bulleon ((BUL)),https://bulleon.io/,Loans
+0x1c1bb5efec38b1b01e0e72fa0c8521d695299b60,ZENTEREST DSD ((zenDSD)),http://mantradao.com/,Loans
+0x23aeff664c1b2bba98422a0399586e96cc8a1c92,Fee Active Collateral Token ((Fact)),https://fact.finance/,Loans
+0xcdf1a51260861804ffe06e96becd8bcd4d018976,Shaktiio ((SKTO)),https://shakti.io,Loans
+0x33dcd369d697132de252884336225de31fb474b2,Alice ((ALICE)),https://alice.finance/,Loans
+0x15fcfd53fec9b72cf3725649f3ec4603077ad21e,ZENTEREST HEGIC,https://mantradao.com/,Loans
+0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280,Holdefi Token ((HLD)),https://holdefi.com/,Loans
+0x82de3959c09f665a82c794fafc1eb34cfcb555ee,WePiggy YFII ((pYFII)),https://wepiggy.com/,Loans
+0x1b6d730a1dcaeb870ba3b0c6e51f801c1cca0499,ZENTEREST Bancor Network Token ((zenBNT)),https://mantradao.com/,Loans
+0xa73862c5a66cf3be4bf86f60acf085bd927f83f8,Daily Funds ((DF)),https://dailyfunds.io/,Loans
+0x11c70caa910647d820bd014d676dcd97edd64a99,ZENTEREST OM ((zenOM)),http://mantradao.com/,Loans
+0x690aa2591e57180cba5a6123e9d462907a5e1c95,WePiggy LRC ((pLRC)),https://wepiggy.com/,Loans
+0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760,ZPER ((ZPR)),https://zper.io/,Loans
+0x53bafba543f8f1283ed5b21cafe7925c367ec3bd,ZENTEREST BONDLY,http://mantradao.com/,Loans
+0xef327568556310d344c49fb7ce6cbfe7b2bb83e6,YFA finance ((YFA)),https://yfa.cash/,Loans
+0xb2b9335791346e94245dcd316a9c9ed486e6dd7f,Power Index Pool Token ((PIPT)),https://powerpool.finance/,Loans
+0x9da1659a203cefe6e9c6da98c7a669a1ec3d7ede,Pngcoin ((PNG)),https://pngme.com/,Loans
+0xb15e13bc622315e29a7142fea3d0c67464b44e97,ZENTEREST rHEGIC,https://mantradao.com/,Loans
+0x84bb947fcedba6b9c7dcead42df07e113bb03007,Stater ((STR)),https://stater.co/,Loans
+0x650d62fcb1f22a10a2b810bfe305c1312a24a367,ZENTEREST FTT ((zenFTT)),http://mantradao.com/,Loans
+0x180087a6a87fd6b09a78c9b9b87b71335906c61d,ZENTEREST Kyber Network ((zenKNC)),https://mantradao.com/,Loans
+0xa2a19165c17b36a5c753a246c1e188489754a693,P2PG ((P2PGO)),https://p2pgo.io/,Loans
+0x27d15446176b469ee7fbdec1e5a4b506fd77c0cd,ZENTEREST LINK,http://mantradao.com/,Loans
+0x2b4200a8d373d484993c37d63ee14aee0096cd12,USDFreeLiquidity ((USDFL)),https://freeliquid.io/,Loans
+0x7b35ce522cb72e4077baeb96cb923a5529764a00,Impermax ((IMX)),https://impermax.finance/,Loans
+0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5,ThoreCash ((TCH)),https://www.thorecash.com/,Loans
+0x5b37c72dde4c4efc3e2eeff4107ef6eb61f5de10,ZENTEREST POLS,http://mantradao.com/,Loans
+0x6d7917864003a9bb13cbbec8f1cdd4e36ddf6fc8,SEMI ((SEMI)),http://www.semitokenglobal.com/,Loans
+0xf76cc2dc02f56b27761dbdb7a62e2b1c4a22afcd,ZENTEREST USDT,http://mantradao.com/,Loans
+0xa6b8cbb493fe5682d627bdb9a6b361488086a2fd,ZENTEREST Celsius Network ((zenCEL)),https://mantradao.com/,Loans
+0x4dd6d5d861edcd361455b330fa28c4c9817da687,ZENTEREST MPH ((zenMPH)),https://mantradao.com/,Loans
+0x2aeccb42482cc64e087b6d2e5da39f5a7a7001f8,Ruler Protocol ((RULER)),https://rulerprotocol.com/,Loans
+0x2ddfd56221568b6d4350b68432569a57bc1f9572,ZENTEREST 1INCH,http://mantradao.com/,Loans
+0x290a565ec7c28557ae872de2f3a5ce500f46a5d2,ZENTEREST SRM ((zenSRM)),http://mantradao.com/,Loans
+0x0f4315934eb9ebe33c602e2726ffe0cda9e6dc83,Getmoder ((GTMR)),https://gtmr.io/,Loans
+0x69681f8fde45345c3870bcd5eaf4a05a60e7d227,Iron Bank GBP ((ibGBP)),https://fixedforex.fi/,Loans
+0x57a8cb15e9575bf9bf80f3531183395703912f57,ZENTEREST AAVE,http://mantradao.com/,Loans
+0x27a94869341838d5783368a8503fda5fbcd7987c,WePiggy ETH ((pETH)),https://wepiggy.com/,Loans
+0xfdcdfa378818ac358739621ddfa8582e6ac1adcb,Curio Stable Coin ((CSC)),https://stablecoin.curioinvest.com/,Loans
+0xbef963b6a40bb5778ec2f03e5cbe6c7bd87f630a,Artem USD Coin ((aUSDC)),https://artem.finance/,Loans
+0x0968c90198f08b67365840fa37631b29fe2aa9fc,ZENTEREST USDC,http://mantradao.com/,Loans
+0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5,Nexum Coin ((NEXM)),https://nexum.ai/,Loans
+0x4e50972850822f8be8a034e23891b7063893cc34,ZENTEREST Cornichon,https://mantradao.com/,Loans
+0xdb63d9638aa65cfc340e826fb234dacaaad25557,Mintos ((MNTS)),https://mintos.finance/,Loans
+0xa0998fc7dcf51169d97a74f0b0b7d97e4af8e873,ZENTEREST RSR ((zenRSR)),http://mantradao.com/,Loans
+0x8ec3e4978e531565a46c22fbe0423be1bb8e1156,ZENTEREST zLOT,https://mantradao.com/,Loans
+0x31b992fda33c6c52c602cf379b9bbe1745a903f7,ZENTEREST BAL ((zenBAL)),https://mantradao.com/,Loans
+0x391f902c8979050ba8036e3d61d13d79cf545db8,ZENTEREST UNI ((zenUNI)),http://mantradao.com/,Loans
+0xf8e5b9738bf63adfff36a849f9b9c9617c8d8c1f,WePiggy USDC ((pUSDC)),https://wepiggy.com/,Loans
+0x00aba6fe5557de1a1d565658cbddddf7c710a1eb,EASY V2 ((EZ)),https://easyfi.network/,Loans
+0x2cc71c048a804da930e28e93f3211dc03c702995,Kripton ((LPK)),https://lpkdefi.com/,Loans
+0xfd64dad84bdd0c735dec910936f301c74fc4bcdd,Artem Ether ((aETH)),https://artem.finance/,Loans
+0x5b4463bbd7b2e870601e91161e0f1f7f84cde214,ZENTEREST Wrapped BTC,http://mantradao.com/,Loans
+0x86389efb27908a8724444b17f5056767a9a15d1a,Take ((TAKE)),https://take.finance/,Loans
+0x3f17cfad23c2014c5a32722557df87dff46819da,Amplify Token ((AMPT)),https://ampt.finance/,Loans
+0x144bdf52690c59b510da5dbc09bb5f145fbdb8e1,ZENTEREST CRV ((zenCRV)),https://mantradao.com/,Loans
+0xa24c0e9195481821f9b5292e8c6a4209cc8cc3c9,ZENTEREST API3,https://mantradao.com/,Loans
+0x0e0055bf26f4bdde57b112112e5db25d56706580,ZENTEREST ROYA,http://mantradao.com/,Loans
+0x0c91f1795e012bcef586c925f747f23b0969b5ea,ZENTEREST zHEGIC,https://mantradao.com/,Loans
+0xadcc610f96c386d78f68b7f0a04e3a7c8ff94ff8,Swan Finance ((SWAN)),https://www.swanfinance.io/,Loans
+0x4de2573e27e648607b50e1cfff921a33e4a34405,Lendroid Support Token ((LST)),https://lendroid.com/,Loans
+0x88d59ba796fdf639ded3b5e720988d59fdb71eb8,Payship.org ((PSHP)),https://payship.org,Loans
+0xb3c114d12cc260ff0a07a2cf22a910625367b403,ZENTEREST SUSHI,http://mantradao.com/,Loans
+0x5cfad792c4df1323188180778aec58e00eace32a,WePiggy USDT ((pUSDT)),https://wepiggy.com/,Loans
+0xd85ad783cc94bd04196a13dc042a3054a9b52210,TribeOne ((HAKA)),https://www.tribeone.io/,Loans
+0x0784dbabb6c6834bddfb7cfee116ba049e5dafab,IBTC ((IBTC)),http://ibtc.credit/,Loans
+0x5a25fe235158327074ddb95e1daa8db53fdd2d72,Artem BaconCoin ((aBAK)),https://artem.finance/,Loans
+0x3f2e9a93428a22d2f4cacc3f184f1aad85054e1c,ZENTEREST COMP,http://mantradao.com/,Loans
+0x1badcb0833072b986c845681d3c73603adc5ba54,ZENTEREST UMA ((zenUMA)),https://mantradao.com/,Loans
+0xa3968dabf386d99f67c92c4e3c7cfdf2c0ccc396,ZENTEREST Matic Network,https://mantradao.com/,Loans
+0x2eb4861d1a049f3ad7284204e788446bcc543b9f,Portal IOU ((PRTL)),https://warp.finance/,Loans
+0xe3334e66634acf17b2b97ab560ec92d6861b25fa,ZENTEREST WHITE,https://mantradao.com/,Loans
+0x1b8e12f839bd4e73a47addf76cf7f0097d74c14c,Value USD ((vUSD)),https://valuedefi.io/,Loans
+0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53,BNPL Pay ((BNPL)),https://bnplpay.io,Loans
+0xd6e1401a079922469e9b965cb090ea6ff64c6839,HOLD ((HOLD)),https://hold.co/,Loans
+0xc4bdaa3b4f2c9a78baa4442cd81874881850ff2e,ZENTEREST SNX ((zenSNX)),http://mantradao.com/,Loans
+0x4f905f75f5576228ed2d0ea508fb0c32a0696090,ZENTEREST Ether ((zenETH)),http://mantradao.com/,Loans
+0x4c78015679fabe22f6e02ce8102afbf7d93794ea,WePiggy Coin ((WPC)),https://wepiggy.com/,Loans
+0x959f30f765a44273eccaa0fac094160aa7c238e2,WePiggy RAI ((pRAI)),https://wepiggy.com/,Loans
+0x77df79539083dcd4a8898dba296d899afef20067,Artem ((ARTT)),https://artem.finance/,Loans
+0x3bafa9cd93c7bdc07fd9609e95e04a8904eacf7d,ZENTEREST DAI ((zenDAI)),http://mantradao.com/,Loans

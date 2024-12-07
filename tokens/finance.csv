@@ -1,0 +1,347 @@
+Contract Address,Token Name,Website,Label
+0x4a220e6096b25eadb88358cb44068a3248254675,Quant ((QNT)),https://www.quant.network/,Finance
+0x136471a34f6ef19fe571effc1ca711fdb8e49f2b,US Yield Coin ((USYC)),https://usyc.hashnote.com/,Finance
+0x9c7beba8f6ef6643abd725e45a4e8387ef260649,Gravity ((G)),https://gravity.xyz/,Finance
+0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b,Goldfinch ((GFI)),https://goldfinch.finance/,Finance
+0xdb25f211ab05b1c97d595516f45794528a807ad8,STASIS EURS Token ((EURS)),https://stasis.net/,Finance
+0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419,DIAToken ((DIA)),https://diadata.org/,Finance
+0xd26114cd6ee289accf82350c8d8487fedb8a0c07,OMG Network ((OMG)),https://omg.network/,Finance
+0x72e5390edb7727e3d4e3436451dadaff675dbcc0,Hanu Yokia ((HANU)),https://www.gojicrypto.com/,Finance
+0xd7efb00d12c2c13131fd319336fdf952525da2af,Proton ((XPR)),http://www.protonchain.com/,Finance
+0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1,Polytrade ((TRADE)),https://polytrade.finance/,Finance
+0x6988a804c74fd04f37da1ea4781cea68c9c00f86,Tribal Token ((TRIBL)),https://www.tribl.ltd/,Finance
+0xbdab72602e9ad40fc6a6852caf43258113b8f7a5,eSOV ((eSOV)),https://www.sovryn.app/,Finance
+0x8d6cebd76f18e1558d4db88138e2defb3909fad6,Mai Stablecoin ((MAI)),http://mai.finance/,Finance
+0x92e52a1a235d9a103d970901066ce910aacefd37,UCASH ((UCASH)),https://u.cash/,Finance
+0x77ebcf0659bbf4e68d8ce6d84bb25c5cde207b97,MOOXMOO ((MOOX)),http://www.mooxmoo.com/,Finance
+0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6,QASH ((QASH)),https://www.liquid.com/,Finance
+0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab,BitcoinPro ((BTCP)),https://bitcoinpro.money/,Finance
+0x0cec1a9154ff802e7934fc916ed7ca50bde6844e,PoolTogether ((POOL)),https://pooltogether.com/,Finance
+0x0f6d4d4643a514132f84f4a270946db3c7cb701c,Lovely Finance ((LOVELY)),https://lovely.finance/,Finance
+0x13119e34e140097a507b07a5564bde1bc375d9e6,MoneyToken ((IMT)),https://moneytoken.eu/,Finance
+0x6bc40d4099f9057b23af309c08d935b890d7adc0,SnailBrook ((SNAIL)),https://www.snailbrook.ai/,Finance
+0xb10cc888cb2cce7036f4c7ecad8a57da16161338,Switch ((SWITCH)),https://www.switchrewardcard.com,Finance
+0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85,Shyft [ Wrapped ] ((SHFT)),https://shyft.network/,Finance
+0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5,Notional ((NOTE)),https://notional.finance/,Finance
+0xed0d5747a9ab03a75fbfec3228cd55848245b75d,Next Generation Money ((NGM)),https://www.e-money.com/,Finance
+0xface851a4921ce59e912d19329929ce6da6eb0c7,Compound ChainLink Token ((cLINK)),https://compound.finance/,Finance
+0x446f2a8a39cc730ef378be759a3c57f1a3fe824c,NanoByte Token ((NBT)),http://nanobyte.finance/,Finance
+0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f,PointPay Crypto Banking Token V2 ((PXP)),https://pointpay.io/,Finance
+0x10010078a54396f62c96df8532dc2b4847d47ed3,Hundred Finance ((HND)),https://hundred.finance,Finance
+0xe020b01b6fbd83066aa2e8ee0ccd1eb8d9cc70bf,Arcade ((ARCD)),https://www.arcadedao.xyz/,Finance
+0xcbcc0f036ed4788f63fc0fee32873d6a7487b908,Humaniq ((HMQ)),https://humaniq.co/,Finance
+0x6c936d4ae98e6d2172db18c16c4b601c99918ee6,Life Crypto ((LIFE)),https://www.lifecrypto.life/,Finance
+0xfac77a24e52b463ba9857d6b758ba41ae20e31ff,LSD Coin ((LSD)),https://www.lsdx.finance/,Finance
+0x9fc8f0ca1668e87294941b7f627e9c15ea06b459,PNLToken ((PNL)),https://truepnl.com/,Finance
+0x70401dfd142a16dc7031c56e862fc88cb9537ce0,Bird.Money ((BIRD)),https://www.bird.money/,Finance
+0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544,MobiFi ((MoFi)),https://mobifi.io/,Finance
+0x48cf01fcbbf6a471b2b37a8e199eae6335ab1d9c,Argon Token ((ARGON)),https://argon.run/,Finance
+0xc3eb2622190c57429aac3901808994443b64b466,ORO Token ((ORO)),https://opendefi.finance/,Finance
+0xdb298285fe4c5410b05390ca80e8fbe9de1f259b,handleFOREX ((FOREX)),https://handle.fi/,Finance
+0x93ed140172ff226dad1f7f3650489b8daa07ae7f,ZZZ V2 ((ZZZV2)),https://zzz.finance/,Finance
+0x86772b1409b61c639eaac9ba0acfbb6e238e5f83,Indexed ((NDX)),https://indexed.finance/,Finance
+0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba,ETH.limiteD ((ELD)),https://eth.limited/,Finance
+0x665f77fba5975ab40ce61c90f28007fb5b09d7b1,GenieSwap ((GENIE)),https://genieswap.com/,Finance
+0x6776500588f0479beefa31ca7a81ff08ae567757,Fintech Cappuccino Token ((CUPP)),https://fintechsystems.ltd/,Finance
+0x444444444444c1a66f394025ac839a535246fcc8,Genius ((GENI)),https://geni.app/,Finance
+0x3ba2f81b878699443f2e6748925336318ee79f19,vSynpulse Token of 2023 ((vSYN23)),https://www.synpulse.com/,Finance
+0xee5989c78a18f580dc107630e40bafc901a7cc46,XELO ((XELO)),https://solex.ai/,Finance
+0xc35aaea6dd561a9976e1745a22f8cc5a762354bb,AIVIA TOKEN ((AIV)),https://aivia.io/,Finance
+0xbf05571988daab22d33c28bbb13566eae9dee626,999 ((999)),https://coin999.cash/,Finance
+0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03,TRYfinance ((TRY)),http://try.finance/,Finance
+0x0852ad7039e926360719d0292d673234db0a27be,NAIRAUNIT.FINANCE ((NUNIT)),https://nairaunit.finance/,Finance
+0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346,MTI FINANCE ((MTI)),https://mti.finance/,Finance
+0xbed85cf4c249bd5fc187af600d652dd2beefddea,ADRENALINE ((ADRT)),https://adrenalineshots.io/,Finance
+0x000000ae5f1af01ddad56d933f7b38900614f914,Royal Finance Coin ((RFC)),https://rfcerc.com/,Finance
+0x01ebe4cef91677364048157e616be2dea445693b,GOLDEN Ratio ((GORA)),https://goratoken.com/,Finance
+0x9d7630adf7ab0b0cb00af747db76864df0ec82e4,GATE ((GATE)),https://gatenet.io,Finance
+0xc4d5545392f5fc57eba3af8981815669bb7e2a48,HEdpAY ((Hdp.ф)),https://www.hedpay.com/,Finance
+0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374,Veritaseum ((VERI)),http://veritas.veritaseum.com/,Finance
+0x9741eaa28c446e87ec859ad871f85ac9b62a983c,Aladdin Coins ((ACOIN)),https://www.acoin.org/,Finance
+0xe4cc5a22b39ffb0a56d67f94f9300db20d786a5f,UnFederalReserveToken,https://unfederalreserve.com/,Finance
+0x4db0e5c4df3562968f2d54448cd83ca65cfaa9a3,ZVC ((ZVC)),https://www.zvchain.io/,Finance
+0xc4f6e93aeddc11dc22268488465babcaf09399ac,hi Dollar ((HI)),https://www.hi.com/,Finance
+0x5d942f9872863645bcb181aba66c7d9646a91378,AltSignals ((ASI)),https://www.altsignals.io/,Finance
+0x7ab7d54f8cb054141142f04ba0b3d41ac4c4d61c,NOTHING,https://nothing.cash/,Finance
+0xe48972fcd82a274411c01834e2f031d4377fa2c0,TwoKeyEconomy ((2KEY)),https://2key.network/,Finance
+0x2cc71c048a804da930e28e93f3211dc03c702995,Kripton ((LPK)),https://lpkdefi.com/,Finance
+0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487,Hillstone.Finance ((HSF)),https://www.hillstone.finance/,Finance
+0x4534492034a2cd3eab34c8f357cd139c95b09f52,Marshal Lion Group Coin ((MLGC)),https://mlgc.io/,Finance
+0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465,NFT Platform Index ((NFTP)),https://indexed.finance/,Finance
+0xb1e93236ab6073fdac58ada5564897177d4bcc43,Seele Token ((Seele)),https://seelen.pro/index_en.html,Finance
+0xd18a8abed9274edbeace4b12d86a8633283435da,UnoSwap ((UNOS)),https://unos.finance/,Finance
+0x7aa6b33fb7f395ddbca7b7a33264a3c799fa626f,3X Long Dogecoin Token,https://restructuring.ra.kroll.com/FTX/,Finance
+0x02e7ac540409d32c90bfb51114003a9e1ff0249c,JPG NFT Index ((JPG)),https://moonrock.org/home,Finance
+0xfa2562da1bba7b954f26c74725df51fb62646313,ASSY Index ((ASSY)),https://powerpool.finance/,Finance
+0x865bfd8232778f00cae81315bf75ef1fe6e30cdd,ABLE X Token ((ABLX)),https://www.able-project.io/,Finance
+0xaebbd7b2eb03f84126f6849753b809755d7532f9,CAIZCOIN ((CAIZ)),https://caiz.com/,Finance
+0x3f17cfad23c2014c5a32722557df87dff46819da,Amplify Token ((AMPT)),https://ampt.finance/,Finance
+0xd883d21af976ec9fa409c9f2944a1e7d03d21946,Wrapped CHX ((wCHX)),https://weown.com/,Finance
+0x0bef619cf38cf0c22967289b8419720fbd1db9f7,AEN. ((AEN)),https://www.aencoin.com/,Finance
+0x2ecb95eb932dfbbb71545f4d23ca303700ac855f,TBCC ((TBCC)),https://www.tbcc.com/,Finance
+0x1af87007fee82dae3133d7dc3bebd4e1c5c7b552,Fintech Mocha Token ((MOCHA)),https://fintechsystems.ltd/,Finance
+0xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c,AmericanHorror.Finance ((AHF)),https://americanhorror.finance,Finance
+0x2b7d90f93ea2425a049c10bf56cbf8c03a5ff1db,SDS ((SDS)),https://keplerswap.io/,Finance
+0x96c645d3d3706f793ef52c19bbace441900ed47d,MtPelerin Shares ((MPS)),https://www.mtpelerin.com/,Finance
+0x8d52061af43c52204c717d0610ea8f52f955ce0b,Mia Neko ((MIA)),https://www.gojicrypto.com/,Finance
+0x978ae6d28e64413c4f7a5061c6840cc5dc2b84d6,Palladium ((PLLD)),https://plld.net/,Finance
+0xedbf98724a86f92baefac101082c366e96f1e9d9,BiFinance Token ((BFT)),https://www.bifinance.com/home,Finance
+0xf25c91c87e0b1fd9b4064af0f427157aab0193a7,BASIC Token ((BASIC)),http://www.thebasic.io/,Finance
+0xcdf1a51260861804ffe06e96becd8bcd4d018976,Shaktiio ((SKTO)),https://shakti.io,Finance
+0x4d0425e47ee2d16b94c036715dfcb52a0cebc4dc,TAGZ5 ((TAGZ5)),https://tagz.com/tagz5/,Finance
+0xe4e822c0d5b329e8bb637972467d2e313824efa0,dfinance ((XFI)),https://dfinance.co/,Finance
+0x4c10bd19688b906665fbd53415f279f34b44ece7,YUI Token ((YUI)),https://www.yui.finance/,Finance
+0x21686f8ce003a95c99acd297e302faacf742f7d4,Conceal - Wrapped CCX ((wCCX)),https://conceal.network/,Finance
+0x4f1270c0d1ca109529a4a1a5e1328f8b67123c08,SwissShares ((SSI)),https://shares.swissinvestor.ch/,Finance
+0x5ff0d2de4cd862149c6672c99b7edf3b092667a3,SPX69000 ((SPX)),https://spx69000.net,Finance
+0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8,CY Finance ((CYF)),https://cy.finance/,Finance
+0x65f418a54eb932bdb40e617b156f8f8b8182618a,Centurion Invest Token ((CIX)),https://www.centurioninvest.com/en/,Finance
+0x772c44b5166647b135bb4836abc4e06c28e94978,Normie ((NORMIE)),https://normie.finance/,Finance
+0x28a06c02287e657ec3f8e151a13c36a1d43814b0,BondAppetit Governance ((BAG)),https://bondappetit.io/,Finance
+0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c,FXT TOKEN ((FXT)),https://ico.fxttoken.com/,Finance
+0x29117ff22c7f156ba0fcbdff92a07344e1d3440c,OMAGE ((OMA)),https://omageproject.com/,Finance
+0xf32122561d51e891b823dec2b42f644884c1cd91,DeFido ((DEFIDO)),https://defidotoken.com/,Finance
+0xd883d21af976ec9fa409c9f2944a1e7d03d21946,Wrapped CHX ((wCHX)),https://weown.com/,Finance
+0x2b78c26973545f9fd7ebdb01922966628382e6ba,yefam.finance ((YEFAM)),https://yefam.finance/,Finance
+0xe65cdb6479bac1e22340e4e755fae7e509ecd06c,Compound Aave Token ((cAAVE)),https://compound.finance/,Finance
+0xa5c43fff568fc2115d54499d4cf202bb490ef152,EDC Blockchain ((EDC)),https://blockchain.mn/,Finance
+0x2d792219f3cc05ad3d572304d74a22e652e7f877,ZeNeX Coin ((ZNX)),https://zenex-coin.com/,Finance
+0xcabf96a41a4d98ee91d4fb1004dc4b3b8548cb53,BffDoom ((BFF)),https://www.bffdoom.com/,Finance
+0x2dba05b51ef5a7de3e7c3327201ca2f8a25c2414,unFederal DAI ((unDAI)),https://unfederalreserve.com/,Finance
+0x32e72f81afa6882d9b00b899a5c25b9161254fab,Causecoin ((Cause)),https://www.cause.vision/,Finance
+0x7b69d465c0f9fb22affae56aa86149973e9b0966,Protocol Finance ((PFI)),https://www.protocolfinance.com/,Finance
+0x0782d311b07a54aa638bcb614c6d78b98eb45e68,MultiBank Group ((MBG)),https://multibank.io/,Finance
+0x3d064dbc3d740cb6d38e527875fd76125d32896d,Revenue Token ((FINR)),https://fintechsystems.ltd/,Finance
+0xd6cb2adf47655b1babddc214d79257348cbc39a7,Oracle Top 5 Tokens Index ((ORCL5)),https://indexed.finance/,Finance
+0x12ed21c3d2e966162c4c65ea8a62d13061d46eb6,Vivid Pure ((vPURE)),https://vivid.finance/,Finance
+0x4d7cbc987403f1d2094238b5ee17d2dea14a7bb6,Auditchain ((AUDT)),https://auditchain.finance/,Finance
+0x73e14d83f0f107e0ac02131567ade0bedb55a10e,Pongo Inu ((PONGO)),https://pongoinu.io/,Finance
+0x8a0cdfab62ed35b836dc0633482798421c81b3ec,Spherium Token ((SPHRI)),https://spherium.finance/,Finance
+0x82ca5fcd9ef2d6ceeb49a057bb11c3e091560979,KIKI ((KIKI)),https://kiki.finance/,Finance
+0x0775c81a273b355e6a5b76e240bf708701f00279,Bulleon ((BUL)),https://bulleon.io/,Finance
+0x9d7630adf7ab0b0cb00af747db76864df0ec82e4,GATE ((GATE)),https://gatenet.io,Finance
+0x3f3b3b269d9f7088b022290906acff8710914be1,Strike LINK ((sLINK)),https://strike.org/,Finance
+0x91b08f4a7c1251dfccf5440f8894f8daa10c8de5,BAXagent Coin ((BAXA)),https://www.baxacoin.com/,Finance
+0xcfa0885131f602d11d4da248d2c65a62063567a9,TORG ((TORG)),https://www.torg.to/,Finance
+0xf906997808f73b09c1007b98ab539b189282b192,USDG ((USDG)),https://www.acashcorp.com/,Finance
+0xbed85cf4c249bd5fc187af600d652dd2beefddea,ADRENALINE ((ADRT)),https://adrenalineshots.io/,Finance
+0x2e65e12b5f0fd1d58738c6f38da7d57f5f183d1c,Tepleton ((TEP)),http://www.tepleton.io/,Finance
+0x7aa6b33fb7f395ddbca7b7a33264a3c799fa626f,3X Long Dogecoin Token,https://restructuring.ra.kroll.com/FTX/,Finance
+0x6417e8673dedd7a0471a87804bf85a559fd8bcc2,Aura Protocol ((AURA)),https://auraprotocol.io,Finance
+0xd370ebf11d083917dadc9080159127cc0b4f8496,Spaceium Token ((SPMT)),https://spaceium.io/,Finance
+0x07bf5f95851ef2b2996f192569e406a6fea2a95a,SEALToken ((SEAL)),https://www.sealchain.io/,Finance
+0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b,AZ FundChain ((AZT)),https://azfundchain.io/,Finance
+0xec4a1c7a4e9fdc7cc621b548a931c92bc08a679a,Goji ((GOJ)),https://www.gojicrypto.com/,Finance
+0xf842561c152c377b036f6191a1675e6887ae2b26,SEYCOIN ((SEYC)),http://www.seycoin.org/,Finance
+0x11f2e86392e4554981aa637a2bf0b8f1d47d333a,vSynpulse Token of 2022 ((vSYN22)),http://www.synpulse.com/,Finance
+0x61c1cf2a67c80ada89983623667914376924d12e,Yearn Finance Bank Token ((YFBNK)),https://yfibank.finance/,Finance
+0x0d97fee619d955509e54b046c9992b6e9f5b0630,PONY Index ((PONY)),https://ponyfinance.xyz/,Finance
+0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7,HIZ Finance ((HIZ)),https://hizfinance.com/,Finance
+0x2b591e99afe9f32eaa6214f7b7629768c40eeb39,HEX ((HEX)),https://hex.com/,Finance
+0xa47143bc550a9bf004bcdd3ab74e3e520faa1070,Doge Floki Coin ((DOFI)),https://dogefloki.site,Finance
+0x55fb228730ed971269ebf284c7500d5ff572a141,PEPECOLA,https://pepecola.finance/,Finance
+0x0818000b9194ce99c3c0f12c2ec8c96077b6c72b,Hodlberg ((HDLBRG)),https://hodlberg.com/,Finance
+0x12e951934246186f50146235d541d3bd1d463e4d,Crypto International ((CRI)),https://cri.network,Finance
+0x96d1277895466bf41a6be937e0212a61ada714c0,The GloBridge Token ((TGBT)),https://theglobridge.com/,Finance
+0x5f7fa1a0ae94b5dd6bb6bd1708b5f3af01b57908,"YFIKING,FINANCE",https://yfi-group.com,Finance
+0x59af0356cdebd1fa23ae5dadff9170bbfc31278c,Two Prime FF1 Token ((FF1)),https://twoprime.io/,Finance
+0xa0f08c15ef53f5714423432f8ebf5a5f2fda52ed,Moneyhero Token ((MYH)),https://moneyhero.io/,Finance
+0xbf5496122cf1bb778e0cbe5eab936f2be5fc0940,FundToken ((FUNDZ)),https://fundfantasy.io/,Finance
+0x6e2aa5bb90ac37d9006685afc651ef067e1c7b44,unFederal USDT ((unUSDT)),https://unfederalreserve.com/,Finance
+0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509,Open Ecosystem Token ((OPN)),https://onopen.xyz/,Finance
+0x1981e32c2154936741ab6541a737b87c68f13ce1,DAII ((DAII)),https://bitstable.finance/,Finance
+0x5f190f9082878ca141f858c1c90b4c59fe2782c5,Kudoe ((KDOE)),https://kudoe.io/,Finance
+0xdb6bcae929767e657884b03974c849d46352cde4,Fintech Latte Token ((LATTE)),https://fintechsystems.ltd/,Finance
+0xf32544d1ab31814160054bd6371db4de389e0083,Vivid Finance ((VIVID)),https://vivid.finance/,Finance
+0x449beb48bae34ece255674ff400f983615a86cd8,Governor Network ((GVN)),https://governor.network/,Finance
+0x673a2722e5a8f614beaa66a2ba73384d98424d51,MultiStrategiesCapital ((MSC)),https://multistrategies.capital/,Finance
+0x9ed1439d328647bdb148c20316ea024c719a735b,Light Token ((LT)),https://hope.money/,Finance
+0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760,ZPER ((ZPR)),https://zper.io/,Finance
+0x28a06c02287e657ec3f8e151a13c36a1d43814b0,BondAppetit Governance ((BAG)),https://bondappetit.io/,Finance
+0x3774e825d567125988fb293e926064b6faa71dab,Strike USDC ((sUSDC)),https://strike.org/,Finance
+0xa209ba34c01a2713a4453a656630cc9de8a362bc,3X Short Chainlink Token,https://ftx.com/tokens/LINKBEAR,Finance
+0x4f1270c0d1ca109529a4a1a5e1328f8b67123c08,SwissShares ((SSI)),https://shares.swissinvestor.ch/,Finance
+0x29ff3479e15b6ceede73858e169983afb83d36a6,FXBARTERCOIN ((FXBC)),http://www.fxbartercoin.com/,Finance
+0x40304195abab064a0f4444acb6e7556d9f492b98,xProject.finance ((SXT)),https://xproject.finance/,Finance
+0xbc61908cc90f35d87a5ba1c6ec2d5aa496804450,Synthesis Bank ((STB)),https://synthesisbank.co/,Finance
+0x347a96a5bd06d2e15199b032f46fb724d6c73047,Application Specific Internet Coin ((ASIC)),https://pulsebitcoin.com/,Finance
+0x5d8ce06a40fb101895be5b6560931b92a1b3444f,TAGZ ((TAGZ)),https://tagz.com/,Finance
+0xc9e823929b74720990f0e3914ef718c37480494f,Safaia Gabanansu ((GABA)),https://www.gojicrypto.com/,Finance
+0xcc97c17af0f3446c635ffaf8fbec8899d67a16d3,Vestion ((VES)),http://www.vestion.net/,Finance
+0x19fffd124cd9089e21026d10da97f8cd6b442bff,Zuflo Coin ((ZFL)),https://www.zedxe.com/,Finance
+0xe8521b61f64fc45a0bc3db36d2a524fe61a69b52,Duet Governance Token ((DUET)),https://www.duet.finance/,Finance
+0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba,ETH.limiteD ((ELD)),https://eth.limited/,Finance
+0xda446fad08277b4d2591536f204e018f32b6831c,NZD Stablecoin ((NZDS)),https://www.techemynt.com/,Finance
+0xc98a910ede52e7d5308525845f19e17470dbccf7,Wrapped ILCOIN ((WILC)),https://wilc.finance/,Finance
+0xb84145235a2e1ae6a5d3e2a03943fd6b5f3d9a1c,GLOBALTRUSTFUND TOKEN (Wormhole) ((GTF)),https://www.gtftoken.com/,Finance
+0xee5989c78a18f580dc107630e40bafc901a7cc46,XELO ((XELO)),https://solex.ai/,Finance
+0x3685210e82c16a0d7ce4f09472fdf8afc0801ed8,Cryptocurrency Market ((CCM)),https://cryptocurrency-market.co/,Finance
+0x000ff9191a4b7e14c9a083a30c93edcd9a794087,Beyzat ((BYZ)),https://www.beyzatcoin.com/,Finance
+0x7c5a64dcba6e199ac92464403d426bf528902456,OptionsKings ((OKT)),http://www.optionskings.io/,Finance
+0x24083bb30072643c3bb90b44b7285860a755e687,SGelderGER ((GELD)),http://www.soerengelder.com/,Finance
+0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc,Pareto Network Token ((PARETO)),https://pareto.network/,Finance
+0xd5811e1fd3222bb6a1485b071ee1b93ae7c5b68b,Univalue ((UNV)),http://univalue.io/,Finance
+0xb8a5dba52fe8a0dd737bf15ea5043cea30c7e30b,AFRICUNIA BANK ((AFCASH)),https://www.africunia.com/,Finance
+0x75f1663e74c0f77df0fe5c6f0901a55de3259380,THANKQ ((TQP)),https://www.tqnetworks.io/,Finance
+0x3635e381c67252405c1c0e550973155832d5e490,JAPAN BRAND COIN ((JBC)),https://blockchainneo.io/,Finance
+0x5d446fc8dbd10ebacfe9a427ab5402586af98cd4,unFederal WBTC ((unWBTC)),https://unfederalreserve.com/,Finance
+0x686e8500b6be8812eb198aabbbfa14c95c03fc88,Staked Open Ecosystem Token ((xOPN)),https://onopen.xyz/,Finance
+0x31a2e08f4232329e4eddb025c0275f43c9cd56d7,lUSD ((lUSD)),https://linear.finance/,Finance
+0x6f59e0461ae5e2799f1fb3847f05a63b16d0dbf8,ORCA Token ((ORCA)),http://www.orcaalliance.eu/,Finance
+0xe0b7e882c194881c690924cb46154b8241f9145e,CoFinex ((CNX)),https://www.cofinex.io/,Finance
+0x7ab7d54f8cb054141142f04ba0b3d41ac4c4d61c,NOTHING,https://nothing.cash/,Finance
+0x6776500588f0479beefa31ca7a81ff08ae567757,Fintech Cappuccino Token ((CUPP)),https://fintechsystems.ltd/,Finance
+0xf029fd6b5ed35c825dd02b7a02952c30002840e4,Sigil Finance ((SIGIL)),https://sigil.finance/,Finance
+0x3e88f8c31e1f9d26c1904584efbca58b75f53568,Vivid Finance,https://vivid.finance/,Finance
+0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4,SQUEEZE TOKEN,https://squeezetoken.finance,Finance
+0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e,Divert finance ((DEVE)),https://divertfinance.com/,Finance
+0xb3299d4bab93bf04d5b11bc49cd6dfad1f77d23f,3X Short Cardano Token,https://ftx.com/tokens/ADABEAR,Finance
+0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd,EveryCoin ((EVY)),https://www.everycoin.io/,Finance
+0xf2ccd161f06d88479b50d4bedbad9992dbdaffdd,Colendi Token ((COD)),https://www.colendi.com/,Finance
+0x8031c44b96ec8c9b66ab16c2c164e8deeb361a3f,Lira ((LIRA)),https://lira.financial/,Finance
+0x7025bab2ec90410de37f488d1298204cd4d6b29d,MasterXriba ((XRA)),https://xriba.org/,Finance
+0xb2883f71092ce684c147924ea75c31b19cd7a351,OodleCoin ((ODC)),https://oodlecoin.io/,Finance
+0x1d2a0a0cefc51d85eb2ed5cfd14daa180a3f7657,SMRT ((SMRT)),https://www.tradingsmrt.com/,Finance
+0x170cb9d7f4c6c42bcf0bc9c5252d10df9400c362,Hancom Token ((HCT)),https://hct.finance/,Finance
+0x874cb28a655e0ef827d810e211ae4b9cbcbaf614,GainDAO Token ((GAIN)),https://gaindao.io/,Finance
+0x87958b189863b57eaa99a4d7b910591b585666c0,TaigaCapitalLtd ((TG)),https://taigacapitalltd.net/,Finance
+0x4b57413c35e8b47f5679374a81e451bdfec24f27,KINKY ((KINKY)),https://www.kinkycoin.io/,Finance
+0xa5e262ec733051b14b38901901a82f2684637e78,MeconCash ((MCH)),http://www.meconcash.com/,Finance
+0x36417d9f5a927b3af2f03fe8c8d4fde715601b83,Vufi Shares ((VUFIS)),https://vufi.finance/,Finance
+0x901ea3606d567f9f1e964639d5cbb8659080be8a,Coinw token ((CWT)),https://www.coinw.com/,Finance
+0x0d97fee619d955509e54b046c9992b6e9f5b0630,PONY Index ((PONY)),https://ponyfinance.xyz/,Finance
+0x96c645d3d3706f793ef52c19bbace441900ed47d,MtPelerin Shares ((MPS)),https://www.mtpelerin.com/,Finance
+0xc2058f5d9736e8df8ba03ca3582b7cd6ac613658,ESAX ((ESAX)),https://esax.tech/,Finance
+0xbbd900e05b4af2124390d206f70bc4e583b1be85,MintySwap ((MINTYS)),https://mintyswap.com/,Finance
+0x3709e8615e02c15b096f8a9b460ccb8ca8194e86,Vee ((VEE)),https://vee.finance/,Finance
+0x735fa792e731a2e8f83f32eb539841b7b72e6d8f,ARYZE eEUR ((eEUR)),https://aryze.io/,Finance
+0xedbf98724a86f92baefac101082c366e96f1e9d9,BiFinance Token ((BFT)),https://www.bifinance.com/home,Finance
+0x699a8020a59f637cc10d316ef4f713899ee49689,Forbit Token ((FBT)),https://forbit.org/,Finance
+0x7b69d465c0f9fb22affae56aa86149973e9b0966,Protocol Finance ((PFI)),https://www.protocolfinance.com/,Finance
+0x31e92324ef7185c65dd4d154cfa4f6326b489c55,EARN Network ((EARN$)),https://earnnetwork.io/,Finance
+0x98af2e926206f1eb5af46aeddd144727267d0487,QIQ ((QIQ)),https://www.qoiniq.com/,Finance
+0xd837eca6c91c67d98461a411ba2f00bda9960a9d,unFederal AAVE ((unAAVE)),https://unfederalreserve.com/,Finance
+0x58002a6b6e659a16de9f02f529b10536e307b0d9,Crypto Holding Frank Token ((CHFT)),https://www.cryptoholding.com/,Finance
+0x60a16b9efd33bb45c18833aed45ca66045b3b714,i9X Coin ((I9X)),https://i9x.finance/,Finance
+0xcabf96a41a4d98ee91d4fb1004dc4b3b8548cb53,BffDoom ((BFF)),https://www.bffdoom.com/,Finance
+0xac5be0beacafe5edd521c00d8e908ec92001c22d,Aligator,https://aligator.finance/,Finance
+0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99,Azbit ((AZ)),https://azbit.com/,Finance
+0xa92cdf011c895780733b2a6a6e15c4c1ed836148,DeFi.ch ((DFCH)),https://www.defi.ch,Finance
+0xf6832ea221ebfdc2363729721a146e6745354b14,FRMx Token ((FRMX)),https://ferrum.network/,Finance
+0x3f3b3b269d9f7088b022290906acff8710914be1,Strike LINK ((sLINK)),https://strike.org/,Finance
+0x30eeb336ea23552d45d33761816bfb6aa6a7dc40,Bulls Run Token,https://bullsruntoken.com/,Finance
+0x7458fd786b2fe8cd801c0381f88b61c5071a006f,LOAPROTOCOL ((LOA)),https://www.loaprotocol.io/,Finance
+0xb84145235a2e1ae6a5d3e2a03943fd6b5f3d9a1c,GLOBALTRUSTFUND TOKEN (Wormhole) ((GTF)),https://www.gtftoken.com/,Finance
+0xd98bd7bbd9ca9b4323448388aec1f7c67f733980,Nexxo Tokens ((NEXXO)),https://nexxo.io/,Finance
+0x7cda79830faf07ed696fe220566116951ced36a7,Maya Preferred ((MAYP)),https://mayapreferred.io,Finance
+0x11f2e86392e4554981aa637a2bf0b8f1d47d333a,vSynpulse Token of 2022 ((vSYN22)),http://www.synpulse.com/,Finance
+0xf5c6d9fc73991f687f158fe30d4a77691a9fd4d8,staked HOPE ((stHOPE)),https://hope.money/,Finance
+0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4,SONE Token ((SONE)),https://s-one.finance/,Finance
+0x98c3cf2806068e2f7b7b8ccf40a9f6214c886821,2local ((L2L)),https://2local.io/,Finance
+0x653430560be843c4a3d143d0110e896c2ab8ac0d,Molecular Future ((MOF)),http://www.molecular.cc/,Finance
+0x219e11d706ddd7180e63cad4d802f356fcffe8f0,UYYU Money ((UYYU)),http://uyyuapp.com/,Finance
+0x79dc068b70a8cf71f7a577c30fd7e502a2e183bd,Raijin Token ((RAIJIN)),https://raijintoken.xyz/,Finance
+0xe48972fcd82a274411c01834e2f031d4377fa2c0,TwoKeyEconomy ((2KEY)),https://2key.network/,Finance
+0x1f4cb968b76931c494ff92ed80ccb169ad641cb1,structure.finance token ((STF)),https://structure.finance/,Finance
+0xda446fad08277b4d2591536f204e018f32b6831c,NZD Stablecoin ((NZDS)),https://www.techemynt.com/,Finance
+0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b,AZ FundChain ((AZT)),https://azfundchain.io/,Finance
+0xf906997808f73b09c1007b98ab539b189282b192,USDG ((USDG)),https://www.acashcorp.com/,Finance
+0xe138fda441fc31b36171122397a8a11d6cd2c479,GTIB ((GTC)),http://www.gtibcoin.com/,Finance
+0xa47143bc550a9bf004bcdd3ab74e3e520faa1070,Doge Floki Coin ((DOFI)),https://dogefloki.site,Finance
+0xd711d7d893de57dc13ff465763218770bd42db1d,ARYZE eGBP ((eGBP)),https://aryze.io/,Finance
+0x0f3b904172f937748af7f09353b016219a14562c,Polygon Star ((PoS)),https://www.polygonstar.xyz/,Finance
+0xbaa70614c7aafb568a93e62a98d55696bcc85dfe,UniCap.finance ((UCAP)),https://unicap.finance/,Finance
+0x5f7fa1a0ae94b5dd6bb6bd1708b5f3af01b57908,"YFIKING,FINANCE",https://yfi-group.com,Finance
+0x5f190f9082878ca141f858c1c90b4c59fe2782c5,Kudoe ((KDOE)),https://kudoe.io/,Finance
+0x0affa06e7fbe5bc9a764c979aa66e8256a631f02,Polybius ((PLBT)),https://polybius.io,Finance
+0x6a4d4525d6821292dbb861ab263b3dd337248283,FarmersVille ((FMV)),https://farmersville.io/,Finance
+0x29641e1096d4240b09a933839feac57b200652a4,BIOP ((BIOP)),https://biopset.com/,Finance
+0x1981e32c2154936741ab6541a737b87c68f13ce1,DAII ((DAII)),https://bitstable.finance/,Finance
+0xe8f8378f02dd54153aa21d93673f291322222714,PayPDM Coin ((PYD)),https://paypdm.org/,Finance
+0x9e29ce9cd25f4141df6bb85b27ef6933a16a5824,unFederal YFI ((unYFI)),https://unfederalreserve.com/,Finance
+0xc35aaea6dd561a9976e1745a22f8cc5a762354bb,AIVIA TOKEN ((AIV)),https://aivia.io/,Finance
+0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487,Hillstone.Finance ((HSF)),https://www.hillstone.finance/,Finance
+0x6c83f77e309d1263047848187dd34a2d2674ba03,Titan Token ((TITAN)),https://www.triplegoldglobal.org/,Finance
+0xf029fd6b5ed35c825dd02b7a02952c30002840e4,Sigil Finance ((SIGIL)),https://sigil.finance/,Finance
+0xbf5496122cf1bb778e0cbe5eab936f2be5fc0940,FundToken ((FUNDZ)),https://fundfantasy.io/,Finance
+0x2e65e12b5f0fd1d58738c6f38da7d57f5f183d1c,Tepleton ((TEP)),http://www.tepleton.io/,Finance
+0x1e5193ccc53f25638aa22a940af899b692e10b09,Alluo Token ((ALLUO)),https://alluo.com/,Finance
+0x1a969239e12f07281f8876d11afcee081d872adf,MEET.ONE Finance ((MEFI)),https://meet.one/,Finance
+0x3774e825d567125988fb293e926064b6faa71dab,Strike USDC ((sUSDC)),https://strike.org/,Finance
+0x00a8b738e453ffd858a7edf03bccfe20412f0eb0,AllianceBlock Token ((ALBT)),https://www.allianceblock.io/,Finance
+0x3f17cfad23c2014c5a32722557df87dff46819da,Amplify Token ((AMPT)),https://ampt.finance/,Finance
+0x3d064dbc3d740cb6d38e527875fd76125d32896d,Revenue Token ((FINR)),https://fintechsystems.ltd/,Finance
+0x01ebe4cef91677364048157e616be2dea445693b,GOLDEN Ratio ((GORA)),https://goratoken.com/,Finance
+0x29ff3479e15b6ceede73858e169983afb83d36a6,FXBARTERCOIN ((FXBC)),http://www.fxbartercoin.com/,Finance
+0xa2236b7e06135cae63edecc983245607d2eaf378,TTT.Finance ((TTT)),https://ttt.finance/,Finance
+0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e,Divert finance ((DEVE)),https://divertfinance.com/,Finance
+0x0789dbae94fb18e5789b8e4489bcb7a1adb58622,FiscoCoin ((FSCC)),https://fiscocoin.jp/index_en.html,Finance
+0xe8521b61f64fc45a0bc3db36d2a524fe61a69b52,Duet Governance Token ((DUET)),https://www.duet.finance/,Finance
+0x87fdd1e031b356bdc1c55a3231cfe266552d8284,PBM Coin ((PBMC)),https://pbm-coin.com/,Finance
+0xff2b3353c3015e9f1fbf95b9bda23f58aa7ce007,BitScreenerToken ((BITX)),https://bitscreener.com/,Finance
+0xd6caf5bd23cf057f5fccce295dcc50c01c198707,Evanesco Network ((EVA)),https://www.evanesco.org/,Finance
+0x343c6de13833bc7d9890eb6b1cd3fbebc730ebec,Dact Coin ((DACT)),https://dact.social/,Finance
+0x9c794f933b4dd8b49031a79b0f924d68bef43992,XTRD ((XTRD)),https://xtrd.io/,Finance
+0x00ff902d4b2bfdbd0db38887412447c30b565aa0,Tcoin.fun ((TCO)),https://tcoin.fun/,Finance
+0x6267873a5a0a1647a8fbb25541605a0815e04d74,GDC Coin ((GDC)),https://www.gdccoin.biz/,Finance
+0xa5c43fff568fc2115d54499d4cf202bb490ef152,EDC Blockchain ((EDC)),https://blockchain.mn/,Finance
+0xcdf1a51260861804ffe06e96becd8bcd4d018976,Shaktiio ((SKTO)),https://shakti.io,Finance
+0xf823fd9ac0abb8d779076a41daa049844299f6ed,Squid Game ((SQUID)),https://www.squidgameholders.club/,Finance
+0x5d8ce06a40fb101895be5b6560931b92a1b3444f,TAGZ ((TAGZ)),https://tagz.com/,Finance
+0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3,Cryptocurrency Top 10 Tokens Index ((CC10)),https://indexed.finance,Finance
+0x219769c36de23b373eb7fbf5303f53026c89048f,Linxy Finance ((LINXY)),https://linxyfinance.com/,Finance
+0x8d11c55b4e6a8ca74edec6980400e3b81d65842a,CREE ((CREE)),CREEBank.org,Finance
+0xa30189d8255322a2f8b2a77906b000aeb005570c,Buy-Sell ((BSE)),https://www.buy-sell.io/,Finance
+0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc,Pareto Network Token ((PARETO)),https://pareto.network/,Finance
+0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5,3X Long Midcap Index Token,ftx.com/tokens/MIDBULL,Finance
+0xe0b7e882c194881c690924cb46154b8241f9145e,CoFinex ((CNX)),https://www.cofinex.io/,Finance
+0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9,LALA ((LALA)),https://lalaworld.io/,Finance
+0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b,Trustcoin ((TRST)),https://www.wetrust.io/,Finance
+0x4d7cbc987403f1d2094238b5ee17d2dea14a7bb6,Auditchain ((AUDT)),https://auditchain.finance/,Finance
+0x31a2e08f4232329e4eddb025c0275f43c9cd56d7,lUSD ((lUSD)),https://linear.finance/,Finance
+0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b,Trustcoin ((TRST)),https://www.wetrust.io/,Finance
+0x98c3cf2806068e2f7b7b8ccf40a9f6214c886821,2local ((L2L)),https://2local.io/,Finance
+0x4185cf99745b2a20727b37ee798193dd4a56cdfa,DEUS Synthetic Coinbase IOU,https://deus.finance/,Finance
+0x31a2e08f4232329e4eddb025c0275f43c9cd56d7,lUSD ((lUSD)),https://linear.finance/,Finance
+0x251326994cd8ef9e049b0ab42910f49be1d170f4,PowerCoin ((PKOIN)),https://www.powercorp.us/,Finance
+0x031002d15b0d0cd7c9129d6f644446368deae391,unFederal LINK ((unLINK)),https://unfederalreserve.com/,Finance
+0xf25c91c87e0b1fd9b4064af0f427157aab0193a7,BASIC Token ((BASIC)),http://www.thebasic.io/,Finance
+0xe4ddbbd505132519361d55c449eacd153d6d7bce,MicroCreditToken ((MCT)),https://microcredittoken.com/,Finance
+0x59e7b5db9be0bdd26fa048d39e01fee456ab674e,Yearn Finance Bit2 ((YFB2)),https://yfbit.finance,Finance
+0x68e8a20128e1902c02f533a02ed0cfd8396e3fbc,AriesFinancial ((AFI)),https://www.aries.financial/,Finance
+0x3635e381c67252405c1c0e550973155832d5e490,JAPAN BRAND COIN ((JBC)),https://blockchainneo.io/,Finance
+0xbf59e6fe2bc4ee8d303e493390b4aacab16fcc91,Clipper Coin Capital ((CCC)),http://www.clippercoin.com/,Finance
+0x9da1659a203cefe6e9c6da98c7a669a1ec3d7ede,Pngcoin ((PNG)),https://pngme.com/,Finance
+0xe4cc5a22b39ffb0a56d67f94f9300db20d786a5f,UnFederalReserveToken,https://unfederalreserve.com/,Finance
+0xb34a1ed99cc0304f6caf322de4dc197a5b7c2858,MOUSSA FINANCE COIN ((MFC)),https://www.moussafinancecoin.com/,Finance
+0xe13879194578c6f1a591a96c45b65022c43cec07,The meme finance ((mefi)),https://www.memefinances.com/,Finance
+0xd387f0e62e3f123a54ae486056a5d859affed0c8,fyeth.finance ((yETH)),https://fyeth.finance/,Finance
+0xf2d65d9cae4e0a5593f760248ce31801bb797655,SEBA Gold Token ((SGT)),https://www.seba.swiss/,Finance
+0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0,Inverse Bitcoin Volatility Token ((IBVOL)),https://ftx.com/trade/IBVOL/USD,Finance
+0x444444444444c1a66f394025ac839a535246fcc8,Genius ((GENI)),https://geni.app/,Finance
+0x5b52bfb8062ce664d74bbcd4cd6dc7df53fd7233,ZENIQ ((ZENIQ)),https://zeniq.com/,Finance
+0x7449c93abe66457e83b3799bcf1a99e92d58a93b,CryptMI ((CYMI)),https://www.cryptmi.com/,Finance
+0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9,XOVBank ((XOV)),http://www.xov.io/,Finance
+0x2c650e77f77440cad701d4063a99c71be0c53e0d,KRPT ((KRPT)),https://krptcoin.global/,Finance
+0x59af0356cdebd1fa23ae5dadff9170bbfc31278c,Two Prime FF1 Token ((FF1)),https://twoprime.io/,Finance
+0xc0ebcb68fc449104fd74e792fbe7153ad242f095,One Piece Coin ((BELLY)),https://www.onepiecebelly.com/,Finance
+0x763a67be94e2494dbffdcc62cee4ed8f761f6770,Bitenny ((BTNY)),https://bitenny.io/,Finance
+0xa8b3c374429035237932aee2fbd88ff4c8d710e8,Stableer USD ((STRU)),https://stableer.com/,Finance
+0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41,DEFI Top 5 Tokens Index ((DEFI5)),https://indexed.finance/,Finance
+0x901ea3606d567f9f1e964639d5cbb8659080be8a,Coinw token ((CWT)),https://www.coinw.com/,Finance
+0xccbb59d91d61ed3981f7c2d914ae1a006acb3685,Short LyCI Service Token,http://lykke.com/,Finance
+0xb9871cb10738eada636432e86fc0cb920dc3de24,PRIA ((PRIA)),https://pria.eth.link/,Finance
+0xe4b5936dce1820f84509c89cce0f28c87988bad8,Universe Finance Token ((UNT)),https://www.universe.finance/,Finance
+0x7e03521b9da891ca3f79a8728e2eaeb24886c5f9,3X Long Matic Token,https://ftx.com/tokens/MATICBULL,Finance
+0x665f77fba5975ab40ce61c90f28007fb5b09d7b1,GenieSwap ((GENIE)),https://genieswap.com/,Finance
+0x7f7cac26a300cb2e911b0241f71a5c18f6481c9d,OYO ((OYO)),http://www.noyodcoin.com/en/,Finance
+0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58,Linkey Token ((LKY)),https://www.linkey.info/,Finance
+0x239119c43e3cac84c8a2d45bcba0e46f528e5f77,dripper.finance ((DRIP)),https://dripper.finance/,Finance
+0x65fd1fb6f0728c2744c44b54ec98448b05271ccf,Dapmcoin ((DPCN)),https://dapmcoindpcn.co.za/,Finance
+0x5de7cc4bcbca31c473f6d2f27825cfb09cc0bb16,XBE ((XBE)),https://xbe.finance/,Finance
+0xfacece87e14b50eafc85c44c01702f5f485ca460,unFederal ETH ((unETH)),https://unfederalreserve.com/,Finance
+0xf842561c152c377b036f6191a1675e6887ae2b26,SEYCOIN ((SEYC)),http://www.seycoin.org/,Finance
+0x88cd0ea6d4b01abb82de1361323f5d4e6fabb80b,FIAT ((FIAT)),https://www.fiatum.com/,Finance
+0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7,MAKES ((MKS)),https://coinmakes.com/,Finance
+0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7,HIZ Finance ((HIZ)),https://hizfinance.com/,Finance
+0xf660ca1e228e7be1fa8b4f5583145e31147fb577,Dicet ((CET)),https://www.dice.money/,Finance

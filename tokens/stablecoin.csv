@@ -1,0 +1,292 @@
+Contract Address,Token Name,Website,Label
+0xdac17f958d2ee523a2206206994597c13d831ec7,Tether USD ((USDT)),https://tether.to/,Stablecoin
+0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,USDC ((USDC)),https://www.circle.com/en/usdc,Stablecoin
+0xdc035d45d973e3ec169d2276ddab16f1e407384f,USDS Stablecoin ((USDS)),https://sky.money/,Stablecoin
+0x4c9edd5852cd905f086c759e8383e09bff1e68b3,USDe ((USDe)),https://www.ethena.fi/,Stablecoin
+0x6b175474e89094c44da98b954eedeac495271d0f,Dai Stablecoin ((DAI)),https://sky.money/,Stablecoin
+0xc5f0f7b66764f6ec8c8dff7ba683102295e16409,First Digital USD ((FDUSD)),https://firstdigitallabs.com/,Stablecoin
+0x320623b8e4ff03373931769a31fc52a4e78b5d70,Reserve Rights ((RSR)),https://reserve.org/,Stablecoin
+0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6,Decentralized USD ((USDD)),https://usdd.io/,Stablecoin
+0x68749665ff8d2d112fa859aa293f07a622782f38,Tether Gold ((XAUt)),https://tether.to/,Stablecoin
+0x853d955acef822db058eb8505911ed77f175b99e,Frax ((FRAX)),https://frax.finance,Stablecoin
+0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5,Usual USD ((USD0)),https://usual.money/,Stablecoin
+0x0000000000085d4780b73119b644ae5ecd22b376,TrueUSD ((TUSD)),https://trueusd.com/,Stablecoin
+0x6c3ea9036406852006290770bedfcaba0e23a0e8,PayPal USD ((PYUSD)),https://www.paypal.com/pyusd,Stablecoin
+0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0,Frax Share ((FXS)),https://frax.finance,Stablecoin
+0x15700b564ca08d9439c58ca5053166e8317aa138,deUSD ((deUSD)),https://www.elixir.xyz/,Stablecoin
+0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f,GHO Token ((GHO)),https://gho.xyz/,Stablecoin
+0xbc6da0fe9ad5f3b0d58160288917aa56653660e9,Alchemix USD ((alUSD)),https://alchemix.fi/,Stablecoin
+0xdb25f211ab05b1c97d595516f45794528a807ad8,STASIS EURS Token ((EURS)),https://stasis.net/,Stablecoin
+0x8e870d67f660d95d5be530380d0ec0bd388289e1,Pax Dollar ((USDP)),https://www.paxos.com/usdp/,Stablecoin
+0x1abaea1f7c830bd89acc67ec4af516284b1bc33c,EURC ((EURC)),https://www.circle.com/en/eurc,Stablecoin
+0x4fabb145d64652a948d72533023f6e7a623c7c53,BUSD ((BUSD)),http://www.paxos.com/busd,Stablecoin
+0x056fd409e1d7a124bd7017459dfea2f387b6d5cd,Gemini dollar ((GUSD)),https://gemini.com/dollar/,Stablecoin
+0x5f98805a4e8be255a32880fdec7f6728c6568ba0,LUSD Stablecoin ((LUSD)),https://liquity.org/,Stablecoin
+0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359,Sai Stablecoin v1.0 ((SAI)),https://sky.money/,Stablecoin
+0x5f7827fdeb7c20b443265fc2f40845b715385ff2,EUR CoinVertible ((EURCV)),https://www.sgforge.com/,Stablecoin
+0xc22956c3cfec3ee9a9925abee044f05bc47f6632,Celo Dollar (Wormhole) ((cUSD)),https://www.mento.org/,Stablecoin
+0x70e8de73ce538da2beed35d14187f6959a8eca96,XSGD ((XSGD)),https://straitsx.com,Stablecoin
+0xe343167631d89b6ffc58b88d6b7fb0228795491d,Global Dollar ((USDG)),https://globaldollar.com/,Stablecoin
+0xc581b735a1688071a1746c968e0798d642ede491,Euro Tether ((EURT)),https://tether.to/,Stablecoin
+0x1c48f86ae57291f7686349f12601910bd8d470bb,USDK ((USDK)),https://www.oklink.com/,Stablecoin
+0x1a7e4e63778b4f12a199c062f3efdd288afcbce8,EURA (previously agEUR) ((EURA)),https://angle.money/,Stablecoin
+0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa,Z.com USD ((ZUSD)),https://stablecoin.z.com/,Stablecoin
+0x57ab1ec28d129707052df4df418d58a2d46d5f51,Synth sUSD ((sUSD)),https://www.synthetix.io/,Stablecoin
+0xc08512927d12348f6620a698105e1baac6ecd911,GMO JPY ((GYEN)),https://stablecoin.z.com/,Stablecoin
+0x956f47f50a910163d8bf957cf5846d573e7f87ca,Fei USD ((FEI)),https://fei.money/,Stablecoin
+0x2a8e1e676ec238d8a992307b495b45b3feaa5e86,Origin Dollar ((OUSD)),https://www.ousd.com/,Stablecoin
+0xdf3ac4f479375802a821f7b7b46cd7eb5e4262cc,eUSD ((eUSD)),https://lybra.finance/,Stablecoin
+0x97de57ec338ab5d51557da3434828c5dbfada371,eUSD ((eUSD)),https://lybra.finance/,Stablecoin
+0xee586e7eaad39207f0549bc65f19e336942c992f,Celo Euro (Wormhole) ((cEUR)),https://www.mento.org/,Stablecoin
+0x9c354503c38481a7a7a51629142963f98ecc12d0,Origin Dollar Governance ((OGV)),https://ousd.com/,Stablecoin
+0xdf574c24545e5ffecb9a659c229253d4111d87e1,HUSD ((HUSD)),https://www.stcoins.com/,Stablecoin
+0x71b3a0566f4bf80331d115d8026a7022bf670cce,Diment Dollar ((DD)),https://diment.io/,Stablecoin
+0xb755506531786c8ac63b756bab1ac387bacb0c04,ZARP Stablecoin ((ZARP)),https://zarp.cash/,Stablecoin
+0xe2f2a5c287993345a840db3b0845fbc70f5935a5,mStable USD ((mUSD)),https://mstable.org/,Stablecoin
+0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef,Tether CNH ((CNHT)),https://tether.to/,Stablecoin
+0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27,Iron Bank EUR ((ibEUR)),https://yearn.fi/lend,Stablecoin
+0xcfc5bd99915aaa815401c5a41a927ab7a38d29cf,Threshold USD ((thUSD)),https://threshold.network/,Stablecoin
+0x1b3c515f58857e141a966b33182f2f3feecc10e9,Usk ((USK)),https://kujira.app,Stablecoin
+0x68037790a0229e9ce6eaa8a99ea92964106c4703,PAR Stablecoin ((PAR)),https://mimo.capital/,Stablecoin
+0xb4272071ecadd69d933adcd19ca99fe80664fc08,CryptoFranc ((XCHF)),https://bitcoinsuisse.com/cryptofranc,Stablecoin
+0x4cce605ed955295432958d8951d0b176c10720d5,AUDD ((AUDD)),https://www.audd.digital/,Stablecoin
+0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf,Digix Gold Token ((DGX)),https://digixglobal.io,Stablecoin
+0x820802fa8a99901f52e39acd21177b0be6ee2974,EUROe Stablecoin ((EUROe)),https://euroe.com/,Stablecoin
+0x9040e237c3bf18347bb00957dc22167d0f2b999d,Standard ((STND)),https://www.standardweb3.com/,Stablecoin
+0x0e573ce2736dd9637a0b21058352e1667925c7a8,USDV ((USDV)),https://usdv.money/,Stablecoin
+0x3b21418081528845a6df4e970bd2185545b712ba,CHI ((CHI)),https://chiprotocol.io/,Stablecoin
+0x86b4dbe5d203e634a12364c0e428fa242a3fba98,poundtoken ((1GBP)),http://www.poundtoken.io/,Stablecoin
+0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c,X8XToken ((X8X)),https://x8ag.io/,Stablecoin
+0xebf2096e01455108badcbaf86ce30b6e5a72aa52,XIDR ((XIDR)),https://straitsx.com/id,Stablecoin
+0x38547d918b9645f2d94336b6b61aeb08053e142c,USC ((USC)),https://chiprotocol.io/,Stablecoin
+0xc285b7e09a4584d027e5bc36571785b515898246,Coin98 Dollar ((CUSD)),https://coin98.com/dollar,Stablecoin
+0x05ac103f68e05da35e78f6165b9082432fe64b58,eToro Euro ((EURX)),https://www.etorox.com/exchange/euro/,Stablecoin
+0x24d61a6988b710bdf4bf5220573c60576374dffb,GBPM ((GBPM)),https://moneta.holdings/,Stablecoin
+0x5f27184fa83fe0e5aef2344b6d9eb3bd2118a290,agGOLD ((agGOLD)),https://angle.money,Stablecoin
+0x1fc31488f28ac846588ffa201cde0669168471bd,UAX ((UAX)),https://xreserve.fund/,Stablecoin
+0x1456688345527be1f37e9e627da0837d6f08c925,USDP Stablecoin ((USDP)),https://unit.xyz/,Stablecoin
+0xb3b209bb213a5da5b947c56f2c770b3e1015f1fe,sanFRAX_EUR,https://angle.money,Stablecoin
+0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5,Anchor ((ANCT)),https://theanchor.io/,Stablecoin
+0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe,StableUSD ((USDS)),https://www.stably.io/,Stablecoin
+0x648e5c72316bb75a0a7171354c18f341aae150b8,Echo CNY ((CNYE)),https://cny-e.com/,Stablecoin
+0x843c9af34f698618f90c898e3967278a260c8d9a,Silver Standard ((AGS)),https://goldsilverstandard.com/,Stablecoin
+0x0000000005c6b7c1fd10915a05f034f90d524d6e,TRYC ((TRYC)),https://stoken.paribu.com/tryc,Stablecoin
+0x0000206329b97db379d5e1bf586bbdb969c63274,USDA ((USDA)),https://angle.money/,Stablecoin
+0x735fa792e731a2e8f83f32eb539841b7b72e6d8f,ARYZE eEUR ((eEUR)),https://aryze.io/,Stablecoin
+0x38adcfe947b16ca7b7a28ce458ca757c66205cf0,ALLUSDT ((AUSDT)),http://www.alltra.global/,Stablecoin
+0x679fa6dc913acab6def33ec469fc6e421bc794f5,BribeToken ((BRIBE)),https://bribe.money/,Stablecoin
+0x60db53521c1563c89e55d9fceda8d47f55c14d0e,e-Money Danish Kroner ((EDKK)),https://www.e-money.com/,Stablecoin
+0x7c1156e515aa1a2e851674120074968c905aaf37,Level USD ((lvlUSD)),https://www.level.money/,Stablecoin
+0xd7e0f80fb28233bdde0006c50568606a8feb964c,Australian Dollar ((AUDT)),https://audt.to/,Stablecoin
+0x01d33fd36ec67c6ada32cf36b31e88ee190b1839,BRZ Token ((BRZ)),https://www.brztoken.io/,Stablecoin
+0x84e1c8823850d8adc3286f31bc1178f14d243168,BRL COIN ((BRLC)),https://www.bitcointoyou.com/brlc.html,Stablecoin
+0x2c537e5624e4af88a7ae4060c022609376c8d0eb,BiLira ((TRYb)),https://www.bilira.co/,Stablecoin
+0xed03ed872159e199065401b6d0d487d78d9464aa,TetherToken ((MXNt)),https://tether.to/,Stablecoin
+0x617f7c416cec4361246fac916feeb187d0c3e970,FLAT ((FLAT)),https://flata.io/,Stablecoin
+0x9baf5147505b980b2674aab556a51e03b3082efe,Exedum ((EXED)),https://exedum.io/,Stablecoin
+0x9fcf418b971134625cdf38448b949c8640971671,Neutrino EUR ((EURN)),https://neutrino.at/,Stablecoin
+0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21,Anchored Coins EUR ((AEUR)),https://www.anchoredcoins.com/en/landing,Stablecoin
+0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0,Jarvis Synthetic Swiss Franc ((jCHF)),https://jarvis.network/,Stablecoin
+0x00006100f7090010005f1bd7ae6122c3c2cf0090,TrueAUD ((TAUD)),https://www.trusttoken.com/trueaud/,Stablecoin
+0xf5b574aaf22f8bbad4a8f544c6599482f88e8231,CRDT USD ((SCRDT)),https://crdt.io/scrdt,Stablecoin
+0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6,Zunami USD ((zunUSD)),https://www.zunami.io/,Stablecoin
+0xe8de351d8f949b2ffb8068a84a3bc8034874fd32,STAR USD ((SUSD)),https://starsc.io/,Stablecoin
+0x2c2d8a078b33bf7782a16acce2c5ba6653a90d5f,L3USD ((L3USD)),https://lif3.com/,Stablecoin
+0x6871799a4866bb9068b36b7a9bb93475ac77ac5d,eToro New Zealand Dollar ((NZDX)),https://www.etorox.com/exchange/new-zealand-dollar/,Stablecoin
+0xac9f31a463f030746cd0117665921c3c7f849d4a,JPYM ((JPYM)),https://moneta.holdings/,Stablecoin
+0x5a7e6c8204a1359db9aacab7ba5fc309b7981efd,anonUSD,https://offshift.io/,Stablecoin
+0x0a4b2d4b48a63088e0897a3f147ba37f81a27722,CuraDAI ((CURA)),https://curadai.curadao.io/,Stablecoin
+0xb692a99a298ef9f4e8103b06fb3a93cdaa7dea72,GNEISS Silver Coin ((GAG)),https://gneiss.io/,Stablecoin
+0x7b8e89b0ce7bac2cfec92a371da899ea8cbdb450,sanDAI_EUR,https://angle.money/,Stablecoin
+0x69000405f9dce69bd4cbf4f2865b79144a69bfe0,ZAI Stablecoin ((USDz)),http://maha.xyz/,Stablecoin
+0xeab43193cf0623073ca89db9b712796356fa7414,GOLDX ((GOLDX)),https://www.hellogold.org/,Stablecoin
+0x0000852600ceb001e08e00bc008be620d60031f2,TrueHKD ((THKD)),https://www.trusttoken.com/truehkd,Stablecoin
+0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8,Curve.fi yDAI/yUSDC/yUSDT/yTUSD,https://www.curve.fi/,Stablecoin
+0xc71dac923823d748a86d0a3618abda2d6dcd6bf4,INRx ((INRx)),https://inrx.io/,Stablecoin
+0x0000000005c6b7c1fd10915a05f034f90d524d6e,TRYC ((TRYC)),https://stoken.paribu.com/tryc,Stablecoin
+0x1b5f242a789a8a7d4660053ad88c225b7e8ec32c,Ringgit Malaysia ((dMYR)),https://digitaltoken.money/,Stablecoin
+0x01d33fd36ec67c6ada32cf36b31e88ee190b1839,BRZ Token ((BRZ)),https://www.brztoken.io/,Stablecoin
+0xb6667b04cb61aa16b59617f90ffa068722cf21da,Worldwide USD ((WUSD)),https://wspn.io/,Stablecoin
+0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b,Jarvis Synthetic Euro ((jEUR)),https://jarvis.network/,Stablecoin
+0x935b0bf173552cd55e53ad651a783430a5700cd4,JAX DOLLAR,https://jaxud.jax.money/,Stablecoin
+0xf5b574aaf22f8bbad4a8f544c6599482f88e8231,CRDT USD ((SCRDT)),https://crdt.io/scrdt,Stablecoin
+0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de,VNDC ((VNDC)),https://vndc.io/,Stablecoin
+0xb3b209bb213a5da5b947c56f2c770b3e1015f1fe,sanFRAX_EUR,https://angle.money,Stablecoin
+0x617f7c416cec4361246fac916feeb187d0c3e970,FLAT ((FLAT)),https://flata.io/,Stablecoin
+0x09f0b584fdbc49f8d6f28c87f22293c639febab5,CLZ Token ((CLZ)),https://transfero.com/,Stablecoin
+0x6a4b6316d1d03d2f2b3a0294502f8faf0f38ca14,Hertz ((HZ)),http://www.gotohertz.com/,Stablecoin
+0x03ea574de701110fa898c774b5d2d7feb6e23bc2,USD e-money ((eUSD)),https://www.membrane.fi/,Stablecoin
+0x2657455b925acc98363073461572f3a1981a2db1,Wrapped Singapore Dollar ((WSGD)),https://www.btse.com/en/home,Stablecoin
+0x57f5e098cad7a3d1eed53991d4d66c45c9af7812,Wrapped Mountain Protocol USD ((wUSDM)),https://mountainprotocol.com/,Stablecoin
+0x9fcf418b971134625cdf38448b949c8640971671,Neutrino EUR ((EURN)),https://neutrino.at/,Stablecoin
+0xaf37c1167910ebc994e266949387d2c7c326b879,Ondo U.S. Dollar Yield (Rebasing) ((rUSDY)),https://ondo.finance/usdy,Stablecoin
+0x679fa6dc913acab6def33ec469fc6e421bc794f5,BribeToken ((BRIBE)),https://bribe.money/,Stablecoin
+0x2c2d8a078b33bf7782a16acce2c5ba6653a90d5f,L3USD ((L3USD)),https://lif3.com/,Stablecoin
+0xb9e6bdcba653b5f768dd2e2faf6288df9054e554,DIRHAM ((DAH)),https://www.dirham.app/,Stablecoin
+0xa967dd943b336680540011536e7d8c3d33333515,LUGH ((EURL)),http://www.lugh.io/,Stablecoin
+0xdf1e9e1a218cff9888faef311d6fbb472e4175ce,eToro Australian Dollar ((AUDX)),https://www.etorox.com/exchange/australian-dollar/,Stablecoin
+0xd3dd721b74d72f29677a94c4b318f16a7f7426bc,DCS ((DCS)),https://decentralize.cash/,Stablecoin
+0x48f07301e9e29c3c38a80ae8d9ae771f224f1054,South African Tether ((XZAR)),http://www.xzar.co.za/,Stablecoin
+0x4ab30b965a8ef0f512da064b5e574d9ad73c0e79,NGN Gluwacoin ((NGN-G)),https://gluwacoin.com/,Stablecoin
+0xf3da4c6cb0e9e800428b9ca0f8342ac3b9eeab21,GNEISS Gold Coin ((GAU)),https://gneiss.io/,Stablecoin
+0xbea0000029ad1c77d3d5d23ba2d8893db9d1efab,Bean ((BEAN)),https://bean.money/,Stablecoin
+0xfdcdfa378818ac358739621ddfa8582e6ac1adcb,Curio Stable Coin ((CSC)),https://stablecoin.curioinvest.com/,Stablecoin
+0xdc732972811d25de61808b3d6e0d2ac44a7f036f,GOSH Realm ((GOSH)),https://www.gosh.fun/#/,Stablecoin
+0x5a7e6c8204a1359db9aacab7ba5fc309b7981efd,anonUSD,https://offshift.io/,Stablecoin
+0x54d2c48ad859b81d8a9ddc8b65dbe96327291bf5,Everest Gold Unit ((EGU)),https://www.everestgold.sg/,Stablecoin
+0xc9a2c4868f0f96faaa739b59934dc9cb304112ec,BGBP ((BGBP)),https://www.binance.je/en,Stablecoin
+0x54e2f1c249a6a99e616d6bfdc737b868ce85abba,Pure USD ((PUSD)),https://pure.cash/,Stablecoin
+0x77c6e4a580c0dce4e5c7a17d0bc077188a83a059,Swerve.fi DAI/USDC/USDT/TUSD ((swUSD)),https://swerve.fi/,Stablecoin
+0x3c513db8bdc3806e4489d62c3d549a5aaf6a4e97,BitBTC ((BitBTC)),https://bitbtc.money/,Stablecoin
+0x2bee6063b2a749ba729a04ba543d5af7e3b7334a,United States Dollar ((dUSD)),https://digitaltoken.money/,Stablecoin
+0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917,USDLR by Stable ((USDLR)),withstable.com,Stablecoin
+0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350,EURO Stable Token ((EURST)),https://eurst.io/,Stablecoin
+0x2df380cd3eeb7f1ee5deb087fe9fbcf8959095ee,Wrapped Jax ((WJAX)),https://jax.jax.money/,Stablecoin
+0xa47c8bf37f92abed4a126bda807a7b7498661acd,Wrapped USTC Token ((USTC)),https://terra.money/,Stablecoin
+0xfa99e789aa0164a7eac475f3eda666be1d0669f2,EURK ((EURK)),https://www.eurk.ch/,Stablecoin
+0x739d2fccf04889965b6f4eb7830f5b7270fab2c1,Orocrypt Gold Token ((OCG)),https://orocrypt.com/,Stablecoin
+0x7b8e89b0ce7bac2cfec92a371da899ea8cbdb450,sanDAI_EUR,https://angle.money/,Stablecoin
+0x5bc25f649fc4e26069ddf4cf4010f9f706c23831,DefiDollar ((DUSD)),https://app.dusd.finance/,Stablecoin
+0x38adcfe947b16ca7b7a28ce458ca757c66205cf0,ALLUSDT ((AUSDT)),http://www.alltra.global/,Stablecoin
+0x53d5d15edbdc9a80384a22d4e7b9e734d39798e2,RUB Coin ((RUBC)),https://poa.gitbook.io/rubc/,Stablecoin
+0x5abba0fa3630d389c7059db684b7328d6596397a,Wrapped Hong Kong Dollar ((WHKD)),https://www.btse.com/en/home,Stablecoin
+0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a,Gyro Dollar ((GYD)),https://gyro.finance/,Stablecoin
+0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467,HK Coin ((HKC)),https://onecash.asia/,Stablecoin
+0x9139fd518ab676343305d5a01a1a5c12deb79dce,Trillion USD ((USDX)),https://trillionnetwork.com/,Stablecoin
+0x147e3d644d53adadd18a28201b91e2b98aeb7f94,ElenaUSD ((USE)),https://app.elena.finance/,Stablecoin
+0xf85ef57fcdb36d628d063fa663e61e44d35ae661,eToro Pound sterling ((GBPX)),https://www.etorox.com/exchange/pound-sterling/,Stablecoin
+0xb7a84c8e97bc7c5d71147447cff0d598bf9672a2,CNYM ((CNYM)),https://moneta.holdings/,Stablecoin
+0x010c282118aa76174ce5952572ba715cf60a0c9b,VINX COINS STO ((VINX)),https://www.vinxcoin.com/,Stablecoin
+0x9fc689ccada600b6df723d9e47d84d76664a1f23,Curve.fi cDAI/cUSDC/USDT,https://www.curve.fi/,Stablecoin
+0xfdb16a6900ce90cb27afec95dc274d27e0d61b87,Vote Escrowed Origin Dollar Governance ((veOGV)),https://ousd.com/,Stablecoin
+0x4fb2932f1a9de0ae753a9279703697bc18f4e0c2,USDANT Stablecoin ((USDANT)),https://antscolony.org/,Stablecoin
+0xd450f07b2d54032d2c8df0534255593a47f43281,TEMPO EURT ((EURT)),https://tempo.eu.com/,Stablecoin
+0xeb269732ab75a6fd61ea60b06fe994cd32a83549,dForce ((USDx)),https://usdx.dforce.network/,Stablecoin
+0x9de152c32d820eb2e1df392854d4df2f4f305530,Greyzdorf dollar ((USDG)),https://exchange.greyzdorf.io/usdg,Stablecoin
+0x9d39a5de30e57443bff2a8307a4256c8797a3497,Staked USDe ((sUSDe)),https://www.ethena.fi/,Stablecoin
+0x555774b4ead6accbd5eeafd0a2ab821299355cd7,Pound Sterling ((dGBP)),https://digitaltoken.money/,Stablecoin
+0x6a9f57a6f362d4c0f5dcec23c7cae3794421b8c5,Khaos ((KHX)),https://www.thekhaos.org/,Stablecoin
+0x0b37377071af24921114dccf5eb8ea6e746d0410,USC ((USC)),https://augmentlabs.io/,Stablecoin
+0x0f72714b35a366285df85886a2ee174601292a17,1SG ((1SG)),https://www.1.sg/,Stablecoin
+0x2f085edec7113e54a1747bd9572b213e662c6165,ZARP (Rand Reserve) ((ZARP)),https://www.zarp.cash/,Stablecoin
+0xf365b2821312c18a34a08bdda2fc2af2caa342e8,HK Dollar Coin ((HKDC)),http://www.hkdollarcoin.com/,Stablecoin
+0x9c215206da4bf108ae5aeef9da7cad3352a36dad,sanUSDC_EUR,https://angle.money/,Stablecoin
+0xc8c97d9b0af219c2329a0179f6ab8c7a55b39fc1,HK Monetary Token ((HKMT)),https://www.monetarytoken.foundation/,Stablecoin
+0x4954db6391f4feb5468b6b943d4935353596aec9,USDQ Stablecoin by Q DAO v1.0 ((USDQ)),https://usdq.platinum.fund/,Stablecoin
+0xb5bae50c084a2f99c8f990463c5eff12957a81d7,Bitpara TRY ((BTRY)),https://www.bitpara.com/,Stablecoin
+0x00000000efe302beaa2b3e6e1b18d08d69a9012a,AUSD ((AUSD)),https://www.agora.finance/,Stablecoin
+0x7806a1b2b6056cda57d3e889a9513615733e2b66,SIMBA Stablecoin ((SIMBA)),https://simba.storage/,Stablecoin
+0x0f6011f7dbc40c17ece894b1147f4ecfa712b600,Criptodolar UXD ((UXD)),https://www.criptodolar.com/,Stablecoin
+0x0f644658510c95cb46955e55d7ba9dda9e9fbec6,Ubiquity Algorithmic Dollar ((uAD)),https://dao.ubq.fi/overview,Stablecoin
+0x547213367cfb08ab418e7b54d7883b2c2aa27fd7,Staked USDz ((sUSDz)),https://anzen.finance/,Stablecoin
+0x6f0f28ceee6ae686ee0f939375674c01b156365a,Elena Protocol ((ELENA)),https://app.elena.finance/,Stablecoin
+0xaa2636dd8535ef02926d818670c44a07d707014e,PonteGold ((GOLDP)),http://pontegold.com/,Stablecoin
+0xed03ed872159e199065401b6d0d487d78d9464aa,TetherToken ((MXNt)),https://tether.to/,Stablecoin
+0x29917c3b1c2b4779a7b61f08d98b3da0fcf3b6a4,ArgenPeso ((ARGP)),https://argenpeso.com/,Stablecoin
+0x7f2d8dc79b7712ec6549fb975a70d1c306a00187,CHFM ((CHFM)),https://moneta.holdings/,Stablecoin
+0x4a16baf414b8e637ed12019fad5dd705735db2e0,QCAD ((QCAD)),http://www.stablecorp.ca/,Stablecoin
+0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5,Anchor ((ANCT)),https://theanchor.io/,Stablecoin
+0x35de3eccaccb02e627062b5d63aa941b137288fe,Value Set Dollar ((VSD)),https://valueset.finance/,Stablecoin
+0xb97fca5a2967ed91f36c1cbb60dbfe4c53c1df44,Equal RUB ((RUBE)),https://equallabs.io/,Stablecoin
+0x9edf6dda1691e60b3f8a5a009646e780683d05c6,SDROS ((SDR)),https://asdra.co/,Stablecoin
+0xe3dc713db6689183c6dfbeb9f47540d0a7e1198e,Unity Coin ((UNITY)),https://www.unity.sg/,Stablecoin
+0x8292bb45bf1ee4d140127049757c2e0ff06317ed,RLUSD ((RLUSD)),https://ripple.com/solutions/stablecoin/,Stablecoin
+0xc08e7e23c235073c6807c2efe7021304cb7c2815,XUSD ((XUSD)),https://www.straitsx.com/en,Stablecoin
+0x652594082f97392a1703d80985ab575085f34a4e,Silvertoken ((SLVT)),https://silvertoken.com/,Stablecoin
+0xde6f0ebaa706037ca01c4d67098627a5a671ab00,Moneybrain BiPS Digital Dollar ((USDB)),https://www.moneybrain.global/usdb/,Stablecoin
+0xfc2189d367d8d3d7cca1af43ff6169197dc7351e,Chi USD ((CHI)),https://essencefinance.io/,Stablecoin
+0x0902077c90a7ab86d729d74124873b527cd9085b,ERC-20 TOKEN*,https://usddex.io,Stablecoin
+0x30365ed4ca8173013ad948b9842f34ac71d01f7c,Dirham ((DHS)),https://dirhamcrypto.io/#/,Stablecoin
+0x92830ef7c8d651ed3a708053c602e807bad7db22,SGD Tracker ((bluSGD)),https://bluejay.finance/,Stablecoin
+0x6420a10a763db3e0f3b8eb501ba9c6153619410b,RAS ((RAS)),https://ras.cash/,Stablecoin
+0x3f24e1d7a973867fc2a03fe199e5502514e0e11e,mUSD ((mUSD)),https://cedefi.manta.network/dashboard/stake,Stablecoin
+0x7c974104df9dd7fb91205ab3d66d15aff1049de8,Wrapped USD ((WUSD)),https://covenants.eth.link/#/,Stablecoin
+0x88d7fe32284f1dbd398d58222de8dfd87dd75460,JAX RUPEE,https://jaxre.jax.money/,Stablecoin
+0x0f6011f7dbc40c17ece894b1147f4ecfa712b600,Criptodolar UXD ((UXD)),https://www.criptodolar.com/,Stablecoin
+0xd3043d66afe00344c115f7f81d18277c5c718ff8,OpenMoney USD ((omUSD)),https://openmoneydao.xyz/,Stablecoin
+0xdba8e8021fe321af91fc3a08e223ef15908cb2bb,SilverDollar ((SLVD)),https://silvertoken.com/,Stablecoin
+0x713b30c4ea50830b1c3b5198ee3626dee2203342,Global Stability Alliance ((GSA)),https://www.gsuprotocol.io/,Stablecoin
+0xdd2955b7b00cfcde3c49dc212709a97da182ef3e,QUICKCASH ((QC)),https://quickcash.com/,Stablecoin
+0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c,Digital Rand ((DZAR)),https://digitalrand.co.za/,Stablecoin
+0xb40b6608b2743e691c9b54ddbdee7bf03cd79f1c,UZD Zunami Stable ((UZD)),https://www.zunami.io/,Stablecoin
+0x38d389c300357a26beec198f3893fba54fde69c5,PayUSD ((PUSD)),https://payusd.io/,Stablecoin
+0xa6fa6531acdf1f9f96eddd66a0f9481e35c2e42a,Crypto BRL ((CBRL)),https://cryptobrl.com/,Stablecoin
+0x2dd087589ce9c5b2d1b42e20d2519b3c8cf022b7,New Zealand Digital Dollar ((NZDD)),https://nzdd.com/,Stablecoin
+0x0000000005c6b7c1fd10915a05f034f90d524d6e,TRYC ((TRYC)),https://stoken.paribu.com/tryc,Stablecoin
+0x9a1997c130f4b2997166975d9aff92797d5134c2,Bond Appetite USD ((USDap)),https://bondappetit.io/,Stablecoin
+0xc353bf07405304aeab75f4c2fac7e88d6a68f98e,HOPE ((HOPE)),https://hope.money/,Stablecoin
+0x30365ed4ca8173013ad948b9842f34ac71d01f7c,Dirham ((DHS)),https://dirhamcrypto.io/#/,Stablecoin
+0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5,Anchor ((ANCT)),https://theanchor.io/,Stablecoin
+0xe3dc713db6689183c6dfbeb9f47540d0a7e1198e,Unity Coin ((UNITY)),https://www.unity.sg/,Stablecoin
+0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be,xEuro ((xEUR)),https://xeuro.online/#!/,Stablecoin
+0x6c3f90f043a72fa612cbac8115ee7e52bde6e490,Curve.fi DAI/USDC/USDT ((3Crv)),https://www.curve.fi/,Stablecoin
+0xae770d24ec1580a13392e0b71067571351029203,Wrapped xUSD ((wxUSD)),https://overnight.fi/,Stablecoin
+0xc08e7e23c235073c6807c2efe7021304cb7c2815,XUSD ((XUSD)),https://www.straitsx.com/en,Stablecoin
+0x86367c0e517622dacdab379f2de389c3c9524345,Universal US Dollar ((UPUSD)),https://universalprotocol.io/,Stablecoin
+0xa967dd943b336680540011536e7d8c3d33333515,LUGH ((EURL)),http://www.lugh.io/,Stablecoin
+0x0d7b58af428cadfc8c73929cd0e71914d25a2abf,Moneybrain BiPS Digital Euro ((EUROB)),https://www.moneybrain.global/eurob/,Stablecoin
+0x59d9356e565ab3a36dd77763fc0d87feaf85508c,Mountain Protocol USD ((USDM)),https://mountainprotocol.com/,Stablecoin
+0x9fcf418b971134625cdf38448b949c8640971671,Neutrino EUR ((EURN)),https://neutrino.at/,Stablecoin
+0xed03ed872159e199065401b6d0d487d78d9464aa,TetherToken ((MXNt)),https://tether.to/,Stablecoin
+0x3c7b464376db7c9927930cf50eefdea2eff3a66a,USDA ((USDA)),https://usda.cc/en,Stablecoin
+0x3c6cfbdaf0a04fc257b185bf98934a12124fe8d0,KRWQ Stablecoin by Q DAO v1.0 ((KRWQ)),https://usdq.platinum.fund,Stablecoin
+0x51be9f12dd5095c5b1acf90e7e0aa4aa8023218b,Dacxi Gold Token ((DXGT)),https://dacxi.com/,Stablecoin
+0x0effabf8917f9c9055c4a18a90994e39dc110505,Moneybrain BiPS Digital AUD ((AUDB)),https://www.moneybrain.global/audb/,Stablecoin
+0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054,EURxb ((EURxb)),https://eurxb.finance/,Stablecoin
+0x935b0bf173552cd55e53ad651a783430a5700cd4,JAX DOLLAR,https://jaxud.jax.money/,Stablecoin
+0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a,Xank ((XANK)),https://xank.io/,Stablecoin
+0x358cb60c7f639a5d8b8710f37eda7478610f1a65,USDM ((USDM)),https://moneta.holdings/,Stablecoin
+0x431d5dff03120afa4bdf332c61a6e1766ef37bdb,JPY Coin ((JPYC)),https://jpyc.jp/,Stablecoin
+0x20c36f062a31865bed8a5b1e512d9a1a20aa333a,DefiDollar DAO ((DFD)),https://dusd.finance/,Stablecoin
+0xd71bbf61079d3ea7ea7890356850d4579be304af,Dacxi Silver Token ((DXST)),https://dacxi.com/,Stablecoin
+0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6,Zunami USD ((zunUSD)),https://www.zunami.io/,Stablecoin
+0x2df380cd3eeb7f1ee5deb087fe9fbcf8959095ee,Wrapped Jax ((WJAX)),https://jax.jax.money/,Stablecoin
+0xbea0e11282e2bb5893bece110cf199501e872bad,BEAN:WETH Constant Product 2 Well,https://bean.money/,Stablecoin
+0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21,Anchored Coins EUR ((AEUR)),https://www.anchoredcoins.com/en/landing,Stablecoin
+0x3c513db8bdc3806e4489d62c3d549a5aaf6a4e97,BitBTC ((BitBTC)),https://bitbtc.money/,Stablecoin
+0x3d61e677944204cd1002202912a2b7a43a8e2823,USDf ((USDf)),https://www.dollarprotocol.com/#/home,Stablecoin
+0xa48f322f8b3edff967629af79e027628b9dd1298,Davos.xyz USD ((DUSD)),https://davos.xyz/,Stablecoin
+0xb05097849bca421a3f51b249ba6cca4af4b97cb9,Float Protocol: FLOAT ((FLOAT)),https://floatprotocol.com,Stablecoin
+0xf840099e75199255905284c38708d594546560a4,Neronumis ((NERO)),https://www.neronumis.com/,Stablecoin
+0xfb0aaa0432112779d9ac483d9d5e3961ece18eec,USD Gluwacoin ((USD-G)),https://gluwacoin.com/,Stablecoin
+0xcd8e8ec834c9127a18d8cd5c749a7f2a57355c9a,DSS TOKEN ((DSS)),https://www.dsss.io/,Stablecoin
+0x6364d4f283601d4beb170dcdf0080b84e056389a,vGBP ((vGBP)),http://vowcurrency.com/,Stablecoin
+0x7c1156e515aa1a2e851674120074968c905aaf37,Level USD ((lvlUSD)),https://www.level.money/,Stablecoin
+0x6c103d85c15107dce19f5a75fc746227e610aabd,Universal Euro ((UPEUR)),https://universalprotocol.io/,Stablecoin
+0xdc732972811d25de61808b3d6e0d2ac44a7f036f,GOSH Realm ((GOSH)),https://www.gosh.fun/#/,Stablecoin
+0x7635b612792e4bfb7f2fa12a3e5d5a3f2e3c34bc,LCNY Stablecoin ((LCNY)),https://alternity.finance/,Stablecoin
+0x496266ff0876262b0177cef026a117abc24b2532,Parity Blockchain Dollar ((XDL)),https://paritydollar.xyz/index.html,Stablecoin
+0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467,HK Coin ((HKC)),https://onecash.asia/,Stablecoin
+0x00000000441378008ea67f4284a57932b1c000a5,TrueGBP ((TGBP)),https://www.trusttoken.com/truegbp/,Stablecoin
+0x99d19c99e279dca8e5febc8a19bb4ac170d8fa24,Stable NOK ((NOK)),https://bitnord.no/,Stablecoin
+0x2743bb6962fb1d7d13c056476f3bc331d7c3e112,Geminon ((GEX)),https://geminon.fi/,Stablecoin
+0x1c5857e110cd8411054660f60b5de6a6958cfae2,Reserve ((RSV)),https://reserve.org/,Stablecoin
+0x7a0e91c4204355e0a6bbf746dc0b7e32dfefdecf,EURO TOKEN ((SREUR)),https://www.socialremit.com/,Stablecoin
+0x61fd1c62551850d0c04c76fce614cbced0094498,IDKToken ((IDK)),http://idkfoundation.org,Stablecoin
+0x4389710ba2d358cc984bb70cdb5c0e9d48727874,EURM ((EURM)),https://moneta.holdings/,Stablecoin
+0xe94d535b6d19666bad9b39b1b253edcdae97ea4c,ENGN COIN ((ENGN)),https://e-talk.xyz/,Stablecoin
+0x1655f5e479341abe17a9e89a20c3c3594c8c02fe,FUMBI STABLE ((FMBS)),https://fumbi.network/en,Stablecoin
+0x9293c7b4b4fb90fb3ee76f7c6189aa841e57e5c0,CNHC Token ((CNHC)),https://www.cnhc.to/,Stablecoin
+0x082ca54e4fc3d8af022cdab257122bfcfcde4b6f,CENTUS ((CENTUS)),https://centus.one/,Stablecoin
+0x155ab266b9226525cfd5b1e7d8a80bab65b6b609,Dacxi Platinum Token ((DXPT)),https://dacxi.com/,Stablecoin
+0x69000405f9dce69bd4cbf4f2865b79144a69bfe0,ZAI Stablecoin ((USDz)),http://maha.xyz/,Stablecoin
+0x171f9cfc136f2b2aaa148fcc6b660a2029bab048,Gold Standard ((AUS)),https://goldsilverstandard.com/,Stablecoin
+0xc1e088fc1323b20bcbee9bd1b9fc9546db5624c5,DEPOSIT,https://bean.money/,Stablecoin
+0x1c91d9482c4802315e617267bb3ef50c0aa15c41,Staked DUSD ((sDUSD)),https://davos.xyz/,Stablecoin
+0x0f7f6531af9792c9a42e2befced5ed81c0d63a23,e-Money Swedish Kronor ((ESEK)),https://www.e-money.com/,Stablecoin
+0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac,XAI Stablecoin ((XAI)),https://www.silo.finance/,Stablecoin
+0x4cc8486f2f3dce2d3b5e27057cf565e16906d12d,KRW Gluwacoin ((KRW-G)),https://gluwacoin.com/,Stablecoin
+0x86fadb80d8d2cff3c3680819e4da99c10232ba0f,EURBASE Stablecoin ((EBASE)),https://eurbase.com/,Stablecoin
+0x663cbf0f8ac632ff6eea2a249e2f6e147e65a04b,vZWL ((vZWL)),http://vowcurrency.com/,Stablecoin
+0x44086035439e676c02d411880fccb9837ce37c57,unified Stable Dollar ((uSD)),https://www.unifihub.com/,Stablecoin
+0xb0a16535eb77c6d7f75e9fc201d468a40abda7a1,Trillion USD ((TNUSD)),https://trillionnetwork.com/,Stablecoin
+0xf7bcc16f5ccf1c7fa195c22dda8a88329e528649,CYBER USD ((CUSD)),https://www.cyberbank.me/,Stablecoin
+0xfdb16a6900ce90cb27afec95dc274d27e0d61b87,Vote Escrowed Origin Dollar Governance ((veOGV)),https://ousd.com/,Stablecoin
+0x183015a9ba6ff60230fdeadc3f43b3d788b13e21,R Stablecoin ((R)),https://www.raft.fi/,Stablecoin
+0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6,Realio Network USD Stablecoin ((rUSD)),https://realio.fund/,Stablecoin
+0x0f644658510c95cb46955e55d7ba9dda9e9fbec6,Ubiquity Algorithmic Dollar ((uAD)),https://dao.ubq.fi/overview,Stablecoin
+0x164cd8bc19402c7bd49c2a97d5248310d7e1ec02,VND Token ((VNDT)),https://www.vndtoken.io/,Stablecoin
+0xec0d77a58528a218cbf41fa6e1585c8d7a085868,oneETH ((oneETH)),https://www.ichi.org/,Stablecoin
+0xb9c1cef91bccda0588aa7308b68387afa4dd4302,TondoCoin ((TDC)),https://tondocoin.io,Stablecoin
+0x05bbed16620b352a7f889e23e3cf427d1d379ffe,Naira Token ((NGNT)),http://ngnt.org/,Stablecoin
+0x00000100f2a2bd000715001920eb70d229700085,TrueCAD ((TCAD)),https://www.trusttoken.com/truecad/,Stablecoin

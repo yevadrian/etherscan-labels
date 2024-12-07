@@ -1,0 +1,12 @@
+Address,Name Tag,Label
+0x55fe002aeff02f77364de339a1292923a15844b8,Circle,Circle
+0x31d3f59ad4aac0eee2247c65ebe8bf6e9e470a53,Circle: BUIDL Off-Ramp,Circle
+0xe0bbfdb157362a9c1fe28c52d4113e3068a2e69f,Circle: Deployer 1,Circle
+0x5392bd00571157fa11103b0ee6d492c9563a6799,Circle: Deposit,Circle
+0x1abaea1f7c830bd89acc67ec4af516284b1bc33c,Circle: EURC Token,Circle
+0x5db0115f3b72d19cea34dd697cf412ff86dc7e1b,Circle: Old USDC Blacklister,Circle
+0x10df6b6fe66dd319b1f82bab2d054cbb61cdad2e,Circle: USDC Blacklister,Circle
+0xe982615d461dd5cd06575bbea87624fda4e3de17,Circle: USDC Master Minter,Circle
+0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,Circle: USDC Token,Circle
+0xfcb19e6a322b27c06842a71e8c725399f049ae3a,USDC: Owner,Circle
+0xf0d160dec1749afaf5a831668093b1431f7c8527,USDC: Pauser,Circle

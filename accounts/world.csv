@@ -1,0 +1,15 @@
+Address,Name Tag,Label
+0x1325c4966d17038c5592fb38416aee85ee73c0cb,World Chain: Anchor State Registry Proxy,World
+0xf9adf7c9502c5c60352c20a4d22683422dbd061f,World Chain: Delayed WETH Proxy,World
+0x0e90dcafbc242d2c861a20bb20ec8e7182965a52,World Chain: Dispute Game Factory Proxy,World
+0xf931a81d18b1766d15695ffc7c1920a62b7e710a,World Chain: L1 Cross Domain Messenger Proxy,World
+0x1df436afdb2fbb40f1fe8bed4fc89a0d0990a8e9,World Chain: L1 ERC721 Bridge Proxy,World
+0x470458c91978d2d929704489ad730dc3e3001113,World Chain: L1 Standard Bridge Proxy,World
+0x19a6d1e9034596196295cf148509796978343c5d,World Chain: L2 Output Oracle Proxy,World
+0x153a69e4bb6fedbbaaf463cb982416316c84b2db,World Chain: Op USDC Bridge Adapter,World
+0x82cb528466cf22412d89bdbe9bcf04856790dd0e,World Chain: Optimism Mintable ERC20 Factory Proxy,World
+0xd5ec14a83b7d95be1e2ac12523e2dee12cbeea6c,World Chain: Optimism Portal Proxy,World
+0x8eef04eef96fef1050702453f75f0fc4f8f70973,World Chain: Protocol Versions Proxy,World
+0xd7405be7f3e63b094af6c7c23d5ee33fd82f872d,World Chain: Proxy Admin,World
+0xa231f8be37e583f276f93df516d88a043bfe47e3,World Chain: Superchain Config Proxy,World
+0x6ab0777fd0e609ce58f939a7f70fe41f5aa6300a,World Chain: System Config Proxy,World

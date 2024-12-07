@@ -1,0 +1,58 @@
+Address,Name Tag,Label
+0x42a8c4376528505f158c79932685f68e5177eac4,,Fringe Finance
+0xd52294bcb67eaf899b9a55601f9e2496047fc6f4,,Fringe Finance
+0x3b5e18119f905762c9705fff47b95ae890713284,,Fringe Finance
+0x38198d37cb0caa439d08c3606095c9682bb1dd6c,,Fringe Finance
+0xa79538dba3b91d6872b5440a7b4703f559402d82,,Fringe Finance
+0xa0fa8c18a92078f23c8e5fa5b276131cc6352209,,Fringe Finance
+0x991bdaca59d5634b753c9b497f1567cad466539e,,Fringe Finance
+0x96d78e8a2795e7ad3f8bb557a40979e29f81f494,,Fringe Finance
+0x8c5ebd42306c4335b2c349d5d7de712fddc6d7d7,,Fringe Finance
+0x747088fa37fb08d7f8326fbe119d5bf332d0f60d,,Fringe Finance
+0x5e4c05a5e5129bd5edb0dc868546d0f21047ce55,,Fringe Finance
+0x32c1efeb27beefe42cf6763add8c65dabfc78cd3,Fringe Finance : Bond troller Logic,Fringe Finance
+0x3e639b869cf8ec9ecf397c5be5802958e0683bd6,Fringe Finance : Bond troller Proxy,Fringe Finance
+0xff873d2a55be5b71e6f3fca5259c914bad6491a3,Fringe Finance : Chainlink Price Provider,Fringe Finance
+0x8eaf0d69c062099c414c2af823538129a67fe406,Fringe Finance : Chainlink Price Provider Proxy,Fringe Finance
+0x3eba0cf300d02e8a51a22093b693fbc3ea299bd2,Fringe Finance : fAPE Token,Fringe Finance
+0x3d790503875ab7859f86e2e888b5de90ce5845cd,Fringe Finance : fBADGER Token,Fringe Finance
+0x61265506076cf13a5f6aab676fab5bb03bf7b546,Fringe Finance : fENS Token,Fringe Finance
+0xaf01aea1707ee48c235e6ef64da362be827283a6,Fringe Finance : fFXS Token,Fringe Finance
+0xc722c6cb7353263fc901ea9f28bdd70bb6383cc4,Fringe Finance : fGNO Token,Fringe Finance
+0x162e6c30da3a2bdc76c68b8ff6ed24817b9576f2,Fringe Finance : fINJ Token,Fringe Finance
+0xde4b254d7d2c128e9c3ad8267ea1f63a3642360f,Fringe Finance : fKNC Token,Fringe Finance
+0xca51889e953e1bdd7a86c19ecefd2ac0186d2c19,Fringe Finance : fLDO Token,Fringe Finance
+0x565130d62dcdfe9a440792f7ad5f5d7a0ca2120d,Fringe Finance : fLINK Token,Fringe Finance
+0x3bb84db5c9b5c9fbd9cdde43c49a4014f6a89c51,Fringe Finance : fLRC Token,Fringe Finance
+0x8c5a03d753497c46c64c3d6636977704638298b7,Fringe Finance : fLUSD Token,Fringe Finance
+0xa8c08d0e8a80e608dfbabe8321fa555e8620adf0,Fringe Finance : fMATIC Token,Fringe Finance
+0x32c150d741a04c8794f757768f8ff73cafeee8ee,Fringe Finance : fMKR Token,Fringe Finance
+0x149a2c64783cd43df17ba312c9853dbbb6c110b8,Fringe Finance : fONDO Token,Fringe Finance
+0x9eea3811db7aa122686ca8d1c642105df242b83e,Fringe Finance : fPERP Token,Fringe Finance
+0xb0f5c8567ace3fe48524c8af8b344a4e5a0e52f6,Fringe Finance : frETH Token,Fringe Finance
+0xfcbaf1c8ea15f2b5755ce7b2157fb7f1bb068953,Fringe Finance : fSAND Token,Fringe Finance
+0xb258a35affd11cd9bfcbad50d88b482645ea153b,Fringe Finance : fSNX Token,Fringe Finance
+0x1b4c6c8ddb676a539c8e919b81e9e1e81c2d27d3,Fringe Finance : fSUSHI Token,Fringe Finance
+0x9f43184f017bb70c54a1d4a929c0ed308120aec8,Fringe Finance : ftBTC Token,Fringe Finance
+0x58e01540131c7f7b598180a4640a3de4b921d2de,Fringe Finance : fTRX Token,Fringe Finance
+0x9e360bf3668a244a77ed6cf2aca9a039faaab336,Fringe Finance : fUNI Token,Fringe Finance
+0x51eed5786708c6ae2d007f0853a269f50f1fb8b8,Fringe Finance : fwETH Token,Fringe Finance
+0x456bc8f258360745eec3be4e57b21ca1f19fc9f0,Fringe Finance : fWOO Token,Fringe Finance
+0xd97df255bb781a584621e2cce7274b720e774f55,Fringe Finance : fwstETH Token,Fringe Finance
+0xdb89e28dcd920b3f60a2ce1c3c1bb0c9c6c7ae37,Fringe Finance : fXCN Token,Fringe Finance
+0x54163faa56bb12994b97bc8e606ee39db5ebd9e5,Fringe Finance : fYFI Token,Fringe Finance
+0x0f451faed0aef0432bb641644c32960125843bd2,Fringe Finance : Jump Rate Model Proxy,Fringe Finance
+0x03a7984f9985391ec7b75fb9bb8cefc97eae9cc3,Fringe Finance : Jump Rate Model V3,Fringe Finance
+0x11ef55f084f680d3af97a1b5d7289e66f77f8860,Fringe Finance : Price Provider Aggregator Proxy,Fringe Finance
+0x25df082b312e92b57f31678b171de18dbf026011,Fringe Finance : Price Provider Aggregator Pyth,Fringe Finance
+0x1c54308c4b43ce6b5475193a6b2bea0324e1d37b,Fringe Finance : Primary Lending  Leverage Zksync,Fringe Finance
+0x25ff71863fc45c0c235563041eea10253463e601,Fringe Finance : Primary Lending  Liquidation,Fringe Finance
+0xa7d8ea7f0a958252e832faa3add89e6e25d29682,Fringe Finance : Primary Lending Moderator,Fringe Finance
+0xe386b53fa76c0624a27ab2a45cc6848009f927d8,Fringe Finance : Primary Lending Platform,Fringe Finance
+0x583d7facaa102f83a45ec8b998cfe8e398a8ac11,Fringe Finance : Primary Lending Platform Atomic,Fringe Finance
+0x2af24c7a11ad1d03e26083462f17548ab99088d2,Fringe Finance : Primary Lending Platform V2 Logic,Fringe Finance
+0x70467416507b75543c18093096ba4612a9261db8,Fringe Finance : Primary Lending Platform V2 Proxy,Fringe Finance
+0xc20e2debccfbf359e3eb9ff5022d11742ad63c07,Fringe Finance : Pyth Price Provider,Fringe Finance
+0xda3cb1b836678255dda230c3853dc491296b2374,Fringe Finance : Pyth Price Provider Proxy,Fringe Finance
+0xa473fe03308d822725d44ed6da555a73a3f3f65c,Fringe Finance : wstETH Price Provider,Fringe Finance
+0xff72405b88918ff313962e6ed5119d7d9717e9e6,Fringe Finance : wstETH Price Provider Proxy,Fringe Finance

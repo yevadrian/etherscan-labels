@@ -1,0 +1,49 @@
+Contract Address,Token Name,Website,Label
+0x8d983cb9388eac77af0474fa441c4815500cb7bb,Cosmos ((ATOM)),https://cosmos.network/,Cross-Chain
+0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91,Wormhole Token ((W)),https://wormhole.com/,Cross-Chain
+0x467719ad09025fcc6cf6f8311755809d45a5e5f3,Axelar ((AXL)),https://axelar.network/,Cross-Chain
+0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f,Across Protocol Token ((ACX)),https://across.to/,Cross-Chain
+0xf17e65822b568b3903685a7c9f496cf7656cc6c2,Biconomy Token ((BICO)),https://www.biconomy.io/,Cross-Chain
+0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a,WAVES ((WAVES)),https://waves.tech/,Cross-Chain
+0x826180541412d574cf1336d22c0c0a287822678a,Chainflip ((FLIP)),https://chainflip.io/,Cross-Chain
+0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99,MAP Protocol ((MAPO)),https://www.mapprotocol.io/,Cross-Chain
+0x38e382f74dfb84608f3c1f10187f6bef5951de93,MUBI ((MUBI)),https://multibit.exchange/,Cross-Chain
+0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f,RAMP DEFI ((RAMP)),https://rampdefi.com/,Cross-Chain
+0xf5cfbc74057c610c8ef151a439252680ac68c6dc,Octopus Network Token ((OCT)),https://oct.network/,Cross-Chain
+0xe5caef4af8780e59df925470b050fb23c43ca68c,Ferrum Network Token ((FRM)),https://ferrum.network/,Cross-Chain
+0xbbbbbbbb46a1da0f0c3f64522c275baa4c332636,ZKBase ((ZKB)),https://zkbase.org/,Cross-Chain
+0xd0352a019e9ab9d757776f532377aaebd36fd541,Fusion ((FSN)),https://fusion.org/,Cross-Chain
+0xd076c4ba62c57b3fa10800bcfd8da66742110e0e,HAVAH ((HVH)),https://havah.io,Cross-Chain
+0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9,BoringDAO ((BOR)),https://boringdao.com/,Cross-Chain
+0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13,Nerve Network ((NVT)),https://nerve.network/,Cross-Chain
+0x03d1e72765545729a035e909edd9371a405f77fb,Nabox Token ((NABOX)),https://nabox.io/,Cross-Chain
+0x6715515f5aa98e8bd3624922e1ba91e6f5fc4402,SSNC ((SSNC)),https://satoshisync.com/,Cross-Chain
+0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d,Wrapped ABBC ((WABBC)),https://abbcswap.com/,Cross-Chain
+0xf6832ea221ebfdc2363729721a146e6745354b14,FRMx Token ((FRMX)),https://ferrum.network/,Cross-Chain
+0x5967be3d7b38cea1f3e5f8d7deb7860ccfa21cb2,Onto Swap ((OSWAP)),http://www.ontoswap.com/,Cross-Chain
+0x9ccf191169a613eca433a249d3f40131178caebc,MicroChains Gov Token ((MCG)),https://microchains.network/,Cross-Chain
+0xdef1fac7bf08f173d286bbbdcbeeade695129840,Cerby Token ((CERBY)),https://cerby.fi/,Cross-Chain
+0x88c64a7d2ecc882d558dd16abc1537515a78bb7d,Shifted BTC ((zBTC)),https://renproject.io/,Cross-Chain
+0x9f90b457dea25ef802e38d470dda7343691d8fe1,Crosschain IOTX ((CIOTX)),https://iotex.io/,Cross-Chain
+0x14eb60f5f270b059b0c788de0ddc51da86f8a06d,Phantasma Energy ((KCAL)),https://phantasma.io/,Cross-Chain
+0x62786eeacc9246b4018e0146cb7a3efeacd9459d,LessToken ((LESS)),https://less.xyz/,Cross-Chain
+0x203aad20f51bbe43e650d3ceea88d43dd6c817c1,GhostMarket Token ((GM)),https://ghostmarket.io/,Cross-Chain
+0x79b4d12fa63a8d1202b26c5ba6d62136a4a09dda,SymVerse ((SYM)),https://www.symverse.com/,Cross-Chain
+0xa75ee028e376a10cc7552230f367fc00293f30f1,ChainConnect ((3C)),https://chainconnect.com/,Cross-Chain
+0x47da5456bc2e1ce391b645ce80f2e97192e4976a,Pl^g Token ((PLUG)),https://www.poweredbyplug.com/,Cross-Chain
+0x12e57f85b847bade37f37cde3442f00dc33b9982,Love ((LOVE)),https://www.loveboat.exchange/#/,Cross-Chain
+0xf9e293d5d793ddc1ae4f778761e0b3e4aa7cf2dd,CelsiusX Wrapped DOGE ((cxDOGE)),https://celsiusx.io/,Cross-Chain
+0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d,Graviton ((GTON)),https://graviton.one/,Cross-Chain
+0xb30ff8473d3c25554a44213f7c0715085e35d0a0,Helios ((HEL)),https://helios-chain.org/,Cross-Chain
+0x64875aaa68d1d5521666c67d692ee0b926b08b2f,CelsiusX Wrapped ADA ((cxADA)),https://celsiusx.io/,Cross-Chain
+0xd9b89eee86b15634c70cab51baf85615a4ab91a1,Locklet ((LKT)),https://www.locklet.finance/,Cross-Chain
+0x2e93fe8d550a7b7e7b2e561cd45cebccbaa79358,GXChain Core Asset ((GXC)),https://rei.network/,Cross-Chain
+0x0a44a7ccea34a7563ba1d45a5f757d0b02281124,BlockBlend ((BBL)),https://blockblend.io/,Cross-Chain
+0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2,Qawalla Token ((QWLA)),https://qwla.io/,Cross-Chain
+0x5316f8106d71362e40d0f01724ee6218007e620d,GasBack.Tech ((GASB)),https://gasback.tech/,Cross-Chain
+0x195832a377c09074518c1f3aaeb4bc981f79938f,IDO Launchpad ((IDO)),https://idolaunchpad.org/,Cross-Chain
+0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a,Ladder Network ((LAD)),http://laddernetwork.io/,Cross-Chain
+0xadfb28426864c0ff169f5dcead2efdd09e0deec9,PAREX ((PRX)),https://parex.market/,Cross-Chain
+0x4dfe67781d8b177f5a8536ad817bb9eb2c052f48,X0swap Token ((X0)),https://x0swap.com/,Cross-Chain
+0x07c9eefd9059381144265600d3cbf4974312861b,Hycon ((HYC)),https://hycon.io/,Cross-Chain
+0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196,BitDNS ((DNS)),https://www.bitdns.vip/,Cross-Chain

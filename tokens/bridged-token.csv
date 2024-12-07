@@ -1,0 +1,1249 @@
+Contract Address,Token Name,Website,Label
+0xdf81e9ff9c0a154094e4d196690da99c49dfebe2,Polkadot ((DOT)),https://polkaswap.io/,Bridged Token
+0x21c2c96dbfa137e23946143c71ac8330f9b44001,Polkadot (IBC) ((DOT)),https://www.ibcprotocol.dev/,Bridged Token
+0x519ddeff5d142fc177d95f24952ef3d2ede530bc,Cosmos Hub (IBC) ((ATOM)),https://www.ibcprotocol.dev/,Bridged Token
+0xcf7e6742266ad5a76ee042e26d3f766c34195e5f,dogwifhat (IBC) ((WIF)),https://www.ibcprotocol.dev/,Bridged Token
+0x1151cb3d861920e07a38e03eead12c32178567f6,Bonk ((Bonk)),https://www.bonkcoin.com/,Bridged Token
+0x4aef9bd3fbb09d8f374436d9ec25711a1be9bacb,Bonk (IBC) ((BONK)),https://www.ibcprotocol.dev/,Bridged Token
+0x013addc6512432304c055cec20bbb0f6aa5ed7d5,Sei (IBC) ((SEI)),https://www.ibcprotocol.dev/,Bridged Token
+0xda7fa7248f62e051cca4af2522439a61d3976462,Marinade Staked SOL (IBC) ((mSOL)),https://www.ibcprotocol.dev/,Bridged Token
+0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b,(Wormhole) (()),https://wormholebridge.com/#/,Bridged Token
+0x26b80fbfc01b71495f477d5237071242e0d959d7,Wrapped ROSE (Wormhole) ((wROSE)),https://wormholebridge.com/,Bridged Token
+0x5cd8cd3c5e8780ccbc74277f22b099fefd04f5ef,Jupiter Staked SOL (IBC) ((jupSOL)),https://www.ibcprotocol.dev/,Bridged Token
+0xe3da3fed5478741e5275cfffd07abf566a54e0d8,Kusama ((KSM)),https://polkaswap.io/,Bridged Token
+0xb44d6c324a6c15127f1451465f1e1dbc39142a60,Kusama (IBC) ((KSM)),https://www.ibcprotocol.dev/,Bridged Token
+0x3294395e62f4eb6af3f1fcf89f5602d90fb3ef69,Celo native asset (Wormhole) ((CELO)),https://www.portalbridge.com/,Bridged Token
+0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3,Harmony ONE ((1ONE)),https://www.harmony.one/,Bridged Token
+0xf7f00d598b2a651404993e93df7ae16c3c736f3c,Secret (IBC) ((SCRT)),https://www.ibcprotocol.dev/,Bridged Token
+0xb9f747162ab1e95d07361f9048bcdf6edda9eea7,Star Atlas (Wormhole) ((ATLAS)),https://wormholebridge.com/#/,Bridged Token
+0x3f8bb8634ca4a61aa23cd0df00c3152e0eaf9587,Stride (IBC) ((STRD)),https://www.ibcprotocol.dev/,Bridged Token
+0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35,SWEAT ((SWEAT)),https://sweateconomy.com/,Bridged Token
+0xbdf0b5e9df9d0e82197534f39c3582c4e79b746b,Magpie Token ((MGP)),https://www.magpiexyz.io/earn,Bridged Token
+0x79f05c263055ba20ee0e814acd117c20caa10e0c,Ice ((ICE)),,Bridged Token
+0xa534115da1c1e51cb2c6e8bc1fba23a5189a1de2,Stride Staked ATOM (IBC) ((stATOM)),https://www.ibcprotocol.dev/,Bridged Token
+0xc22956c3cfec3ee9a9925abee044f05bc47f6632,Celo Dollar (Wormhole) ((cUSD)),https://www.mento.org/,Bridged Token
+0xf09dea9375ecd3500c565973d21822f0383f1099,Impossible Decentralized Incubat ((IDIA)),https://impossible.finance/,Bridged Token
+0x59e0499554cdcdfa90ccd96532e5ad5883a2a956,Stargaze (IBC) ((STARS)),https://www.ibcprotocol.dev/,Bridged Token
+0xa88bb3eb033f359fef934dd3b4b753847318072c,Archway (IBC) ((ARCH)),https://www.ibcprotocol.dev/,Bridged Token
+0x89e8e084cc60e6988527f0904b4be71656e8bfa9,Smog ((SMOG)),,Bridged Token
+0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee,Serum ((SRM)),https://portal.projectserum.com/,Bridged Token
+0x00e856ee945a49bb73436e719d96910cd9d116a4,Shiden ((SDN)),https://shiden.astar.network/,Bridged Token
+0x11539a7931c82191af65406ba986bf5b90a3f5e4,Shade Protocol (IBC) ((SHD)),https://www.ibcprotocol.dev/,Bridged Token
+0xee586e7eaad39207f0549bc65f19e336942c992f,Celo Euro (Wormhole) ((cEUR)),https://www.mento.org/,Bridged Token
+0xb5b1b659da79a2507c27aad509f15b4874edc0cc,DUST Protocol ((DUST)),https://www.dustprotocol.com/,Bridged Token
+0x979aca85ba37c675e78322ed5d97fa980b9bdf00,Fusion ((anyFSN)),https://anyswap.exchange/,Bridged Token
+0x1edb7e6c9b5a717f8f98d3f0270c23a79f77076c,Everyworld ((EVERY)),https://www.everyworld.com/,Bridged Token
+0x3d078b97918ede947af59e679ecef9fd87c32082,Edgevana Staked SOL (IBC),https://www.ibcprotocol.dev/,Bridged Token
+0xc0b314a8c08637685fc3dafc477b92028c540cfb,Wombat Token ((WOM)),https://www.wombat.exchange/,Bridged Token
+0x174c47d6a4e548ed2b7d369dc0ffb2e60a6ac0f8,Amulet ((AMU)),https://amulet.org/,Bridged Token
+0x7d1b634d825221e8d8f619c5fa06a3f57dafd5c6,Inter Stable Token (IBC) ((IST)),https://www.ibcprotocol.dev/,Bridged Token
+0x9b25889c493ae6df34ceef1ecb10d77c1ba73318,MEAN ((MEAN)),https://meanfi.com/,Bridged Token
+0x566957ef80f9fd5526cd2bef8be67035c0b81130,USD Coin (PoS) (Wormhole) ((USDC)),https://wormholebridge.com/#/,Bridged Token
+0xe95076d9fe7155c17b455ac49497e78912c4ab65,Dollar ((DOLLAR)),https://dollaronsolana.lol/,Bridged Token
+0x93e32efafd24973d45f363a76d73ccb9edf59986,Bitlocus Token (Wormhole) ((BTL)),,Bridged Token
+0xe28027c99c7746ffb56b0113e5d9708ac86fae8f,KING ((KING)),https://www.kingcoinsol.com,Bridged Token
+0x20d60c6eb195868d4643f2c9b0809e4de6cc003d,PlayNity token (Wormhole) ((PLY)),,Bridged Token
+0x3ef389f264e07fff3106a3926f2a166d1393086f,Sator (Wormhole) ((SAO)),https://www.sator.io,Bridged Token
+0xcb6150818fd5dc7746ca2ea0652c784847fd6f7e,Quickswap (Wormhole) ((QUICK)),,Bridged Token
+0x9aa9737190426e2ad8dfa1f72a84246fe2f7919d,USDC ((USDC)),,Bridged Token
+0xab522e689796277e8661526407ca7fac8f225ef0,NFT Worlds ((WRLD)),,Bridged Token
+0x52bdb2399dfe7b1e6ab3f65de46954606954d608,Realio Token ((RIO)),,Bridged Token
+0x8dc21c4882324acb3b92617b724e0348d019d18e,PayBolt (Wormhole) ((PAY)),,Bridged Token
+0x84c2268679de7f772daa8a1794adc93a5b5f571c,ZEDXION,,Bridged Token
+0x335e165da85a46439ca9aa384de4d6b1276e6ec7,Wrapped eETH ((weETH)),,Bridged Token
+0x6e60eccf388d8b911dffeab4fda06d8b6c87b819,Lil Potates ((LP)),,Bridged Token
+0x6551698ee65f5db726e49f9ab0ff1ce9419003a7,Playdoge ((PLAY)),,Bridged Token
+0x7ddc0692c2a5b2686e40dfb4f8bf96b5343c52f2,Fallen Angel (Wormhole) ((ANGEL)),,Bridged Token
+0x1f73febdea93b1e455a72957f4b2d8914c03a7ea,MADPEPE,,Bridged Token
+0xe6a7357ecf75a9b0b9910392356fabf590609edc,ERC-20 TOKEN*,,Bridged Token
+0x0f8de1302c9336e22dc3609c3d30e6706e1539ff,DeFiYieldProtocol ((DYP)),,Bridged Token
+0x7b2a08f92b49edf7c68b35f25e7c54a162e989e0,DinoX Coin (Wormhole) ((DNXC)),,Bridged Token
+0x78bf7c4b653d80ca3a1aa878827bf1a240e53c43,Ether ((ETH)),,Bridged Token
+0xc2702fbd7208f53d1a7fd1dd96b9e685aef12d4e,Rango Exchange Token (Wormhole) ((Rango)),,Bridged Token
+0x4986dc6bedecd029069787d9b3bbc14f99dc0973,Shitcoin ((Shit)),,Bridged Token
+0xc87cf633281038790ee038b161568018de5289d4,(Wormhole) (()),,Bridged Token
+0x6a8b433d2c5d97f1f7e6bd457acb7dc2ea5f8591,Fief (Wormhole) ((FIEF)),,Bridged Token
+0x4cc275eb37c59d14129cc2120964fb6595246dd9,BAM ((Bamboo)),,Bridged Token
+0x4d01c4acff7befe7f2408a1f823189fbd1a3e2bd,XPLA ((XPLA)),,Bridged Token
+0x53bbe80f77ac24e5ea1b806d5e67ed1e3f4b37fe,(Wormhole) (()),,Bridged Token
+0xb9c2fbd61025f1fe4880219c1b0864624fda50b0,Alchemix ((ALCX)),,Bridged Token
+0xdc5f1600570126c6a1cdfdf504102b891ea76ef8,Virtual Protocol,,Bridged Token
+0x3b654a81ed23d93459ca52714fef08393591fd81,Dai Token (Wormhole) ((DAI)),,Bridged Token
+0x8510b0d73291ee64018c73f4024b864aa54e7da4,ZynCoin ((ZYN)),,Bridged Token
+0x97155ae6bd0e5d4e9a38a651a8dd14d03661f993,Wormhole:VEGA (Wormhole) ((whVEGA)),,Bridged Token
+0xd6327b0bd5925760f2ca5908493aebe1fc537703,Balancer ((BAL)),,Bridged Token
+0x1c9283595981223f3369a78290093541fe88ee6d,ButtCoin ((Butts)),,Bridged Token
+0xe77c99b64414e0fd9aeea48affbbd2e97a895020,USD Coin ((USDC)),,Bridged Token
+0x11099821b900ff7d3a0dbeecdae4e90aee2eeadf,Network Spirituality Agency ((NSA)),,Bridged Token
+0xefc9455685f3215c69d0ac91ec2bdd2a4f5b4f23,MooDeng,,Bridged Token
+0x0bc86c59e70e205b30e5d7c63a351a5234d6939d,USDC ((USDC)),,Bridged Token
+0x84338421bed3d273b8a23f25a7f1db50f1d63ee5,Cross Chain Farming (Wormhole) ((CCF)),,Bridged Token
+0xaea6e021dbbe416bcc897b9fa148040612d0ddb3,United States of AI ((USAI)),,Bridged Token
+0x81ca6cf763c5c6d102ddd7d9b9027c1adbdc351f,Request ((REQ)),,Bridged Token
+0x6a7a7b4e030ac607f78f6679eaec571bc60c77fa,Meta MVRS (Wormhole) ((MVRS)),,Bridged Token
+0xb441f3a0102b0805e85d59701298ff92a20b23a9,Graph Token ((GRT)),,Bridged Token
+0x242c1a66c1461f391eb6614312152a3830b1a35f,Tradfi bro ((CFA)),,Bridged Token
+0x14d3e0ffbd62c9618c73ebb6f9c1cbcd23b6abe1,anyCRE8,https://multichain.org/,Bridged Token
+0xca66bbdddd58d67ab504b6d8028491128ae28eca,(PoS) Decentraland MANA (Wormhole) ((MANA)),,Bridged Token
+0x362bf2214b791a56154c84981a612fa9acf65531,happi cat ((HAPPI)),,Bridged Token
+0xf9f317834456c2422a3439fda96d021fc81626b0,Livepeer Token ((LPT)),,Bridged Token
+0x868a5d2431f71eb44eaaf4303a3932b76b769f54,Iron Finance ICE Token (Wormhole) ((ICE)),,Bridged Token
+0xf7ccbb993718fbddf6eb723fad9e5743c4a0d2d2,SATAN ((SATAN)),,Bridged Token
+0xe692c8d72bd4ac7764090d54842a305546dd1de5,ANY Blocknet ((aBLOCK)),https://anyswap.exchange/,Bridged Token
+0x963b37d30eee26d0d94c1e5a42aa5b1371494ca2,Helius Staked SOL (IBC) ((hSOL)),https://www.ibcprotocol.dev/,Bridged Token
+0xc504898a9348fb34b52e0f8b8404b5892543c4f7,ESG (Wormhole) ((ESG)),,Bridged Token
+0x50384a3675593c07b84a19d2a7e60385d35003e8,OnX.finance (Wormhole) ((ONX)),,Bridged Token
+0x7fe180b34aad1a4513bc9131e4c1df6c7f425945,Greatest Coin In The World,,Bridged Token
+0xa377121b322564a8f4fbd0e016077cff781b96a2,Bonded Luna (Wormhole) ((BLUNA)),,Bridged Token
+0x325b1c206c0153d8c8eca966efda99daed5be344,WETH (alcorbridge.in) ((WETH)),,Bridged Token
+0xdf200ee0c427e7ed5b7a8820a97bf50d2a443ba8,Starbucks Corporation (Wormhole) ((mSBUX)),,Bridged Token
+0x5b4d1c76e300b6f36f289a58e1646acc11b651bb,WORLD CUP INU ((WCI)),,Bridged Token
+0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6,USD Coin (Wormhole) ((USDC)),https://wormholebridge.com/#/,Bridged Token
+0x0aa8d1e86ed13457a2530aa0c006e43520499382,Axelar Wrapped USDC,,Bridged Token
+0x4b27cd6e6a5e83d236ead376d256fe2f9e9f0d2e,anyPREMIA,https://multichain.org/,Bridged Token
+0xb4bcdc0915b9518846fdc7d9c07ac76bc77bded7,SenkaBit (Wormhole),,Bridged Token
+0x7df551375d781741dd46778c948ab64d626f0160,SpookyToken ((BOO)),,Bridged Token
+0x36de7c29b18e009ef73500bebf48e8b5ae7960ea,SushiToken (PoS) (Wormhole) ((SUSHI)),,Bridged Token
+0x4f90e71903e3c9335cb537d4eb02030f3fb25e8d,Project Galaxy ((GAL)),,Bridged Token
+0x1d89eb54ccaad24c6df8f3b1eeea7afbf3492cdc,Wrapped BTC (Wormhole) ((WBTC.e)),,Bridged Token
+0x45b83f6c33c0fb585d5977739df0aa521666f880,Ankr Reward Earning BNB ((aBNBb)),,Bridged Token
+0xcfb8c8d86b0f2a9f196f6ca4fdddae9a6ff727d8,(Wormhole) (()),,Bridged Token
+0xc8aabdd7ced21a14c4b115da75737c0dfd265016,GoBlank Token ((BLANK)),,Bridged Token
+0x51e01d800f473593d86d835f148cc1c262ee4670,Cratos BEP20 ((CRTS)),,Bridged Token
+0x9243b3615ed297403c0cafa156c3fa16057526ca,Osmosis (IBC) ((OSMO)),https://www.ibcprotocol.dev/,Bridged Token
+0xdfe0be0e9a8fffa68448b991d0c99a59780ef179,Tether USD (Wormhole) ((USDT)),,Bridged Token
+0xf9825a563222f9efc81e369311dadb13d68e60a4,50WMATIC-50OLAS,,Bridged Token
+0x126cb78939f5a1401b427e915c0d09e396a07a33,Bonded ETH (Wormhole) ((BETH)),,Bridged Token
+0xd4143e8db48a8f73afcdf13d7b3305f28da38116,Demodyfi Token,https://multichain.org/,Bridged Token
+0xc1976604de6842870050a31831971619530778ec,Metahero ((HERO)),,Bridged Token
+0x16e73af54d8554a8eef8914158e9ba8ff9ab464e,tGOLD ((TXAU)),,Bridged Token
+0x6fa741c0afad112c149cb9c53217ec169add8dc9,OmniDog (Wormhole),,Bridged Token
+0x2e9c3785969ec827fa02e6a1fab338ada40220d6,Apu Apustaja ((APU)),,Bridged Token
+0x1fbbc7dba1ef75ff43f955a5b9ceec3cc1692cd8,anyMAHA,https://multichain.org/,Bridged Token
+0x3f0cc41de057458591e1c753f5bc162c982cbd00,Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0xdee66dee7a2a489874e25f2ba9c90c0e5412d16c,LOCK IN ((LOCKIN)),,Bridged Token
+0x3b9e3b5c616a1a038fdc190758bbe9bab6c7a857,OnX.finance ((anyONX)),https://multichain.org/,Bridged Token
+0x678a2bda7952dcc9e55c693d9ef83b8154bb62b3,USD Coin ((USDC)),,Bridged Token
+0x7c7ab80590708cd1b7cf15fe602301fe52bb1d18,Injective Protocol ((INJ)),,Bridged Token
+0xaf6229791ca19006628637b572e9f64dbbf84fcd,Oly Sport (Wormhole) ((OLY)),,Bridged Token
+0x4562bef338717993c781d546f64111648704ae29,Donkey Hee Haw (Wormhole) ((DONKEY)),,Bridged Token
+0x67df4eabcc8b4d056ed5111a68bfb39c9940d9fa,LUNA 2.0 (Wormhole),,Bridged Token
+0x6e60eccf388d8b911dffeab4fda06d8b6c87b819,Lil Potates ((LP)),,Bridged Token
+0xb7af8bd0149d24447c3fb0f8597edbb2ee9759d4,Neutrino USD (Wormhole) ((USDN)),,Bridged Token
+0x021e82bf38fe4644da196e4e3aaea9f32e17f142,THE•RUNIX•TOKEN ((RUNIX)),,Bridged Token
+0x6181a82a451653c0fe4457aa94fd19458540f274,Massa Bridged WETH (Massa) ((WETH)),,Bridged Token
+0xf60ef5fb792d06fd6f28d49dd2e00ba0dd7ad201,Bitcoin (Wormhole) ((BTC)),,Bridged Token
+0x01f369bf2d5a62ce60b0a2e92143cd623becb0fb,(Wormhole) (()),,Bridged Token
+0x464978a691009427bd0703b3b2bfe00377b3c9c7,Multichain ((MULTI)),,Bridged Token
+0xc30ae4950724b87011ae8c5e15b54c8f3f4406b8,Rally (Solana) (Wormhole) ((sRLY)),,Bridged Token
+0xf14a9b2692caead5b647adf602be95895fb0c45f,ETFpepe,,Bridged Token
+0xd6040966181c9d1b28158335780dc42514b119e7,OpenLeverage ((anyOLE)),https://multichain.org/,Bridged Token
+0x8ce3dfcae03beb7d2cab25a1e1434c3791f45dd8,anyFODL,https://multichain.org/,Bridged Token
+0xc38261846c42c1e1d59e04da675eb1974e9ce7b1,USD Coin ((USDC)),,Bridged Token
+0x50f96544b9cba2c602ec12f91581480a17d36f7a,LoopringCoin V2 ((LRC)),,Bridged Token
+0x39a215ac0c28f91b1f984ed4b2f7594246548de5,Binance-Peg BTCB Token ((BTCB)),,Bridged Token
+0xbbb63f49fe75cd82513c4a3da2ec80dd36a8448f,anySATA,https://multichain.org/,Bridged Token
+0xbfbe7d4d03a5fc08939f4a51fa7302f177cfa98a,USD Coin (Wormhole) (Wormhole) ((USDC)),,Bridged Token
+0xdfed31e640b7280f76f046a97179e5e369d209b5,anyPAWTH,https://multichain.org/,Bridged Token
+0xd9a807e9d2f61b0098b4c3f79b2dfb9bc2e181ae,anyUNCX,https://multichain.org/,Bridged Token
+0x254f8fecfa355cd70a5e8c83c8ab19c8c1eb286b,(Wormhole) (()),,Bridged Token
+0x72b2095361926e72692dfd5986c5b0d2bc18bf1e,TetherToken (Wormhole) ((USDt)),,Bridged Token
+0x549e99dbf7bf9c2d186e6e02ee6e250af9cb942a,ERC-20 TOKEN*,,Bridged Token
+0x41b0459b44d312b885994105a989b7c1422b4fdf,Colizeum (Wormhole) ((ZEUM)),,Bridged Token
+0xd163bc025954b2bae467b6d82527cc60500ad092,YuzuSwap LP Token (Wormhole) ((LPT)),,Bridged Token
+0x356dc04c48a1b7762bfb6954dced04b730308b9a,SPACE ID ((ID)),,Bridged Token
+0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d,bitcoinplatinums ((anyBCP)),https://multichain.org/,Bridged Token
+0x43fefc8076371a7134395dbba03ddbee8e0d2c8e,Niobium Coin ((NBC)),,Bridged Token
+0x9fb9a33956351cf4fa040f65a13b835a3c8764e3,anyMULTI,https://multichain.org/,Bridged Token
+0xfdd75718a25e0d6bb576c5dc72068b4fde940db5,Fable of The Dragon ((TYRANT)),,Bridged Token
+0x8a7b795b3bea82b331a1c5ef87bb81d3d03bd42d,$SMOG airdrop | smogcoin.org ((aSMOG)),,Bridged Token
+0xff47f9105ca9e583767904580815bee9b453ab66,Feisty Doge NFT ((NFD)),,Bridged Token
+0xb945e3f853b5f8033c8513cf3ce9f8ad9bebb1c9,Wrapped Ether ((WETH)),,Bridged Token
+0xf0544139ca1ee9e90946143ded6ce90ec089e0ab,Oasis Network ((ROSE)),,Bridged Token
+0x7842711d7ee7d8bb2d165e9dce4dd7b91a0244c3,(Wormhole) (()),,Bridged Token
+0xbe635f061dc6e918a1be980df82910621859cc93,,,Bridged Token
+0x63ec9238bfb1b516d02864332cac37aebf678233,Aave Token ((AAVE)),,Bridged Token
+0xbf2d918999618964730e7428497cedbbfebc3fbc,Luna Classic (Wormhole) ((LUNC)),,Bridged Token
+0xc606bd6d2ffc450feffd6009f39515940d06b9e9,Bonded ATOM (Wormhole) ((bATOM)),,Bridged Token
+0x25a528af62e56512a19ce8c3cab427807c28cc19,Wrapped sSQUID,,Bridged Token
+0x5cb3b294eedc910ba820c44afc3ee98db471c59a,Fancy Games (Wormhole) ((FNC)),,Bridged Token
+0x5f1c76b7a90d88ee5bada971a28aaef514719dbf,Polars ((anyPOL)),https://multichain.org/,Bridged Token
+0x1c9283595981223f3369a78290093541fe88ee6d,ButtCoin ((Butts)),,Bridged Token
+0x4381dbae93af95fc9cb3daf7c6bdcd92c4fd7fd3,Solana (Wormhole) ((SOL)),,Bridged Token
+0x0eabb6162441c954139ce82f6272c49262548b4d,VISOR ((VISR)),,Bridged Token
+0x6c0d9efe8071a7e971405cf84b8fa36b2f1dbd87,Kreepy (Wormhole) ((KRP)),,Bridged Token
+0x89816a5b736be579a85ddac8af60f2c6eb92615a,(Wormhole) (()),,Bridged Token
+0x2ed58b1fa208e9a08fdaac2a839b8539abe558e8,dogwifhat (($WIF)),,Bridged Token
+0x04970ec4e3f43565f2d165fba1953cf7c6864fe9,British Pound ((GBP)),,Bridged Token
+0x7f352fa977713019c484c58e9bdfb04910016871,anyOBOT,https://multichain.org/,Bridged Token
+0x97467c3051763b53fe1ebac6da93560f03653531,Uniswap ((UNI)),,Bridged Token
+0xdf550af7a984a45b71a9954f5f827c87538d511c,,,Bridged Token
+0xa1ae26219565370fcfea073249309d117d805c39,Jupiter ((anyJUP)),https://multichain.org/,Bridged Token
+0x418d75f65a02b3d53b2418fb8e1fe493759c7605,Wrapped BNB (Wormhole) ((WBNB)),https://wormholebridge.com/#/,Bridged Token
+0x3d632d9e1a60a0880dd45e61f279d919b5748377,Coin98 ((anyC98)),https://multichain.org/,Bridged Token
+0x64ee4f41a15d6c431ab6607d4e95462169d50f6c,anyYAXIS,https://multichain.org/,Bridged Token
+0xfb567e65d85bee8ac7ddfeccb9656a29cd3de25a,Ocean Protocol ((OCEAN)),,Bridged Token
+0xa5e3b10d34c93a480517f9dc53b3e1fe52d4e1ee,CHEEMSINU (Wormhole) (($CINU)),,Bridged Token
+0x6362496bef53458b20548a35a2101214ee2be3e0,anyANKR,https://multichain.org/,Bridged Token
+0x7c9f4c87d911613fe9ca58b579f737911aad2d43,Wrapped Matic (Wormhole) ((WMATIC)),https://wormholebridge.com/,Bridged Token
+0xc1b6aa2717e7446e9a97284817941a68936f6473,ROBBY (Wormhole) ((ROBBY)),,Bridged Token
+0x2a790b85decd17202feb3e4167b2832318e7536c,Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0xa1118db94c3c4bdeebbc144bb9a37d200ca144a2,USD Coin ((USDC)),,Bridged Token
+0x999f72d2b39d82d8535173ee241d9669eaf128bf,Ondo ((ONDO)),,Bridged Token
+0xd15a442073c7d060b8401efd93b5b8243cab0a60,Fantom ((FTM)),,Bridged Token
+0x300e01eff40bde9961519f9b509b062ddb80a0be,Flashstake ((FLASH)),,Bridged Token
+0x289998d93749f6d10f34a7f3bd892296cccc91f8,Testoor ((test)),,Bridged Token
+0xff0d586354556bf34bfaa749b11d6a35f9a44b08,Gold Standard ((GSTD)),,Bridged Token
+0x2cf90d257d3231f4f46ffe52ee3995ff51236399,Fee + Staked GLP ((fsGLP)),,Bridged Token
+0xbeea88b87a55038781ce61620591fc062f754f4d,DODO bird ((DODO)),,Bridged Token
+0x2ec03725ce4247be79486b71f252ed691251e655,Torum ((XTM)),,Bridged Token
+0x6a8b433d2c5d97f1f7e6bd457acb7dc2ea5f8591,Fief (Wormhole) ((FIEF)),,Bridged Token
+0x52dc835d5a36fdf9e6a84603cfef82298645635c,YIN Finance ((anyYIN)),https://multichain.org/,Bridged Token
+0xab931dcf42d22981c412206f541508eff5f47aa1,AxonDAO Governance Token ((AXGT)),,Bridged Token
+0xfc1b550a53fc5765942234b8e4ae88c4693182e7,Connect Financial ((CNFI)),,Bridged Token
+0xc3ca2bdbeecc1acbf8e50c3ce8c447ded3baaf1b,Token (($TOKEN)),,Bridged Token
+0xd271551369b961029b28c00cb30e28a3b0e519f9,USD Coin (Wormhole) ((USDC)),,Bridged Token
+0x6e81e33c3ba2c3557318a63b3a395a393dee8d35,Ixs Token ((IXS)),,Bridged Token
+0x3c0232fa0e4b901fec428c564895651bbf243e65,HellBender 392 Scott VA,,Bridged Token
+0xfa05c6e9207e3d6b23cddbbfced4dfebf13bf8d5,Dogelon Index from Mainnet from,,Bridged Token
+0xb754057f00b38d533402d5ab35cee1e6b72722d7,USD Coin (Wormhole) ((USDC)),,Bridged Token
+0x96cdff9e99ff46ea9c86a7d7ca1438ecb90f6ece,Injective Token (PoS) ((INJ)),,Bridged Token
+0x556f9d8b79bccba2c4e1ae10107de465079b0451,Tabi Token ((TABI)),,Bridged Token
+0x2c66f0a5fb2b180ff353cdfb1cda0a68ac8f14b3,Binary Coin ((BNRY)),,Bridged Token
+0xd1d82d3ab815e0b47e38ec2d666c5b8aa05ae501,Wrapped Solana (IBC) ((SOL)),https://www.ibcprotocol.dev/,Bridged Token
+0x711072e43c0fdbd1b5f8fef1506f006681eefa55,Frapped USDT (Wormhole) ((fUSDT)),,Bridged Token
+0x5cb4b462ca075558ef0343db6b55f590e47482e4,anyROOBEE,https://multichain.org/,Bridged Token
+0xa024dc70cef737a3e28aecd18b5c64a81d11bce8,LUCKY ROO ((ROO)),,Bridged Token
+0x52b3e9b6e1407e728e05e84fa0aa1f741d7119bb,Ume ((UME)),,Bridged Token
+0x43fefc8076371a7134395dbba03ddbee8e0d2c8e,Niobium Coin ((NBC)),,Bridged Token
+0x8d34a11f49172c057d11833cf92aff97f28fc595,Official Crypto Cowboy Token,https://multichain.org/,Bridged Token
+0xdee66dee7a2a489874e25f2ba9c90c0e5412d16c,LOCK IN ((LOCKIN)),,Bridged Token
+0x03b3d87d9f613c90d7e564a9c4d412da522ab5ab,Gods Unchained (Wormhole) ((GODS)),,Bridged Token
+0x1fac93cb9aa92f810548de10d1b9277b4d4376d4,Silly Dragon ((SILLY)),,Bridged Token
+0x94582b8e2a21432b2568f7e60e5c3e1d5ab22436,,,Bridged Token
+0x22648c12acd87912ea1710357b1302c6a4154ebc,anyUSDT,https://multichain.org/,Bridged Token
+0x02dfa26d853f1b3f219bf72384120cb51f302d2a,Portal Sol ((PORTAL)),,Bridged Token
+0xb633ae09e7655ea65f33155ee99c905b27d8cd48,Jesus Minion ((Minion)),,Bridged Token
+0x79df183efcc80915dd08b74be0b021a8a45b0419,(Wormhole) (()),,Bridged Token
+0x6c23c1c16a14188735f653f3416747c7b314e83e,Clam Token ((CLAM)),,Bridged Token
+0x4cc275eb37c59d14129cc2120964fb6595246dd9,BAM ((Bamboo)),,Bridged Token
+0x53d3f6f0003492af0788af105b47c7a586894550,Indexed ((NDX)),,Bridged Token
+0x7495beb3483977118a2354c3e9b8548bc3aa7376,SubQueryToken ((SQT)),,Bridged Token
+0x0e972c1c6ae2e15efac516c67629ad110781facc,NinjaFloki_Dividen_Tracker (Wormhole),,Bridged Token
+0x072951ee334ea4521d5aaf5d3e5729ff1e5e70ce,Marnotaur (Wormhole) ((TAUR)),,Bridged Token
+0x7b23bf9cd29d5e945820e27c76aee8e0a04864b1,Crypto is Liberty,,Bridged Token
+0x4548f48fdbb0a9fc952c201b28671d9f58aa16d3,Kalmar Token ((KALM)),,Bridged Token
+0xc2ef23543b146c721093a34b60396d7d60960a4d,Metis Token (Wormhole) ((Metis)),,Bridged Token
+0xff47f9105ca9e583767904580815bee9b453ab66,Feisty Doge NFT ((NFD)),,Bridged Token
+0x441ec6748c51c19c93ce14439714b5401d6c3ded,$PTRUMP,,Bridged Token
+0xc97bae52924fd34cdef74ffad2d3dbd955d92553,DOGITA ((DOGA)),,Bridged Token
+0x953ecfbc71f3ea04ed36da30e8e39ea90d6e8b34,Wizardia Token (Wormhole) ((WZRD)),,Bridged Token
+0xebbfdba17b78e6d2be6a7610a2d8d85112ce0e77,Wrapped eETH ((weETH)),,Bridged Token
+0xb4c624dbc50804da086cf2380cd55debc0d22e96,Polygon tBTC v2 ((tBTC)),,Bridged Token
+0xfc9394de562eb175db2b8bb40eb0c9197f1d66bd,USD Coin ((USDC)),,Bridged Token
+0x94809b9ecf8d9d2a6b9ed084be012684095fe41c,FARUKH BAHI THE BOSS ((FBTB)),,Bridged Token
+0xa798a194a62bd6182794e08b3092b497c337dfa0,A-Coin ((Acoin)),,Bridged Token
+0x999f72d2b39d82d8535173ee241d9669eaf128bf,Ondo ((ONDO)),,Bridged Token
+0xa28e49f73ca308267e8e83baaddd0bafe52484d1,IMMUTABLE (($IMX)),,Bridged Token
+0xbf26a56700add40410444ab9eaaeed1eaee23dcc,ShibaVerse (Wormhole) ((Verse)),,Bridged Token
+0xcb69f7ac645f5e09310b91445277a53f7fcb78cf,anyUNCL,https://multichain.org/,Bridged Token
+0x9eba16f6b7e8848e440922861123f0bee957002a,Strudel Finance,https://multichain.org/,Bridged Token
+0xed06840822448baac88118b3d937330d6eb694ba,MetaGaming Guild [via ChainPort. ((MGG)),,Bridged Token
+0x16e73af54d8554a8eef8914158e9ba8ff9ab464e,tGOLD ((TXAU)),,Bridged Token
+0xa6e822e865fbe37d6ebc6d721947afbbd9f95c19,anyLEDU,https://multichain.org/,Bridged Token
+0xda0d2670177f5892ea8883e1c35c1d664281cd5d,Penjamin Blinkerton ((PEN)),,Bridged Token
+0x46f1c9aa6401741323c645c1bef9dcbe0bcb7d35,DEI (Wormhole) ((DEI)),,Bridged Token
+0xd17b017507e9e034a2c075b51e1f371f0c200384,Merlin ((MERLIN)),,Bridged Token
+0xdef43530f2b4d347c91942162fb1205dbc2d8543,Fetch ((FET)),,Bridged Token
+0xda15e63bb09d98b4d6164d223fb9048194052e33,Curve USD-BTC-ETH,,Bridged Token
+0x9833c643f387ecfb76aa8114546ad524703c66fb,MetalSwap ((anyXMT)),https://multichain.org/,Bridged Token
+0xda57f5e535ad758288180b8f487b970d3d904daf,Wrapped MIR Token (Wormhole) (Wormhole) ((MIR)),,Bridged Token
+0xb808d767ddf0f61ca62331c1bbbebe0530b41079,Duet Governance Token,https://multichain.org/,Bridged Token
+0x582814738422459483d576e0b4072ca51d0b0dca,Matic Token (Wormhole) ((MATIC)),,Bridged Token
+0xb740d30081d4c2c4c540580249e22a3acf261692,terraswap liquidity token ((uLP)),,Bridged Token
+0x63ef5bbebfe823e243487d94065b7d0356830ac6,(Wormhole) (()),,Bridged Token
+0xfba2b8d6d4554ed67ddde4814847b02c5114285d,ERC-20 TOKEN*,,Bridged Token
+0x0f858205b866369059aeb76b8ab14c79a81a6252,BRZ Token ((BRZ)),,Bridged Token
+0xf5cd5f0fde493ae6e8b7adff18c6eb8683b5a05d,$REKT (($REKT)),,Bridged Token
+0x8d8da40e586fea0d69dcf2be3c5fa21b6e453662,Zilliqa (Wormhole) ((ZIL)),,Bridged Token
+0x0aa8d1e86ed13457a2530aa0c006e43520499382,Axelar Wrapped USDC,,Bridged Token
+0x6b8e49057247bc33f4305af6aa13532bd1e072e8,Wrapped FTT (Sollet) ((FTT)),,Bridged Token
+0xdcb2d3ee61f3831a5f7035e0f93bdfda7a92ee07,(Wormhole) (()),,Bridged Token
+0x63ec9238bfb1b516d02864332cac37aebf678233,Aave Token ((AAVE)),,Bridged Token
+0xda2b0c5bda001e2be55e3163d6581b1b81ff3a47,Anima Spirit Gem ((ASG)),,Bridged Token
+0x4562bef338717993c781d546f64111648704ae29,Donkey Hee Haw (Wormhole) ((DONKEY)),,Bridged Token
+0x156dfd971d860ff3e68c4b5e0de402fc7c909f07,Uniswap V2 ((UNI-V2)),,Bridged Token
+0xb869f435c80f62f446bf5ca3dcc9d958be35cf64,Wootrade Network ((WOO)),,Bridged Token
+0x7fe180b34aad1a4513bc9131e4c1df6c7f425945,Greatest Coin In The World,,Bridged Token
+0x1e190a8f85e2037709f88a08078eabd81dc2858c,TOWER ((TOWER)),,Bridged Token
+0xe617dd80c621a5072bd8cba65e9d76c07327004d,Raydium (Wormhole) ((RAY)),https://wormholebridge.com/#/,Bridged Token
+0x274c17392b8b3e3c4eec5089e2093ba84534adb3,BSC Wrapped Jupiter (Wormhole) ((bwJUP)),,Bridged Token
+0x7beb05cf5681f402e762f8569c2fc138a2172978,Kyber Network Crystal v2 ((anyKNC)),https://multichain.org/,Bridged Token
+0x758d08864fb6cce3062667225ca10b8f00496cc2,anyRYOSHI,https://multichain.org/,Bridged Token
+0xb4bcdc0915b9518846fdc7d9c07ac76bc77bded7,SenkaBit (Wormhole),,Bridged Token
+0xaf458348c43e864aecfacd54cf371ec3142a1d4d,IRON Stablecoin (Wormhole) ((IRON)),,Bridged Token
+0x464978a691009427bd0703b3b2bfe00377b3c9c7,Multichain ((MULTI)),,Bridged Token
+0x770241c7b2793512c64aae8d9a100699feb615e5,,,Bridged Token
+0xfe0cc5a634bfaa1b0bc4da20ebe6dc694df2f4ca,Frax (Wormhole) ((FRAX)),,Bridged Token
+0x29ab8091ea6f62b04a8a937a3bb80ebc40e42580,Loom Token ((LOOM)),,Bridged Token
+0xd134feff35750e00da014572babb46e4659ad87a,The Doge NFT ((DOG)),,Bridged Token
+0x1b68e7b3a70c5c63a68da53e85452c3689307456,DAO Maker (Wormhole) ((DAO)),,Bridged Token
+0x4b27cd6e6a5e83d236ead376d256fe2f9e9f0d2e,anyPREMIA,https://multichain.org/,Bridged Token
+0xa5432cbf7097c4e3536731dec837e3fa676b38c3,anySUSHI,https://multichain.org/,Bridged Token
+0xd924fdc6008c39903a27059e57b758eaf274396f,Acala ((ACA)),,Bridged Token
+0x46cf9115277eb4962ecfdd61546c733c21d8a376,(Wormhole) (()),,Bridged Token
+0xcf6033e4b1a2dfb2f5f9d2174a533b344137bb08,Waifu ((Waifu)),,Bridged Token
+0xca53faa567f4880fb939658f83b4b475ce8c4096,Bitget ((Bitget)),,Bridged Token
+0x1608278e54fb9e070cb109234d111ff3a359612b,Wrapped Metrix,https://multichain.org/,Bridged Token
+0x67f38490723e4eccb172e36926a9670b72ada6ec,Decentralized Nations (PoS) ((DENA)),,Bridged Token
+0xa46debe92a383efe4ca0e6a4b34239a01886f159,AGAC ((AGAC)),,Bridged Token
+0xc2c007e68f9dff75e4aec53a6efeaf2b7a0ed928,Equilibrium Token ((xcEQ)),,Bridged Token
+0xdb12c7e30dc2a2c421724d07c7a09147bd9f61bb,anyXCUR,https://multichain.org/,Bridged Token
+0x8653b7004c15b95356e4059f6f76e8e5de9cd648,(Wormhole) (()),,Bridged Token
+0xea6425a03b4545c10b49c785df9efbbbb68b7167,(Wormhole) (()),,Bridged Token
+0x78bf7c4b653d80ca3a1aa878827bf1a240e53c43,Ether ((ETH)),,Bridged Token
+0xff8ad8c894c1a9425e4ee930f76dcbc1b7d1a8ae,Thetanut Index UST (Wormhole),,Bridged Token
+0xe87d84dcbb848fe94c6daedc9c81c913f707f2d2,99Starz ((anySTZ)),https://multichain.org/,Bridged Token
+0xa8e71d64e6a34539f66265df6e7f3b082c4c2833,Super Trump ((STRUMP)),,Bridged Token
+0x68bb24b431a6017ffe67be932535626129115e67,GAMEE ((GMEE)),,Bridged Token
+0x32d222e1f6386b3df7065d639870be0ef76d3599,Wrapped Ether (Wormhole) ((WETH)),,Bridged Token
+0x6b8e49057247bc33f4305af6aa13532bd1e072e8,Wrapped FTT (Sollet) ((FTT)),,Bridged Token
+0x47536f17f4ff30e64a96a7555826b8f9e66ec468,anyDOGIRA,https://multichain.org/,Bridged Token
+0xbeea88b87a55038781ce61620591fc062f754f4d,DODO bird ((DODO)),,Bridged Token
+0x9318c1ac49600957ef2b97f51862d6ee9025bbe6,Dilly ((DILLY)),,Bridged Token
+0xb02eedc9dacfce55ea6af9906d0e3ae4773b60ef,2CrazyToken (Wormhole) ((2CRZ)),,Bridged Token
+0x3871663624958fa24cdff267e2840f729699162b,DeFiato [via ChainPort.io] (Wormhole) ((DFIAT)),,Bridged Token
+0x69512e863d108a82dbd968b2d9a5697ab1eec666,Sypool (Wormhole) ((SYP)),,Bridged Token
+0xdb1e89f261981b6ce575ca86edc74143d9cee4c2,DOTORI ((DTR)),,Bridged Token
+0x0c929a0965116498c5b937ae625098dc0ae1de08,Lido DAO Token ((LDO)),,Bridged Token
+0xefb4642f3691d5dbcad38b120782ee4f965ecd77,Peng ((PENG)),,Bridged Token
+0x35019ae14b7740791aefae9aade4f16440ca7d49,KiboShib ((KIBSHI)),,Bridged Token
+0x6f5b50c7e52934ff2688756ccbe562850c206c0c,XEN Crypto ((bXEN)),,Bridged Token
+0xa1061739696dfd736968b9351617d46255b9b311,Radio Caca V2 (Wormhole) ((RACA)),,Bridged Token
+0xacb515257293448c0dea7f71aa53301a5f88d252,Axelar Wrapped UST ((UST)),,Bridged Token
+0x65d016888b376301b77646153ee96ea269492088,Arbipad ((ARBI)),,Bridged Token
+0x770241c7b2793512c64aae8d9a100699feb615e5,,,Bridged Token
+0x0f858205b866369059aeb76b8ab14c79a81a6252,BRZ Token ((BRZ)),,Bridged Token
+0x9721cb5f9edeb93b016cc2d5aba45691e8b6f618,ABITSHADOW TOKEN (Wormhole) ((ABST)),,Bridged Token
+0x6b9e96264d5c9cdf6d3df8560f0220460f7a6264,Matt Furie ((FURIE)),,Bridged Token
+0xd5ebd23d5eb968c2efba2b03f27ee61718609a71,xSigma ((anySIG)),https://multichain.org/,Bridged Token
+0xf8d42a5aebfd930a9faffb0f7c4a46e89109ed5c,Orion Protocol (Wormhole) ((ORN)),,Bridged Token
+0x0feda3085fe309ebbbf2ed84b0bd073b635a2dde,$FOUR ((4)),,Bridged Token
+0x3ce8df8530cb6093853b46bbea398715033dc5b4,Angus Dumbledoge ((DUMBLE)),,Bridged Token
+0x95dd59343a893637be1c3228060ee6afbf6f0730,Everex ((anyEVX)),https://multichain.org/,Bridged Token
+0x57e873d75f7f090e623b26a68d6d789ae193e1ba,Zoot Classic ((ZOOTC)),,Bridged Token
+0x9eba16f6b7e8848e440922861123f0bee957002a,Strudel Finance,https://multichain.org/,Bridged Token
+0xcb4bc10f5dca2927b7490f1d233709b0d28d9571,CyberConnect ((CYBER)),,Bridged Token
+0xd601556f1d5769449d66d743e0f7fe6d89767d8f,Synapse (Wormhole) ((SYN)),,Bridged Token
+0x8fb759e8b75b84d363e658cb6f55a22640e732ed,Ether (Wormhole) ((mETH)),,Bridged Token
+0x9a403cbf426c4c54889b7df8aa054d9534b6263a,IRON Titanium Token (Wormhole) ((TITAN)),,Bridged Token
+0xb869f435c80f62f446bf5ca3dcc9d958be35cf64,Wootrade Network ((WOO)),,Bridged Token
+0x7fe180b34aad1a4513bc9131e4c1df6c7f425945,Greatest Coin In The World,,Bridged Token
+0xed5baf79d439875dcf6e14382f51fa0542ba3866,Not Security ((NOTSEC)),,Bridged Token
+0xe617dd80c621a5072bd8cba65e9d76c07327004d,Raydium (Wormhole) ((RAY)),https://wormholebridge.com/#/,Bridged Token
+0x8f6d22e0b9e2f8b2bc94f2321bb1c0c17856baf1,Boost ((BOOST)),,Bridged Token
+0x0d0e1a30c98611121d6f0df966b05d9d0afb023d,BlockBears ((BBEARS)),,Bridged Token
+0xd6040966181c9d1b28158335780dc42514b119e7,OpenLeverage ((anyOLE)),https://multichain.org/,Bridged Token
+0x9c0b24d1394063cbd45ae1921d798314a95cb847,SpongeBob Square (Wormhole) ((SPONGS)),,Bridged Token
+0x11099821b900ff7d3a0dbeecdae4e90aee2eeadf,Network Spirituality Agency ((NSA)),,Bridged Token
+0x425f19ea1a263d0208b7d032ac9b851bfc9389f9,CERE Network (Wormhole) ((CERE)),,Bridged Token
+0x247db9746755cf119d3ad68a6f8f60e7e650bfa1,Liquid Staking token (IBC) ((LST)),https://www.ibcprotocol.dev/,Bridged Token
+0xd13eb71515dc48a8a367d12f844e5737bab415df,anyBUSD,https://multichain.org/,Bridged Token
+0x4b27cd6e6a5e83d236ead376d256fe2f9e9f0d2e,anyPREMIA,https://multichain.org/,Bridged Token
+0xf5cd5f0fde493ae6e8b7adff18c6eb8683b5a05d,$REKT (($REKT)),,Bridged Token
+0xd9703731397fb3d42ecbffa15c5b9857e2990bb1,YFII.finance Token (Wormhole) ((YFII)),,Bridged Token
+0x5124dc4b0bf39dd83388ea475d9dd391de9b4991,Genius ((GENI)),,Bridged Token
+0xd8acee38defede6b80eaf376936af1893a7865ed,TeddyDoge (Wormhole) ((TEDDY)),,Bridged Token
+0x4b1bc9d0f3b0b2f1fa1b93127c85e1476f0f4ba9,ETHW ((ETHW)),,Bridged Token
+0x513e213e442c297e557c46a648fa387da0fd4f5b,BonzAI DePIN ((BONZAI)),,Bridged Token
+0x5c08b51ddbe8ba76e07be79975906c39aef2893a,Fantom KRW ((fKRW)),https://anyswap.exchange/,Bridged Token
+0xf211a9bcd0074150b3d80a13e5038ce58fd1ab19,RETARDIO,,Bridged Token
+0xb945e3f853b5f8033c8513cf3ce9f8ad9bebb1c9,Wrapped Ether ((WETH)),,Bridged Token
+0x2fd007a534eb7527b535a1df35aba6bd2a8b660f,50WETH-50OLAS,,Bridged Token
+0xdee66dee7a2a489874e25f2ba9c90c0e5412d16c,LOCK IN ((LOCKIN)),,Bridged Token
+0xc907a1812eeccdb9cfa8cb2f3208da1d3f98ad6e,ERC-20 TOKEN*,,Bridged Token
+0x29ab8091ea6f62b04a8a937a3bb80ebc40e42580,Loom Token ((LOOM)),,Bridged Token
+0xc1976604de6842870050a31831971619530778ec,Metahero ((HERO)),,Bridged Token
+0xb7af8bd0149d24447c3fb0f8597edbb2ee9759d4,Neutrino USD (Wormhole) ((USDN)),,Bridged Token
+0xa43637cda6658df26acfc70300e05c9366269070,EXS ((EXS)),,Bridged Token
+0x3bd2dfd03bc7c3011ed7fb8c4d0949b382726cee,anyFEAR,https://multichain.org/,Bridged Token
+0x92b983fa0e7d5717d2911123dc6137a33d41cd59,TrueUSD ((TUSD)),,Bridged Token
+0x9cdd56a2858eb9e51cdadac3603aa674a7574a4a,Matic Token ((MATIC)),,Bridged Token
+0xca53faa567f4880fb939658f83b4b475ce8c4096,Bitget ((Bitget)),,Bridged Token
+0x62832bef0afd15129fa1d4ae63f370393bb28a97,Hein Neko (Wormhole) (($HENOK)),,Bridged Token
+0x84ae7b0ff2bc523969fb3162e04149a419196f4b,ParaSwap ((anyPSP)),https://multichain.org/,Bridged Token
+0xd4f6a992fc368e71c256bbc04aa02aca7adb9f6b,Frax Ether ((frxETH)),,Bridged Token
+0xfa514925f762aa558e2c0dd7b3272c7956247e93,Pibble Token ((PIB)),,Bridged Token
+0xa4d597f4e7c4fde8c5959b8c091e8964c972fb23,Kambria Token ((KAT)),,Bridged Token
+0x66193d21fbc43b54e7cb9d0fe3265f5ba8f1cf0f,,,Bridged Token
+0xdcfa8c46ec015d4bf13d6be492cb7a8eb4580899,impactMarket (Wormhole) ((PACT)),,Bridged Token
+0xfb60d8e684f21f38e50fd76a83bb07a7537a44f5,Merlin ((MERLIN)),,Bridged Token
+0xbd31ea8212119f94a611fa969881cba3ea06fa3d,LUNA (Wormhole) ((LUNA)),https://wormholebridge.com/,Bridged Token
+0x953ecfbc71f3ea04ed36da30e8e39ea90d6e8b34,Wizardia Token (Wormhole) ((WZRD)),,Bridged Token
+0x985e83e395cac0bef335719dfddcc5a8a691cf55,terrausd,,Bridged Token
+0x72f4795b15b66e89cdcacb5c968c47adaa3e3adc,WAG ((WAG)),,Bridged Token
+0xc04d092b2f53d0e7d1540e01add9f3db1b01089d,Wing Token ((WING)),,Bridged Token
+0xc322de2f3e272c62445359d929b171c51ebc949d,CROWN Token ((CROWN)),,Bridged Token
+0xf51c60cfc8c7ebf7ef4e5a59d4d885e7fef29aa8,LuckyBlock (Wormhole) ((LBlock)),,Bridged Token
+0x5184d6e11682cae99f02f538d4e4fac09eb58712,ERC-20 TOKEN*,,Bridged Token
+0x5aa963f875a0ab2c14807ee199f0869a74f4ec83,Upload Token ((UPLOAD)),,Bridged Token
+0x51e01d800f473593d86d835f148cc1c262ee4670,Cratos BEP20 ((CRTS)),,Bridged Token
+0xd134feff35750e00da014572babb46e4659ad87a,The Doge NFT ((DOG)),,Bridged Token
+0x707dd7b88ca5a0b26c9ba2058bf52edd7eef3325,Spice (Wormhole) ((SFI)),,Bridged Token
+0xf2be35d657fa8142bbaa297d7dfa0fa688d66447,Orso Token ((ORSO)),,Bridged Token
+0x1b73ca38c220c2d604f5e510c5a34def7b850e7f,Vow ((VOW)),,Bridged Token
+0xbf2d918999618964730e7428497cedbbfebc3fbc,Luna Classic (Wormhole) ((LUNC)),,Bridged Token
+0xf4feec8cf825cd5b23f8abb3075c01c22abd4352,Degen ((DEGEN)),,Bridged Token
+0x160403f6239b36c640efdf2c79cd3de11956591c,Standard &amp; Poorz Shitcoin 500 ((SNP)),,Bridged Token
+0x93d3696a9f879b331f40cb5059e37015423a3bd0,Wrapped GLMR ((WGLMR)),,Bridged Token
+0xfe7abcf2fdda0c0543de4d38d78df4a7b6feac9c,Binance Beacon ETH ((BETH)),,Bridged Token
+0x63ec9238bfb1b516d02864332cac37aebf678233,Aave Token ((AAVE)),,Bridged Token
+0xa55b6fba7d9aa0adaabd92c2773921a26302d36f,Frax Ether ((frxETH)),,Bridged Token
+0x7dbae6014e87ab7e92d1e73bdf6c80996d71fefc,Terra Virtua Kolect (PoS) (Wormhole) ((TVK)),,Bridged Token
+0x8fac219f5de3f22fcd93f4bf12b4d5011e9c9bac,Arbitraz ((ARBZ)),,Bridged Token
+0x94d0930c63f61a84999256e83b2ef118f7f2db2c,Betswap.gg (Wormhole) ((BSGG)),,Bridged Token
+0x1727bb130300c03ef2a559f8fc97197d0669bab4,Argocoin ((AGC)),,Bridged Token
+0xb4bcdc0915b9518846fdc7d9c07ac76bc77bded7,SenkaBit (Wormhole),,Bridged Token
+0x410a7bf502414b2f0caad204de5782077ac6478f,DIAToken ((anyDIA)),https://multichain.org/,Bridged Token
+0x0feda3085fe309ebbbf2ed84b0bd073b635a2dde,$FOUR ((4)),,Bridged Token
+0x506cdc5c2d79ffcf3e07ce0bc1047ec538c843b7,,,Bridged Token
+0x13c3117c8f4780a0d3a423248012a905869e3a77,Dola USD Stablecoin ((DOLA)),,Bridged Token
+0xf929c6819a828e3c68d41b6de72e432e04d2cbfb,VirtuSwap ((VRSW)),,Bridged Token
+0xd040fab62dd4cda90a3e002570a04a765da7d308,TrueUSD (Wormhole) ((TUSD)),,Bridged Token
+0xb740d30081d4c2c4c540580249e22a3acf261692,terraswap liquidity token ((uLP)),,Bridged Token
+0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59,anyeXRD,https://multichain.org/,Bridged Token
+0xdd69db25f6d620a7bad3023c5d32761d353d3de9,Goerli ETH ((GETH)),https://testnetbridge.com/,Bridged Token
+0x79827c83feaa0d9fb0d219001dbed5bd6dabdaad,Imported GBYTE ((GBYTE)),,Bridged Token
+0x56cf68df5293b7817be9e9512680eac5abe54862,Cryption Network Token ((CNT)),,Bridged Token
+0x01da59c858d708fb0c368b6909a326cc9cad1fca,ShareToken ((SHR)),,Bridged Token
+0x7b4b0b9b024109d182dcf3831222fbda81369423,BUSD Token (Wormhole) ((BUSD)),https://wormholebridge.com/#/,Bridged Token
+0x0398dbe61460f27b1fed8df0985076aa49c96dc1,GAMEE ((GMEE)),,Bridged Token
+0xe6b9d092223f39013656702a40dbe6b7decc5746,anyWBTC,https://multichain.org/,Bridged Token
+0x24ef1528595048531595c85557da4908bba41de7,ABITSHADOW TOKEN (Wormhole) ((ABST)),https://www.abitshadow.com/,Bridged Token
+0xbba35daef943795f20a9a1eaef585b2147caaf9f,Wrapped USDT (Sollet) (Wormhole) ((wUSDT)),,Bridged Token
+0x711072e43c0fdbd1b5f8fef1506f006681eefa55,Frapped USDT (Wormhole) ((fUSDT)),,Bridged Token
+0x4715a83fdb218899dbacd20e1b6296ff49ffd3b7,Rocket Vault (PoS) ((RVF)),,Bridged Token
+0x620a06380559d03ac74a8adc9a760111e6fb2eca,Blockasset (Wormhole) ((BLOCK)),,Bridged Token
+0x790cfdc6ab2e0ee45a433aac5434f183be1f6a20,Universal Store of Value ((anyUSV)),https://multichain.org/,Bridged Token
+0x79a375cd35ad07ba30c4e330d89a156fa9a05acf,Open Ecosystem Token(PoS) ((OPN)),,Bridged Token
+0x6df10a0d87e7c8c81f00be6e51a1ad196ce25db5,Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0xb3cee6dca1dd528cb7cc258e32d8b50ce9ee46f5,Wrapped liquid staked Ether 2.0 ((wstETH)),,Bridged Token
+0x01f369bf2d5a62ce60b0a2e92143cd623becb0fb,(Wormhole) (()),,Bridged Token
+0x03e6cc94598c1a1e45fb618d693cb1ad6929157e,Frax ((FRAX)),,Bridged Token
+0xdb0ddb41d83caff57d4e82abaccebc6b4aada488,RealityToken ((RLTM)),,Bridged Token
+0x83949e5c229b7af9461286bb8f662e8c602d5506,El Cholo Cat ((CHOLO)),,Bridged Token
+0x8b92ea35171e29948cc9e49c52ac8db0549b7d6b,Baby Doge Coin,https://multichain.org/,Bridged Token
+0x4cd2690d86284e044cb63e60f1eb218a825a7e92,Wrapped Fantom (Wormhole) ((WFTM)),,Bridged Token
+0x61a6bbec76513f4e1594ed21120571fd0545e5a6,USD Base Coin ((USDbC)),,Bridged Token
+0x62c762951fc7d677010ead8d67d16a2df9f5c5a7,BeNFT Solutions (($BeNFT)),,Bridged Token
+0xd4da982edf5127fed13fa35007e5bf7eebef185d,Peak Brat ((BRAT)),,Bridged Token
+0xc652f98929bc6ca1d7521b8526957b6356d75adb,QANX Token ((QANX)),,Bridged Token
+0xe93d122b32f5e342976c269c65d72c43be20ed19,Yieldly ((YLDY)),,Bridged Token
+0x2018b41905c5287d9140e621fa2d60e2823deba9,RougeCoin (Wormhole) ((XRGE)),,Bridged Token
+0x84338421bed3d273b8a23f25a7f1db50f1d63ee5,Cross Chain Farming (Wormhole) ((CCF)),,Bridged Token
+0xe3de97dba5d6fa7527872849f1fdf22547b34457,COTI Token ((COTI)),,Bridged Token
+0x869c106c5efe104247777e2675dab511121388ab,Hena Chain (Wormhole) ((HENA)),,Bridged Token
+0xf578a2e6a455104d4acd297fb7069e1a3a6d4372,Wrapped BNB ((WBNB)),,Bridged Token
+0x42f4e22c167543a2950a3b473d4ac72073bcead5,,,Bridged Token
+0x6ec46762df5a746b8efdba560582530b6444ec24,CREDI [via ChainPort.io] ((CREDI)),,Bridged Token
+0xd879f0616b30cc44799935bc3fd806654ceffe05,GamerCoin ((GHX)),,Bridged Token
+0x831def3b716dfcb890eff5cece62c5b9739c3df4,Stader xSD (Wormhole) ((xSD)),,Bridged Token
+0xa6e822e865fbe37d6ebc6d721947afbbd9f95c19,anyLEDU,https://multichain.org/,Bridged Token
+0x0e1b539eaf71d5d025f8ce90ca2256b4cf3e94b1,Curve DAO Token ((anyCRV)),https://multichain.org/,Bridged Token
+0xe3082ad273121312e4e0cac28cecc4e3d3ffae39,JPEX Coin ((JPC)),,Bridged Token
+0x904830cdc0176a0bd157aa43a07cde6d083082e0,(Wormhole) (()),,Bridged Token
+0xe38093e9901fe6296b366f25828f3e5761779843,ELEPEPE,,Bridged Token
+0x0fc84058886ec5d9502916e13fda11e060819365,Artrade Token ((ATR)),,Bridged Token
+0x77c62e549ca46ef8dd5edc052b1edc783f60a400,any8PAY,https://multichain.org/,Bridged Token
+0x1f4e35d4380d91af30edca625c8d158019786299,(Wormhole) (()),,Bridged Token
+0x95a4654928e44d57b0b5d00c5d4e93892e2287ae,OmniCat ((OMNI)),,Bridged Token
+0x3d6c620d18c2c7f5d9de637fbead92d42050f26d,Wootrade Network ((WOO)),,Bridged Token
+0xfa4f4bdfbae0b7ae479ac3fbd20b67decea89a80,ChartEx ((CHART)),,Bridged Token
+0xd13eb71515dc48a8a367d12f844e5737bab415df,anyBUSD,https://multichain.org/,Bridged Token
+0x623332a33ae3a8fc9b121322c72550decc0ed81c,Poken ((anyPKN)),https://multichain.org/,Bridged Token
+0x3218fbed0287b3909d1e186ac95319127d6d4389,Share ((SHARE)),,Bridged Token
+0xbbc4a8d076f4b1888fec42581b6fc58d242cf2d5,Magic Internet Money ((anyMIM)),https://multichain.org/,Bridged Token
+0xaecfc8f943fc21e45ef91cbde3fd332f567f411a,Rubic ((BRBC)),,Bridged Token
+0xe156f89ae4898686d3ba27f5716b326c7034615f,SLETH ((SLETH)),,Bridged Token
+0xd2af5442bd47461b37726fd323d95e569973fe6d,Kanpeki ((anyKAE)),https://multichain.org/,Bridged Token
+0x69998aa87e17a1b22185d08e1f9b572f49759398,TRUMP’S HAT ((MAGA)),,Bridged Token
+0x5062f4e39386a64e360f3c10da99e0c00a42095b,VELO (Wormhole) ((VELO)),,Bridged Token
+0x6c23c1c16a14188735f653f3416747c7b314e83e,Clam Token ((CLAM)),,Bridged Token
+0xd5ebd23d5eb968c2efba2b03f27ee61718609a71,xSigma ((anySIG)),https://multichain.org/,Bridged Token
+0xd9b1a293fb12ff01e31029f9468281cfe9445ea2,Orbit Bridge BSC Ethereum ((oETH)),,Bridged Token
+0xf3a2a6c8e7cc346e1d230bb19fe5c3dbf7557fcd,Avalanche (Wormhole) ((AVAX)),,Bridged Token
+0xbf26a56700add40410444ab9eaaeed1eaee23dcc,ShibaVerse (Wormhole) ((Verse)),,Bridged Token
+0xd09e5e9b0fab4e86d992cc5bccf14eaea305763b,Wormhole:Minato (Wormhole) ((whMNTO)),,Bridged Token
+0x7112bb03d5044ae2068f97b3803930892f55f0b7,Formation Finance ((FORM)),,Bridged Token
+0x78d02bb10141e0b7a8cd78aafb35c78abffa88a3,LABEL ((LBL)),,Bridged Token
+0x884a4993b9b6a7e6abb94ff34e6399a802c97b84,Tribal Token ((TRIBL)),,Bridged Token
+0xe92072f48b006781bf6bf5456426bbb247cdfb54,KmonCoin ((KMON)),,Bridged Token
+0x418d75f65a02b3d53b2418fb8e1fe493759c7605,Wrapped BNB (Wormhole) ((WBNB)),https://wormholebridge.com/#/,Bridged Token
+0xa2e1cdbded1b0557e06639b5e3e61856d427d0d1,USD Coin ((USDC)),,Bridged Token
+0xcd546484b5357d4337de766321626495f28d70e6,VBONE ((VBONE)),,Bridged Token
+0x6116cc345f1df938b9c35f5367498a155932e873,Planets,,Bridged Token
+0xdc042d153cb1a4df4a783ca93a3b1984143b6466,Dogecoin ((DOGE)),,Bridged Token
+0x89fe7f84264013adbd20e31aa3d0b2cb7c938e33,Moonwell ETH.wh,,Bridged Token
+0xda4efed21502dcb8b0cb8fbfaeece76e5b6374b2,Fallen Angels (Wormhole) ((ANGELS)),,Bridged Token
+0x81f84f29e0f7ccfd86360e32ad33d2b6ced18f42,IO ((IO)),,Bridged Token
+0xf1b7980826cd89a99e45eb4236492fd42d463660,anyGMEE,https://multichain.org/,Bridged Token
+0x011fc0226097c2185ef6cf1eca2acf7acce7ad16,Chronicle [via ChainPort.io] (Wormhole) ((XNL)),,Bridged Token
+0xe6d6043d19e7479d1ffe76dddc7f68467234462b,4 ((FOUR)),,Bridged Token
+0x127b38228068f759738eb775ccc8a6648371c454,Null ((NULL)),,Bridged Token
+0x8d34a11f49172c057d11833cf92aff97f28fc595,Official Crypto Cowboy Token,https://multichain.org/,Bridged Token
+0xd8a5526b254aee82171714c84314daf1ead2e480,Ethereum Meta ((ETHM)),,Bridged Token
+0xa1f404d55761e884c6939ede85f6e01242c768e9,Cryptomeda ((TECH)),,Bridged Token
+0xa1061739696dfd736968b9351617d46255b9b311,Radio Caca V2 (Wormhole) ((RACA)),,Bridged Token
+0xdfca7bf95e581db8f51fe87017babb2a1af35920,Threshold Network Token ((T)),,Bridged Token
+0xcb6150818fd5dc7746ca2ea0652c784847fd6f7e,Quickswap (Wormhole) ((QUICK)),,Bridged Token
+0x238081fffb6b9d08e3496919190e678cdc575512,KTA (Wormhole) ((KTA)),,Bridged Token
+0xaf458348c43e864aecfacd54cf371ec3142a1d4d,IRON Stablecoin (Wormhole) ((IRON)),,Bridged Token
+0x690c347f6c9b8cb631cfb17cb4c6d0c0318b8c42,Avalanche Token ((AVAX)),,Bridged Token
+0x0bc86c59e70e205b30e5d7c63a351a5234d6939d,USDC ((USDC)),,Bridged Token
+0xf331b2c406fef2539e9b1150345575feb9f0323c,Betero ((anyBTE)),https://multichain.org/,Bridged Token
+0xa67d5cc68433895b17babf73dadf9a2da2fe59ff,Birds Token (Wormhole) ((BIRDS)),,Bridged Token
+0xa3b6fac8919c2c6aa756846d8bc0f0bedd19afb0,Arkham ((ARKM)),,Bridged Token
+0x9243b3615ed297403c0cafa156c3fa16057526ca,Osmosis (IBC) ((OSMO)),https://www.ibcprotocol.dev/,Bridged Token
+0x7306b6f1059611db89d582950e64291465f351fc,(Wormhole) (()),,Bridged Token
+0xd881a7f17ed2c71fd671afba3a9b30eb914aea5f,Dogecoin (Wormhole) ((DOGE)),,Bridged Token
+0x1ac1fb7ca22c7836ce7d553be992c318fe2477cd,NESGCOIN ((NESG)),,Bridged Token
+0xae7c1ee08495d08d5ee93d8ae6dfcff5bfa8114c,Soldex (Wormhole) ((SOLX)),,Bridged Token
+0x065c01ee221e5cfd303320d652f6c834c73c007e,GARNET TOKEN ((GRNT)),,Bridged Token
+0x274c17392b8b3e3c4eec5089e2093ba84534adb3,BSC Wrapped Jupiter (Wormhole) ((bwJUP)),,Bridged Token
+0x198275a3ff8d408219a0da26f8f3a2df368a9556,Aave Optimism USDC,,Bridged Token
+0x544b51d422840209c58e26685065a17ee5825038,Chess ((CHESS)),,Bridged Token
+0x0c929a0965116498c5b937ae625098dc0ae1de08,Lido DAO Token ((LDO)),,Bridged Token
+0x298cb70fcec56f12009e1c55d53fa87ca88f0ed5,GNY ((GNY)),,Bridged Token
+0xfa514925f762aa558e2c0dd7b3272c7956247e93,Pibble Token ((PIB)),,Bridged Token
+0xe8814e7e873758d9cb1bca79c805d9a62984b802,(Wormhole) (()),,Bridged Token
+0x85a2bc1922740dc5c32df70b21ecd43f0cfe51e1,Shadow Token ((SHDW)),,Bridged Token
+0x59eefbaf283977e7f4fd9c2fa6ac0fd5e43d0fa6,LUNA (Wormhole) ((LUNA)),,Bridged Token
+0x6dc1646bfa9b1c6d4348b3bff5badb73edba05f3,PARTYTIME,,Bridged Token
+0x5fcb9de282af6122ce3518cde28b7089c9f97b26,Staked Ice Tokens,https://multichain.org/,Bridged Token
+0xc8aabdd7ced21a14c4b115da75737c0dfd265016,GoBlank Token ((BLANK)),,Bridged Token
+0x8a9de45cef6a621196af32ee32ca4e4ede365e22,Ubeswap ((UBE)),,Bridged Token
+0xe15c3104570dda3e229880f59b10580ba1b20d54,Cap ((CAP)),,Bridged Token
+0xa08336a3074050147bc729050cc908d166df8f0f,Wrapped ROSE ((wROSE)),,Bridged Token
+0x414b145fc193aaae6160acc08616f1dc79d4fb71,iShares Gold Trust. (Wormhole) ((mIAU)),,Bridged Token
+0x84074ea631dec7a4edcd5303d164d5dea4c653d6,Sui ((SUI)),,Bridged Token
+0xe6d9c0acf30194e2a5ae9c1c8342ac49e98a4b0a,anyFUSE,https://multichain.org/,Bridged Token
+0xaa224d09718c61d7444c0ab623806743ce647d43,CoreDAO ((CORE)),,Bridged Token
+0x3218fbed0287b3909d1e186ac95319127d6d4389,Share ((SHARE)),,Bridged Token
+0x7bd5537094e9d5be5f3d5ce77b8089372bce800a,dego.finance (Wormhole) ((DEGO)),,Bridged Token
+0x72f4795b15b66e89cdcacb5c968c47adaa3e3adc,WAG ((WAG)),,Bridged Token
+0xa2d76883edc2c51d407a4e15f0deecb216a31f60,Orion Money Token [via ChainPort (Wormhole) ((ORION)),,Bridged Token
+0x7b15e1c4d14582ada88f29db35476c4f09b22310,LOOPRC Token ((LOOPRC)),,Bridged Token
+0xf5cd5f0fde493ae6e8b7adff18c6eb8683b5a05d,$REKT (($REKT)),,Bridged Token
+0x84c2268679de7f772daa8a1794adc93a5b5f571c,ZEDXION,,Bridged Token
+0x7fbaf6cb3b95671dea2a183d8306c840421a91e7,Moist Grannies ((MOIST)),https://moist.lol/,Bridged Token
+0x94d0930c63f61a84999256e83b2ef118f7f2db2c,Betswap.gg (Wormhole) ((BSGG)),,Bridged Token
+0x0f49095e5156efd53d31b9694aa5b84d791f08cc,RougeCoin ((XRGE)),,Bridged Token
+0x7a78c790250fef60ce7e8ef85557d67cc4216a52,Gluteus Maximus by Virtuals ((GLUTEU)),,Bridged Token
+0xc307230648df1d66b28bec0b35b2a588ff88f6f1,Polivity Inu ((POLI)),,Bridged Token
+0xab6b8392397e25f3c977c847dd8c0ddeff98ad62,AppleSwap.ai Token (AP) ((AP)),,Bridged Token
+0x6acb9ac319bafe509af9e96be642ead00526b9fa,Wild Goat Coin ((WGC)),,Bridged Token
+0xc6c2ec3759848492f83addffba9b9a307c905119,Giftedhands on BSC (Wormhole) ((GHD)),,Bridged Token
+0x05fd24d50075e659811d2408cb5516a64a1958fe,Mojito ((MOJO)),,Bridged Token
+0x57e62e7d20f173bf4a14fdefefcbece0d4573e87,ZORKSEES,,Bridged Token
+0xe5a939bbf46ba8d40c7890fc55c8ce9a37889cad,Lira (Wormhole) ((LIRA)),,Bridged Token
+0xd1d82d3ab815e0b47e38ec2d666c5b8aa05ae501,Wrapped Solana (IBC) ((SOL)),https://www.ibcprotocol.dev/,Bridged Token
+0x5c658a175a16d0b243901bf7575dd7775970988b,Tether USD ((xcUSDT)),,Bridged Token
+0xc58ce2cb820a5e618a824bfc51f406844510489f,TheRadio,,Bridged Token
+0xfcc349c14013edefaacae09ba30f4ef2571b8d2c,Bridged USDC ((USDC.e)),,Bridged Token
+0xd838ed849e846ef51dbc0297fab05ce50b692875,Ethereum from BSC from xDai from ((ETH)),,Bridged Token
+0x81760746793276e3c74ae0c630ff3e6032306d13,Meta ((MTA)),,Bridged Token
+0x65d016888b376301b77646153ee96ea269492088,Arbipad ((ARBI)),,Bridged Token
+0x9c1b507d70b90521be314e7316f7e84092020daa,IOI Token  via ChainPort.io (Wormhole) ((IOI)),,Bridged Token
+0xe3ab61371ecc88534c522922a026f2296116c109,DeFiner ((anyFIN)),https://multichain.org/,Bridged Token
+0xff47f9105ca9e583767904580815bee9b453ab66,Feisty Doge NFT ((NFD)),,Bridged Token
+0xaf4c5db9411fbc13593dc7650cbba6301d562472,Tidex Token (Wormhole) ((TDX)),,Bridged Token
+0x1727bb130300c03ef2a559f8fc97197d0669bab4,Argocoin ((AGC)),,Bridged Token
+0x6b730045343eba439c633c30053edfb90c75abee,OmniCat ((OMNI)),,Bridged Token
+0x7e92b2865331642109173c92534acb09541a75e1,SHIBA INU (Wormhole) ((SHIB.e)),,Bridged Token
+0xbdba76fa2659c33ffcc2b0bc134c3a2c8a3aa94d,UNIFARM Token,https://multichain.org/,Bridged Token
+0x0398dbe61460f27b1fed8df0985076aa49c96dc1,GAMEE ((GMEE)),,Bridged Token
+0x1e19377eb4bf3d1d460e51ae9667e10d7cd22b31,Fief Wood ((WOOD)),,Bridged Token
+0xb441f3a0102b0805e85d59701298ff92a20b23a9,Graph Token ((GRT)),,Bridged Token
+0xefcca6c3bae49bd23b3534b9744afb6e468d72f1,USD Coin (Celer) ((ceUSDC)),,Bridged Token
+0x3e613d7f3ceb1f27dd22a44f35343dd234c51262,SeilorToken ((SEILOR)),,Bridged Token
+0x9833c643f387ecfb76aa8114546ad524703c66fb,MetalSwap ((anyXMT)),https://multichain.org/,Bridged Token
+0x224b31349510b769a2d74ee99aafccf78d792399,Meta Coin (Wormhole) ((META)),,Bridged Token
+0x232e05b765404fe2d2222afc8ae7527ce9754f2e,OTSDLKNS,,Bridged Token
+0xa48d6a9b1c7c75393a3729ea056d3a5646551f95,Cogito Governance Token ((CGV)),,Bridged Token
+0xe6afa602a52a9b08f304d9766ce0d7de74e4c618,Luna Classic ((LUNC)),,Bridged Token
+0xbd31ea8212119f94a611fa969881cba3ea06fa3d,LUNA (Wormhole) ((LUNA)),https://wormholebridge.com/,Bridged Token
+0x04970ec4e3f43565f2d165fba1953cf7c6864fe9,British Pound ((GBP)),,Bridged Token
+0x8b92ea35171e29948cc9e49c52ac8db0549b7d6b,Baby Doge Coin,https://multichain.org/,Bridged Token
+0x77609d4f3ae31382389374101aca6108d95b093a,BetSwirl Token ((BETS)),https://multichain.xyz/,Bridged Token
+0x301de15579c37d1e1cc8b46d74324b885a77291b,YEL Token ((anyYEL)),https://multichain.org/,Bridged Token
+0xc504898a9348fb34b52e0f8b8404b5892543c4f7,ESG (Wormhole) ((ESG)),,Bridged Token
+0xf374915c8020081c558397331c3d6ff7371fdaab,XEN Crypto ((aXEN)),,Bridged Token
+0x2ec04464693e3d45d82a2d1fdb7d0e47a2fd657b,Wrapped MIR Token (Wormhole) ((MIR)),,Bridged Token
+0x2cf7d99c1bff7caa25b737c909637948e6e7781e,anyDOSE,https://multichain.org/,Bridged Token
+0x3b570015fbf353a7d1179579144e6bd9fb9c97de,Totem Token (Wormhole) ((TOTM)),,Bridged Token
+0x1d67e5faf946fa56b497ce153ab34d102daa65fc,Merlin ((MERLIN)),,Bridged Token
+0x063323e90144bc40a900f111c339a31f292d080f,(Wormhole) (()),,Bridged Token
+0xb6e08e60bc5c4404413439c82f66d567b8e53abf,Green Metaverse Token ((GMT)),,Bridged Token
+0x03d27f28d003c15b673ca0319baa612c105a8fcf,GenomesDAO (PoS) ((GENE)),,Bridged Token
+0xb69736bbdda19d6442904a051a0a66a62b878b3d,Curve.Fi USD Stablecoin ((crvUSD)),,Bridged Token
+0xb8930bd2dd53d449f83466705827f3dbf90ea7fc,anyCRE8R,https://multichain.org/,Bridged Token
+0xd9e762a3bc16f34befbdb0044c90b09861106fdc,testWETH (Wormhole) ((WETH)),,Bridged Token
+0x7ca99e48e064d68bb30435c92135de47cfcf4293,Curve DAO ((CRV)),,Bridged Token
+0xde5a28817f9287024aded8ac9434ddefc2651d07,Aptos Coin ((vAPT)),,Bridged Token
+0x11281e8785c8a82c41931a9e4073cdacdc08ca67,Blur ((BLUR)),,Bridged Token
+0x1c93a4faacbf5332fb590340af4ce67e3171471e,Seamless USDC ((sUSDC)),,Bridged Token
+0xfa4f4bdfbae0b7ae479ac3fbd20b67decea89a80,ChartEx ((CHART)),,Bridged Token
+0x3e7570058930728e03b798673ae2a43fdc209758,USD Coin ((USDC)),,Bridged Token
+0xe6335b4880ac92e3fa4dec502b01983afb3d8173,Poken (Wormhole) ((PKN)),,Bridged Token
+0x2018b41905c5287d9140e621fa2d60e2823deba9,RougeCoin (Wormhole) ((XRGE)),,Bridged Token
+0x43373ae537945085ee1001928e96204034bf55e6,USDC ((USDC)),,Bridged Token
+0xe9f58f3c9dfc6538f45687d686afc7b364ab91fa,Luna Terra V2 (Wormhole),,Bridged Token
+0x7df20dfe1b3491e59ce502ea86c1a7a09d36059e,Synthetix Network Token ((SNX)),,Bridged Token
+0x0398dbe61460f27b1fed8df0985076aa49c96dc1,GAMEE ((GMEE)),,Bridged Token
+0x3ccfdea1438bd590e74e0c2353b7dfefa8419ea5,Spell Token (Wormhole) ((SPELL)),,Bridged Token
+0x4324327b224687b778c23a2fda8c8cbca2a859d6,VBONE ((VBONE)),,Bridged Token
+0xefc9455685f3215c69d0ac91ec2bdd2a4f5b4f23,MooDeng,,Bridged Token
+0xdb12c7e30dc2a2c421724d07c7a09147bd9f61bb,anyXCUR,https://multichain.org/,Bridged Token
+0x7fe180b34aad1a4513bc9131e4c1df6c7f425945,Greatest Coin In The World,,Bridged Token
+0x887fe928645020db1ec4af4aa922c2327f96f90f,(Wormhole) (()),,Bridged Token
+0xad47b6ffee3ed15fce55eca42ace9736901b94a1,50OLAS-50WETH,,Bridged Token
+0xd2ec1cffe678f8db104ece63a2f1042c3e70d6a6,Serum Surfers DAO ((SSDAO)),,Bridged Token
+0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59,anyeXRD,https://multichain.org/,Bridged Token
+0x53bbe80f77ac24e5ea1b806d5e67ed1e3f4b37fe,(Wormhole) (()),,Bridged Token
+0x5e27b652623e9348ddd9bf73268c484cfcf02a3e,stkLYRA,,Bridged Token
+0x9d8a797fae0da6b59f7d835ed48b1b83b3f1eef8,ApeCoin (Wormhole) ((APE)),,Bridged Token
+0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73,anyDOPE,https://multichain.org/,Bridged Token
+0xd8cd2885fec2e3afedd0bef7ce15cb200563204c,Coin Swap ((SWAP)),,Bridged Token
+0xf5b64e96d81344e74e159ba90052f566c1efada6,Baby Luna by Virtuals,,Bridged Token
+0x05f2972cd67705e7f2dcbffd0daa3f939b61020b,RadioShack Token,https://multichain.org/,Bridged Token
+0x979b93081949b2f167ebdec15c988376f1aa4b6f,MetalSwap ((XMT)),,Bridged Token
+0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2,Blockchain Certified Data Token,https://multichain.org/,Bridged Token
+0x03b3d87d9f613c90d7e564a9c4d412da522ab5ab,Gods Unchained (Wormhole) ((GODS)),,Bridged Token
+0xc307230648df1d66b28bec0b35b2a588ff88f6f1,Polivity Inu ((POLI)),,Bridged Token
+0x9506250c1e020613e47e9998f98a32948a7c88ca,Boo Token ((BOO)),,Bridged Token
+0x224b31349510b769a2d74ee99aafccf78d792399,Meta Coin (Wormhole) ((META)),,Bridged Token
+0x38389eb214c4ac1cdda7a7582ab01e8a9bb548ba,Kripton ((anyLPK)),https://multichain.org/,Bridged Token
+0xe5130d3dbfac6ae7d73a24d719762df74d8e4c27,anyTFBX,https://multichain.org/,Bridged Token
+0x4c748b4bdbcbc832aea28314644c189627991c2d,TOWER ((TOWER)),,Bridged Token
+0xed1414a8552ff686f6af91aea3683bd74b1fc28e,Arcana Network ((XAR)),,Bridged Token
+0xa71353bb71dda105d383b02fc2dd172c4d39ef8b,Jarvis Synthetic Euro,https://multichain.org/,Bridged Token
+0x7fbaf6cb3b95671dea2a183d8306c840421a91e7,Moist Grannies ((MOIST)),https://moist.lol/,Bridged Token
+0xc58ce2cb820a5e618a824bfc51f406844510489f,TheRadio,,Bridged Token
+0x9c0b24d1394063cbd45ae1921d798314a95cb847,SpongeBob Square (Wormhole) ((SPONGS)),,Bridged Token
+0x985e83e395cac0bef335719dfddcc5a8a691cf55,terrausd,,Bridged Token
+0xf9de3209531ea7e0201ac49ae03bd20604b03362,Objects In Mirror May Be Closer ((ME)),,Bridged Token
+0x6c23c1c16a14188735f653f3416747c7b314e83e,Clam Token ((CLAM)),,Bridged Token
+0x247db9746755cf119d3ad68a6f8f60e7e650bfa1,Liquid Staking token (IBC) ((LST)),https://www.ibcprotocol.dev/,Bridged Token
+0x58c1bbb508e96cfec1787acf6afe1c7008a5b064,anyMYST,https://multichain.org/,Bridged Token
+0x3b7eacf9a3fd0157e1f0d14307dee321ef6d2c36,1INCH Token (Wormhole) ((1INCH)),,Bridged Token
+0x0615dbba33fe61a31c7ed131bda6655ed76748b1,Wrapped Ether ((anyETH)),https://multichain.org/,Bridged Token
+0x56e48408c15e8dca0a25349d8814c83737e493e8,OVR (Wormhole) ((OVR)),,Bridged Token
+0xb7af8bd0149d24447c3fb0f8597edbb2ee9759d4,Neutrino USD (Wormhole) ((USDN)),,Bridged Token
+0x2ca108bfda688dacaecc7550fd2c83341f0a745b,Axie Infinity Shard (Wormhole) ((AXS)),,Bridged Token
+0x2fe2fe80ee8a54380073ce668151bd615c3802c8,Severance,,Bridged Token
+0x3b654a81ed23d93459ca52714fef08393591fd81,Dai Token (Wormhole) ((DAI)),,Bridged Token
+0x3218fbed0287b3909d1e186ac95319127d6d4389,Share ((SHARE)),,Bridged Token
+0xd9e762a3bc16f34befbdb0044c90b09861106fdc,testWETH (Wormhole) ((WETH)),,Bridged Token
+0x5db20525034a06a847d5b381dd82a1440914c6f0,Aethir Token ((ATH)),,Bridged Token
+0x8494f42e6c9d3d70dd65ae2674174edf4ac7dc8d,Multichain ((MULTI)),,Bridged Token
+0xefb4642f3691d5dbcad38b120782ee4f965ecd77,Peng ((PENG)),,Bridged Token
+0xe6a7357ecf75a9b0b9910392356fabf590609edc,ERC-20 TOKEN*,,Bridged Token
+0x94582b8e2a21432b2568f7e60e5c3e1d5ab22436,,,Bridged Token
+0x77c62e549ca46ef8dd5edc052b1edc783f60a400,any8PAY,https://multichain.org/,Bridged Token
+0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6,USD Coin (Wormhole) ((USDC)),https://wormholebridge.com/#/,Bridged Token
+0x238081fffb6b9d08e3496919190e678cdc575512,KTA (Wormhole) ((KTA)),,Bridged Token
+0x3915c77dc839d97e875613a5b64179acc1da97df,anyALICE,https://multichain.org/,Bridged Token
+0xe6afa602a52a9b08f304d9766ce0d7de74e4c618,Luna Classic ((LUNC)),,Bridged Token
+0xf9f317834456c2422a3439fda96d021fc81626b0,Livepeer Token ((LPT)),,Bridged Token
+0x1024499bb4609f90403ced0e2ceec174df77cf64,bloXmove Token ((BLXM)),,Bridged Token
+0xa95b46b8f94fb0bdaaf0b5f6b90af538ad9dde65,Four Months CZ ((FOMO)),,Bridged Token
+0xe10b01c11f9f02254e2c5b267126010d02a76ca7,Bondly (Wormhole) ((BONDLY)),,Bridged Token
+0xbf26a56700add40410444ab9eaaeed1eaee23dcc,ShibaVerse (Wormhole) ((Verse)),,Bridged Token
+0x464d77a56ce1202ce3aa9b607adbb74d2d185c2c,🧀 ((🧀)),,Bridged Token
+0xf51c60cfc8c7ebf7ef4e5a59d4d885e7fef29aa8,LuckyBlock (Wormhole) ((LBlock)),,Bridged Token
+0x69998aa87e17a1b22185d08e1f9b572f49759398,TRUMP’S HAT ((MAGA)),,Bridged Token
+0x9e03da0fa99fbee665d41f91d52323a1062bdc3d,Curve DAO Token ((CRV)),,Bridged Token
+0xa4c5287b7145c3ec59cffa3a36855a8aecf1ace3,Taki ((TAKI)),,Bridged Token
+0x57e873d75f7f090e623b26a68d6d789ae193e1ba,Zoot Classic ((ZOOTC)),,Bridged Token
+0xa2b19e2b80771edd06e5f2bcb3b55aaad47bc77c,Trump Rally ((RALLY)),,Bridged Token
+0x7112bb03d5044ae2068f97b3803930892f55f0b7,Formation Finance ((FORM)),,Bridged Token
+0x8d8da40e586fea0d69dcf2be3c5fa21b6e453662,Zilliqa (Wormhole) ((ZIL)),,Bridged Token
+0xfdd75718a25e0d6bb576c5dc72068b4fde940db5,Fable of The Dragon ((TYRANT)),,Bridged Token
+0xe92072f48b006781bf6bf5456426bbb247cdfb54,KmonCoin ((KMON)),,Bridged Token
+0x92d387de422f644d395e26109a617091ebe51dc9,ProShares VIX Short-Term Futures (Wormhole) ((mVIXY)),,Bridged Token
+0xc2bc1222ab02f136fca3295e4dde48cd38c75321,Opulous ((OPUL)),,Bridged Token
+0xdfed31e640b7280f76f046a97179e5e369d209b5,anyPAWTH,https://multichain.org/,Bridged Token
+0x82d521ac2a7b8029ab2b4144717e30da0746f9bd,YuzuSwap LP Token ((LPT)),,Bridged Token
+0x4548f48fdbb0a9fc952c201b28671d9f58aa16d3,Kalmar Token ((KALM)),,Bridged Token
+0x6df10a0d87e7c8c81f00be6e51a1ad196ce25db5,Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0x23db2362cae5680c9a2e3986cc3edb403a8ef05c,USD Coin ((USDC)),,Bridged Token
+0x12d34c737853d05b416247dc5e4495c3c73508a1,COTI Token ((COTI)),,Bridged Token
+0x869c106c5efe104247777e2675dab511121388ab,Hena Chain (Wormhole) ((HENA)),,Bridged Token
+0x01da59c858d708fb0c368b6909a326cc9cad1fca,ShareToken ((SHR)),,Bridged Token
+0xbb3d3ee59002b7b9a0a276c269d60fbac3ea65f8,anyVERSE,https://multichain.org/,Bridged Token
+0x9fb9a33956351cf4fa040f65a13b835a3c8764e3,anyMULTI,https://multichain.org/,Bridged Token
+0xf8c6134e6bc5812490b9ea4c4e07845b77edb692,Wrapped Ether ((WETH)),,Bridged Token
+0x9aa9737190426e2ad8dfa1f72a84246fe2f7919d,USDC ((USDC)),,Bridged Token
+0x16e73af54d8554a8eef8914158e9ba8ff9ab464e,tGOLD ((TXAU)),,Bridged Token
+0x23d35b6fb0fd146650e6e40d44c211c5919ab395,Meta Apes Peel ((PEEL)),,Bridged Token
+0xbc8854c8664489f8fcff3e46abcce85d0ad362e4,(Wormhole) (()),,Bridged Token
+0x711072e43c0fdbd1b5f8fef1506f006681eefa55,Frapped USDT (Wormhole) ((fUSDT)),,Bridged Token
+0xfa1ec933f744962c07022ce427987919753ee238,lUSD ((lUSD)),,Bridged Token
+0x1acb93dba74010ad22e8d1308b604bcfd2a4fdc2,crow with knife ((CAW)),,Bridged Token
+0x6c8eb804e5f370aa516eb8887f05e78cb50e0494,,,Bridged Token
+0x851f679a5edfb16e7cf1ad157c6995b7e7f333f2,TrumpBucks,,Bridged Token
+0x21d9629fc0fa06574ddb12053143acefb65426a7,Space ID ((ID)),,Bridged Token
+0xab9306e37c6be8f86209f1034cfa937ce0d8cd37,0xBitcoin Token ((0xBTC)),,Bridged Token
+0xecbdc0f85545791c619ef847dd002fe116f9a681,Glo Dollar ((USDGLO)),,Bridged Token
+0x87923d592f8fe5516d34237fc0927759a7760a4f,TrueUSD (Wormhole) ((TUSD)),,Bridged Token
+0xd8acee38defede6b80eaf376936af1893a7865ed,TeddyDoge (Wormhole) ((TEDDY)),,Bridged Token
+0x79a375cd35ad07ba30c4e330d89a156fa9a05acf,Open Ecosystem Token(PoS) ((OPN)),,Bridged Token
+0x300e01eff40bde9961519f9b509b062ddb80a0be,Flashstake ((FLASH)),,Bridged Token
+0xed1414a8552ff686f6af91aea3683bd74b1fc28e,Arcana Network ((XAR)),,Bridged Token
+0xc3422d70bffcf43ba9fc566d958ada92c64065bf,Aave Token (Wormhole) ((AAVE.e)),,Bridged Token
+0xa1f404d55761e884c6939ede85f6e01242c768e9,Cryptomeda ((TECH)),,Bridged Token
+0x6f6ce1c00909f2c511b67b83db4f0c582e2b936a,MCHCoin (PoS) ((MCHC)),,Bridged Token
+0xfc1b550a53fc5765942234b8e4ae88c4693182e7,Connect Financial ((CNFI)),,Bridged Token
+0x3f1ee2f15da3eaf3539006b651144ec87755876d,Brett ((BRETT)),,Bridged Token
+0x198275a3ff8d408219a0da26f8f3a2df368a9556,Aave Optimism USDC,,Bridged Token
+0xb6e08e60bc5c4404413439c82f66d567b8e53abf,Green Metaverse Token ((GMT)),,Bridged Token
+0xbd31ea8212119f94a611fa969881cba3ea06fa3d,LUNA (Wormhole) ((LUNA)),https://wormholebridge.com/,Bridged Token
+0xbea3946498408a3236a462b24154a0b2ce81edc3,Goons of Balatroon ((GOB)),,Bridged Token
+0xdc042d153cb1a4df4a783ca93a3b1984143b6466,Dogecoin ((DOGE)),,Bridged Token
+0x5d47baba0d66083c52009271faf3f50dcc01023c,Ledgity ((anyLTY)),https://multichain.org/,Bridged Token
+0x79827c83feaa0d9fb0d219001dbed5bd6dabdaad,Imported GBYTE ((GBYTE)),,Bridged Token
+0x1fac93cb9aa92f810548de10d1b9277b4d4376d4,Silly Dragon ((SILLY)),,Bridged Token
+0xd4c53b36e6b786ff19dbc27de959fefd00e6c959,Wormhole Bridge PPO,,Bridged Token
+0xa232fb57369a34cf3713c265f6b7897ea33b6d92,Zombie Inu (Wormhole) ((ZINU)),,Bridged Token
+0xdb12c7e30dc2a2c421724d07c7a09147bd9f61bb,anyXCUR,https://multichain.org/,Bridged Token
+0x9d8a797fae0da6b59f7d835ed48b1b83b3f1eef8,ApeCoin (Wormhole) ((APE)),,Bridged Token
+0xc63f5f8566fb58626adaa7e6f52a4ce16bf5d973,CelerToken ((CELR)),,Bridged Token
+0xd75589d2e527deb20951b08d3ac4dd652e5fe277,KING SUGAR GLIDER ((KSG)),,Bridged Token
+0xa7df4a42eac0670cc6cef002522dc69af3b145b1,Wrapped BTC ((WBTC)),,Bridged Token
+0x47736ccbab8117d09540e4e56db4089a328ff7a1,anyDEXT,https://multichain.org/,Bridged Token
+0xe9fc2e28684c28b2bbddbad1710b6519e738fbe9,dotmoovs (Wormhole) ((MOOV)),,Bridged Token
+0xc822608a3c9ace7d5eefa81ee6a9704b32e23e4e,Wrapped Ether (Wormhole) ((WETH)),,Bridged Token
+0x4548f48fdbb0a9fc952c201b28671d9f58aa16d3,Kalmar Token ((KALM)),,Bridged Token
+0x05f2972cd67705e7f2dcbffd0daa3f939b61020b,RadioShack Token,https://multichain.org/,Bridged Token
+0x33edbd114a9d46e78f4827a709c5c93d25cb6a7a,Moss Carbon Credit (PoS) (Wormhole) ((MCO2)),,Bridged Token
+0xed5baf79d439875dcf6e14382f51fa0542ba3866,Not Security ((NOTSEC)),,Bridged Token
+0xaa2fc5e52bd2765d7c9bbc4730498f431ec775e5,(Wormhole) (()),,Bridged Token
+0x7beb05cf5681f402e762f8569c2fc138a2172978,Kyber Network Crystal v2 ((anyKNC)),https://multichain.org/,Bridged Token
+0x7ea2be2df7ba6e54b1a9c70676f668455e329d29,anyUSDC,https://multichain.org/,Bridged Token
+0xaf6229791ca19006628637b572e9f64dbbf84fcd,Oly Sport (Wormhole) ((OLY)),,Bridged Token
+0xb99f7707e800f0a5024484adb77af858949f78e8,STASIS EURS Token (PoS) (Wormhole) ((EURS)),,Bridged Token
+0xb945e3f853b5f8033c8513cf3ce9f8ad9bebb1c9,Wrapped Ether ((WETH)),,Bridged Token
+0x9af043ac2ccb6a3b03315fe20934b05b87ce8523,ShibApe (Wormhole) ((SAPE)),,Bridged Token
+0x6fefd97f328342a8a840546a55fdcfee7542f9a8,Asian Fintech,https://multichain.org/,Bridged Token
+0xd15d88b106f325a8734ce339b204e9caf4832f61,__proto__,,Bridged Token
+0x5c658a175a16d0b243901bf7575dd7775970988b,Tether USD ((xcUSDT)),,Bridged Token
+0x07642c77d8a453cfbc1121f0c16ab00896d8d494,Tether USD ((USD₮)),,Bridged Token
+0x16aba2d28329620f31d44748ec82fa08daa50b86,Radio Caca V2,https://multichain.org/,Bridged Token
+0x962de5a0f597d23e3c5dcf5b4ebbd0419cd2fff1,pub.finance (Wormhole) ((PINT)),,Bridged Token
+0x1634207753c142e9ed91d7324b691aa8f131858c,t6bnb ((t6bnb)),,Bridged Token
+0xf9aeb8cda1fdddcfd8261fe3f8eac46ca3139259,USD Coin ((USDC)),,Bridged Token
+0xab5a7b88a0a76dbecb5633dd5adc4529acf95b47,GURU Token ((GURU)),,Bridged Token
+0xacb515257293448c0dea7f71aa53301a5f88d252,Axelar Wrapped UST ((UST)),,Bridged Token
+0xa4d597f4e7c4fde8c5959b8c091e8964c972fb23,Kambria Token ((KAT)),,Bridged Token
+0xcd696c4efbbb2e1c6cd510aaa381715e00682149,Dogelon (Wormhole) ((11ELON)),,Bridged Token
+0x85f138bfee4ef8e540890cfb48f620571d67eda3,Wrapped AVAX (Wormhole) ((WAVAX)),https://wormholebridge.com/#/,Bridged Token
+0xda4efed21502dcb8b0cb8fbfaeece76e5b6374b2,Fallen Angels (Wormhole) ((ANGELS)),,Bridged Token
+0xeeae5c7cb463bd00b0a27810e0a61a89c96ddef6,Adam ((ADAM)),,Bridged Token
+0xd8cd2885fec2e3afedd0bef7ce15cb200563204c,Coin Swap ((SWAP)),,Bridged Token
+0x8494f42e6c9d3d70dd65ae2674174edf4ac7dc8d,Multichain ((MULTI)),,Bridged Token
+0x1ada618c8aaf73afe3806e440660c9fed0231747,Chainport.io-Peg XCAD Token ((XCAD)),,Bridged Token
+0x19f36bbb75cfb2969486d46a95e37c74a90c7cbb,DigiMetaverse,https://multichain.org/,Bridged Token
+0x9cd5b561fe812a2557097e96d2b4a357c555626d,ARNI TOKEN ((ARNI)),,Bridged Token
+0x776b3df6c701a5e3a424e290241d61fa88efa05c,(Wormhole) (()),,Bridged Token
+0xe84cea9df2d6a6010c0bd74b803f6372534e75e9,Blocksport Token,https://multichain.org/,Bridged Token
+0xc04d092b2f53d0e7d1540e01add9f3db1b01089d,Wing Token ((WING)),,Bridged Token
+0x53d3f6f0003492af0788af105b47c7a586894550,Indexed ((NDX)),,Bridged Token
+0x25c2d3437eaaa5f517102ee73c6ff17d3664b906,New Order (Wormhole) ((NEWO)),,Bridged Token
+0x11099821b900ff7d3a0dbeecdae4e90aee2eeadf,Network Spirituality Agency ((NSA)),,Bridged Token
+0x6f187ec2552c75f12d422ada4b9aa929e693c63c,YAKU ((YAKU)),,Bridged Token
+0xf743523bc4190ba3877f02da05b755ac33cfd42d,Banana Index (Wormhole) ((Bandex)),,Bridged Token
+0x1b7da363c09fa9f97c7b2409da9f342bd1882c14,Thala Token ((THL)),,Bridged Token
+0x9833c643f387ecfb76aa8114546ad524703c66fb,MetalSwap ((anyXMT)),https://multichain.org/,Bridged Token
+0xd9b1a146f0bcb87203122394b91a704ff366b154,Minato (Wormhole) ((MNTO)),,Bridged Token
+0xae63ce73855ac83e6612bb5e88acf27aae660452,Melos Studio ((MELOS)),,Bridged Token
+0xce9b0d03dd2b6ce78a0b95feb2386d632030792e,LUNC (Wormhole) ((LUNC)),,Bridged Token
+0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b,anyHGET,https://multichain.org/,Bridged Token
+0x242c1a66c1461f391eb6614312152a3830b1a35f,Tradfi bro ((CFA)),,Bridged Token
+0x171e907cbb6fc1eb59f2d3e807412c0278a463b6,Flux ((FLUX)),,Bridged Token
+0x51e01d800f473593d86d835f148cc1c262ee4670,Cratos BEP20 ((CRTS)),,Bridged Token
+0x7fc5670b2041d34414b0b2178fc660b1e1faf801,EmiSwap - EmiDao Token ((anyESW)),https://multichain.org/,Bridged Token
+0xdbcf06959eb63e7a013444a3a82cd1ab7a7822eb,Telcoin (PoS) ((TEL)),,Bridged Token
+0x4b413f844b2a66eaa3bb756d6173e09f523376da,ANY Ethereum (Wormhole) ((anyETH)),,Bridged Token
+0xab11fc1b324b44fefb9e231c064395827c0ac7f5,(Wormhole) (()),,Bridged Token
+0x6b26780e74cfc64b88c9e1ebc33ffae29c1679ea,GeoDB Coin ((anyGEO)),https://multichain.org/,Bridged Token
+0x4381dbae93af95fc9cb3daf7c6bdcd92c4fd7fd3,Solana (Wormhole) ((SOL)),,Bridged Token
+0x3b570015fbf353a7d1179579144e6bd9fb9c97de,Totem Token (Wormhole) ((TOTM)),,Bridged Token
+0xdcfa8c46ec015d4bf13d6be492cb7a8eb4580899,impactMarket (Wormhole) ((PACT)),,Bridged Token
+0x3ced39d87a7c6ee822f92e5010c490dc0da0a8a1,Cheezburger ((CHZ)),,Bridged Token
+0x2ba1726ca459a81541cd1b0d1d60943af1175f5d,Aave (PoS) ((AAVE)),,Bridged Token
+0x2eaa12c0c76ea8192d82b63f8dbbb7ec2a270295,Totem Earth Systems,https://multichain.org/,Bridged Token
+0xa2b19e2b80771edd06e5f2bcb3b55aaad47bc77c,Trump Rally ((RALLY)),,Bridged Token
+0x6dc1646bfa9b1c6d4348b3bff5badb73edba05f3,PARTYTIME,,Bridged Token
+0x582814738422459483d576e0b4072ca51d0b0dca,Matic Token (Wormhole) ((MATIC)),,Bridged Token
+0xe6dfea1568230b7ac29000192c78c5267054d726,VAIOT Token ((VAI)),,Bridged Token
+0xd8066daafafcfc8e547e1124f3d2914c4321a88d,DappRadar ((RADAR)),,Bridged Token
+0x1e80ab46b0504f5a5a9e437e2d0c63279e00375d,ChiefHopper,,Bridged Token
+0x23ada3106391162f11d34d99dc5df0336008cce3,Bitcoin (Wormhole) ((BTC)),,Bridged Token
+0x95555e4e4cb2c094914af53598eff14b9340881f,Wootrade Network ((anyWOO)),https://multichain.org/,Bridged Token
+0x4dff0dcef4744dbad65764ab0da2a9b5976483b0,Bitcoin (Wormhole) ((BTC)),,Bridged Token
+0xa08336a3074050147bc729050cc908d166df8f0f,Wrapped ROSE ((wROSE)),,Bridged Token
+0x02a2b736f9150d36c0919f3acee8ba2a92fbbb40,Mass Vehicle Ledger Token ((anyMVL)),https://multichain.org/,Bridged Token
+0x23db2362cae5680c9a2e3986cc3edb403a8ef05c,USD Coin ((USDC)),,Bridged Token
+0x13c3117c8f4780a0d3a423248012a905869e3a77,Dola USD Stablecoin ((DOLA)),,Bridged Token
+0xaacf3c834396f2d9a18be2b3c2cd35af6ae1d415,SushiToken (Wormhole) ((SUSHI)),,Bridged Token
+0x831def3b716dfcb890eff5cece62c5b9739c3df4,Stader xSD (Wormhole) ((xSD)),,Bridged Token
+0xdd0ed14c96221bcf83ce244a8d9f26e65e694e0c,Milkyswap.io ((MKS)),,Bridged Token
+0x36de7c29b18e009ef73500bebf48e8b5ae7960ea,SushiToken (PoS) (Wormhole) ((SUSHI)),,Bridged Token
+0xac86ad6a4dc773c7f98a89712cf2989b67fdba45,USD Coin (Wormhole) ((USDC.e)),,Bridged Token
+0xc73c31696af85b244bfc83b2be268c9b1fab6b72,Buck ((BUCK)),,Bridged Token
+0xd881a7f17ed2c71fd671afba3a9b30eb914aea5f,Dogecoin (Wormhole) ((DOGE)),,Bridged Token
+0x1608278e54fb9e070cb109234d111ff3a359612b,Wrapped Metrix,https://multichain.org/,Bridged Token
+0x572cffe39f723b17286556f002bf4ea0aae52d54,Stellar ((XLM)),,Bridged Token
+0xebbfdba17b78e6d2be6a7610a2d8d85112ce0e77,Wrapped eETH ((weETH)),,Bridged Token
+0x5af77ab71927a99708f5a383a25a4eb756e40787,,,Bridged Token
+0x80c8ac205a89d5e8190ec20d557e8d4a76b25245,Bitcoin (Wormhole) from Mainnet ((BTC)),,Bridged Token
+0xe88a1537e75ec9100d04c6092fdb37319768704a,sheeshin’ on solana ((SHEESH)),,Bridged Token
+0x3b654a81ed23d93459ca52714fef08393591fd81,Dai Token (Wormhole) ((DAI)),,Bridged Token
+0xca66bbdddd58d67ab504b6d8028491128ae28eca,(PoS) Decentraland MANA (Wormhole) ((MANA)),,Bridged Token
+0xe7b3c873b0aacf8594322a87f0bbd2b3c07b31d3,uluna ((LUNA)),,Bridged Token
+0x187175c7a526f48c905202bd2bf8d25a457f479f,Wrapped liquid staked Ether 2.0 ((wstETH)),,Bridged Token
+0x43fefc8076371a7134395dbba03ddbee8e0d2c8e,Niobium Coin ((NBC)),,Bridged Token
+0xc3422d70bffcf43ba9fc566d958ada92c64065bf,Aave Token (Wormhole) ((AAVE.e)),,Bridged Token
+0xa8e71d64e6a34539f66265df6e7f3b082c4c2833,Super Trump ((STRUMP)),,Bridged Token
+0xa46debe92a383efe4ca0e6a4b34239a01886f159,AGAC ((AGAC)),,Bridged Token
+0x0e5741189865268088723b4f4d0dd9212199c6f4,xcDOT ((xcDOT)),,Bridged Token
+0x62315b7595c3354d82ebbaf8c3772be208f7c7bd,TrustSwap Token (PoS) ((SWAP)),,Bridged Token
+0x250d0de60cfe079a19c6b1a03b44054f8747e372,Binance Coin (Wormhole) (Wormhole) ((BNB)),,Bridged Token
+0xf8c6134e6bc5812490b9ea4c4e07845b77edb692,Wrapped Ether ((WETH)),,Bridged Token
+0x2fd007a534eb7527b535a1df35aba6bd2a8b660f,50WETH-50OLAS,,Bridged Token
+0xa320bdcb12484c8fbd7378c45784c806df736c28,XEN Crypto ((mXEN)),,Bridged Token
+0x4548f48fdbb0a9fc952c201b28671d9f58aa16d3,Kalmar Token ((KALM)),,Bridged Token
+0x7b15e1c4d14582ada88f29db35476c4f09b22310,LOOPRC Token ((LOOPRC)),,Bridged Token
+0xd5ac5fee49c016f66fcdb5767326fe0305215978,,,Bridged Token
+0x015cea338ce68bd912b3c704620c6000ee9f4ab9,PANCAKE GAMES,https://multichain.org/,Bridged Token
+0x2eaa12c0c76ea8192d82b63f8dbbb7ec2a270295,Totem Earth Systems,https://multichain.org/,Bridged Token
+0x200afb95a74316db185001ee05bd1b853bc06602,DAO Maker ((DAO)),,Bridged Token
+0x6e81e33c3ba2c3557318a63b3a395a393dee8d35,Ixs Token ((IXS)),,Bridged Token
+0xf91e605af079384cc7077b3914a4a36019a89ee8,SEI ((SEI)),,Bridged Token
+0x6ebbdba6cf39ebfa1b1ac98244b32f3b735c9102,Wrapped ETHO (Wormhole) ((ETHO)),,Bridged Token
+0x659d1792c0ad0a684ef96b6a4b9dbd0d4fb4024f,USD Coin ((USDC)),,Bridged Token
+0x77f92e2adcb4265c9535b05908d9b343a65f2691,FINNGRAM TOKEN (Wormhole) ((FINN)),,Bridged Token
+0x94f6bba3505afc3fc2f43020f0c164ca7c72799c,Decentraland (Wormhole) ((MANA)),,Bridged Token
+0xaa1c34e070efd4991c31e5c641c3f33796df3f57,Wrapped LUNA Token (Wormhole) ((LUNA)),,Bridged Token
+0x90f615bb7b2def7bd14c507f90ff42b6acacf86e,anyBIOS,https://multichain.org/,Bridged Token
+0x2f006da2c4da52cbc491d341a956d3f493a1c6f6,Wrapped Ether ((WETH)),,Bridged Token
+0x1d4241f7370253c0f12efc536b7e16e462fb3526,Wrapped Ether ((WETH)),,Bridged Token
+0xbe90556468e5ee2a15da99a5c0e045ed0b142143,Jito Staked SOL (IBC),https://www.ibcprotocol.dev/,Bridged Token
+0x84cce75d790b951e1cc86279f5a9f97909f0f109,PolkaBridge ((PBR)),,Bridged Token
+0xb69fcede52b3fe27230ea59d3ec7e26e84b005d7,Tokoin (Wormhole) ((TOKO)),,Bridged Token
+0x16e73af54d8554a8eef8914158e9ba8ff9ab464e,tGOLD ((TXAU)),,Bridged Token
+0x706ee6ff25740c75959321c745c4c51f60bc7a8b,(PoS) Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0x7398b4b6f55205741a8859633025dedea325b237,,,Bridged Token
+0x83de7f7596856d51081ff4d007205174a3399dde,Boomer Duck ((BDUCK)),,Bridged Token
+0xd134feff35750e00da014572babb46e4659ad87a,The Doge NFT ((DOG)),,Bridged Token
+0xc2bc1222ab02f136fca3295e4dde48cd38c75321,Opulous ((OPUL)),,Bridged Token
+0x6a02232eb189db3879b34bc984265816a6d8d313,Wrapped Ether ((WETH)),,Bridged Token
+0x1b7da363c09fa9f97c7b2409da9f342bd1882c14,Thala Token ((THL)),,Bridged Token
+0xae6dea511974a644c5a44480daa050714c971539,EUROe Stablecoin ((EUROe)),,Bridged Token
+0xe6afa602a52a9b08f304d9766ce0d7de74e4c618,Luna Classic ((LUNC)),,Bridged Token
+0x6fefd97f328342a8a840546a55fdcfee7542f9a8,Asian Fintech,https://multichain.org/,Bridged Token
+0x232e05b765404fe2d2222afc8ae7527ce9754f2e,OTSDLKNS,,Bridged Token
+0x9c0b24d1394063cbd45ae1921d798314a95cb847,SpongeBob Square (Wormhole) ((SPONGS)),,Bridged Token
+0xf950940d8dbe919c27cfc3f4557e03e72775989c,Bitcoin (Wormhole) ((mBTC)),,Bridged Token
+0x0af5fa935023c3d875b1ec056e8da44b9c0323a4,Wrapped SXP (Sollet) (Wormhole) ((SXP)),,Bridged Token
+0xdef43530f2b4d347c91942162fb1205dbc2d8543,Fetch ((FET)),,Bridged Token
+0xe80d3dcff2beb357a805c25777509e1c752f0b37,WERX Token ((WERX)),,Bridged Token
+0x513e213e442c297e557c46a648fa387da0fd4f5b,BonzAI DePIN ((BONZAI)),,Bridged Token
+0x441ec6748c51c19c93ce14439714b5401d6c3ded,$PTRUMP,,Bridged Token
+0x8d8da40e586fea0d69dcf2be3c5fa21b6e453662,Zilliqa (Wormhole) ((ZIL)),,Bridged Token
+0x343468c8fb1a558aa5764fa5395b3f16aab551c3,SmarDex Token ((SDEX)),,Bridged Token
+0x83949e5c229b7af9461286bb8f662e8c602d5506,El Cholo Cat ((CHOLO)),,Bridged Token
+0x1e930c26b8457bfae3bb7fb2187cbba33f503314,UniBright ((UBT)),,Bridged Token
+0x34324e1598bf02ccd3dea93f4e332b5507097473,anyKALLY,https://multichain.org/,Bridged Token
+0x9024b09c1c6d33221f6aea9571821a2062b88eef,(PoS) Tether USD (Wormhole) ((USDT)),,Bridged Token
+0x95c379d4b29adaec40d6c1a24414e1affc097a85,Uranus Omnichain ((URANUS)),,Bridged Token
+0x12d34c737853d05b416247dc5e4495c3c73508a1,COTI Token ((COTI)),,Bridged Token
+0xd15d88b106f325a8734ce339b204e9caf4832f61,__proto__,,Bridged Token
+0x7fc5670b2041d34414b0b2178fc660b1e1faf801,EmiSwap - EmiDao Token ((anyESW)),https://multichain.org/,Bridged Token
+0xbc8854c8664489f8fcff3e46abcce85d0ad362e4,(Wormhole) (()),,Bridged Token
+0x41ae26d8a2bd34636d5dab3728a1ebc84b8292af,Bogus ((BOGUS)),,Bridged Token
+0x0bc86c59e70e205b30e5d7c63a351a5234d6939d,USDC ((USDC)),,Bridged Token
+0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d,bitcoinplatinums ((anyBCP)),https://multichain.org/,Bridged Token
+0xf7428ffcb2581a2804998efbb036a43255c8a8d3,anyXIDO,https://multichain.org/,Bridged Token
+0x5cb4b462ca075558ef0343db6b55f590e47482e4,anyROOBEE,https://multichain.org/,Bridged Token
+0x7845167b54253269624dba0ca5fee87933107b34,Cosmos Token (Wormhole) ((ATOM)),,Bridged Token
+0xd402e85dd92553edf0c299ef9d38f20aa27190b1,Altava ((TAVA)),,Bridged Token
+0xc606bd6d2ffc450feffd6009f39515940d06b9e9,Bonded ATOM (Wormhole) ((bATOM)),,Bridged Token
+0xa4fffc757e8c4f24e7b209c033c123d20983ad40,anySCLP,https://multichain.org/,Bridged Token
+0x2a790b85decd17202feb3e4167b2832318e7536c,Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0x8687a10bca6f139b25eb31020fcabb5782214764,Jupiter ((JUP)),,Bridged Token
+0x8c72a4180b52b325cd26aa2f36b22afc81aa1c7e,Milk ((MLK)),,Bridged Token
+0x906310ce867c22c5016248bd791fa5dd162c9d6d,Wrapped liquid staked Ether 2.0 ((wstETH)),,Bridged Token
+0x903fc457b6e3ae6169b913ce01f19095ffd1a716,Xraders ((XRT)),,Bridged Token
+0x4f60a160d8c2dddaafe16fcc57566db84d674bd6,anyFRAX,https://multichain.org/,Bridged Token
+0xa4201960252ee89cbf580d40e8749b0eba546adf,Thorstarter Token (Wormhole) ((XRUNE)),,Bridged Token
+0x8d7b6caaabf0f5cc2f505db85ac50c1eff7117d1,Fuse Token ((FUSE)),,Bridged Token
+0x32e9075a7abab9cfd97025aec3b99fc1ca0cadbd,Bobo the Bear ((BOBO)),,Bridged Token
+0x74244e5f231df79484c139ae88b95fee0e504490,Ethereum ((ETH)),,Bridged Token
+0x53bbe80f77ac24e5ea1b806d5e67ed1e3f4b37fe,(Wormhole) (()),,Bridged Token
+0xd85a87edbe9fb3baf6a1bbd1e46f1c04b291331d,Wrapped Ether (Wormhole) ((WETH.e)),,Bridged Token
+0xf374915c8020081c558397331c3d6ff7371fdaab,XEN Crypto ((aXEN)),,Bridged Token
+0x5015b76461fe62a90cc041ba9d79671a9b419f1b,Ethereum Token (Wormhole) ((ETH)),,Bridged Token
+0x02dfa26d853f1b3f219bf72384120cb51f302d2a,Portal Sol ((PORTAL)),,Bridged Token
+0x1c9283595981223f3369a78290093541fe88ee6d,ButtCoin ((Butts)),,Bridged Token
+0xe31cfcd36fed044ae4cf9405b577fe875762194f,ALGO ((ALGO)),,Bridged Token
+0xab931dcf42d22981c412206f541508eff5f47aa1,AxonDAO Governance Token ((AXGT)),,Bridged Token
+0x87923d592f8fe5516d34237fc0927759a7760a4f,TrueUSD (Wormhole) ((TUSD)),,Bridged Token
+0x6a8b433d2c5d97f1f7e6bd457acb7dc2ea5f8591,Fief (Wormhole) ((FIEF)),,Bridged Token
+0x593812510d4063cef4d9db228f8b1ae452d7ac52,Greg ((Greg)),,Bridged Token
+0x5b4d1c76e300b6f36f289a58e1646acc11b651bb,WORLD CUP INU ((WCI)),,Bridged Token
+0x08a7180af3d7552ab14ce689f9196d273e747843,Media Network (Wormhole) ((MEDIA)),,Bridged Token
+0x875794bd31d9b8bee4606aec81d4bf58f4567215,Mysticland Coin ((MYTH)),,Bridged Token
+0x3f0cc41de057458591e1c753f5bc162c982cbd00,Dai Stablecoin (Wormhole) ((DAI)),,Bridged Token
+0x9f47f313acfd4bdc52f4373b493eae7d5ac5b765,anyNFTY,https://multichain.org/,Bridged Token
+0xdc042d153cb1a4df4a783ca93a3b1984143b6466,Dogecoin ((DOGE)),,Bridged Token
+0x05f2972cd67705e7f2dcbffd0daa3f939b61020b,RadioShack Token,https://multichain.org/,Bridged Token
+0x23f2a8264a2b517bdbade0f412bf1e50e0e0e730,agEUR ((agEUR)),,Bridged Token
+0x0e972c1c6ae2e15efac516c67629ad110781facc,NinjaFloki_Dividen_Tracker (Wormhole),,Bridged Token
+0xfc370c56f429da8e51db1febcd36015161f97d2a,Merlin ((MERLIN)),,Bridged Token
+0xd31a59c85ae9d8edefec411d448f90841571b89c,Wrapped SOL (Wormhole) ((SOL)),https://wormholebridge.com/#/,Bridged Token
+0xab931dcf42d22981c412206f541508eff5f47aa1,AxonDAO Governance Token ((AXGT)),,Bridged Token
+0xafc57f1e8f1ba7903389c4cc252e8bd5ab466630,FWT (Wormhole) ((FWT)),,Bridged Token
+0x8d34a11f49172c057d11833cf92aff97f28fc595,Official Crypto Cowboy Token,https://multichain.org/,Bridged Token
+0x4381dbae93af95fc9cb3daf7c6bdcd92c4fd7fd3,Solana (Wormhole) ((SOL)),,Bridged Token
+0x513e213e442c297e557c46a648fa387da0fd4f5b,BonzAI DePIN ((BONZAI)),,Bridged Token
+0x922d641a426dcffaef11680e5358f34d97d112e1,anyHYVE,https://multichain.org/,Bridged Token
+0x4324327b224687b778c23a2fda8c8cbca2a859d6,VBONE ((VBONE)),,Bridged Token
+0x0f858205b866369059aeb76b8ab14c79a81a6252,BRZ Token ((BRZ)),,Bridged Token
+0xa097c96acc9587d140ad8aeaac13d9db2c6cc07f,anyODDZ,https://multichain.org/,Bridged Token
+0x343468c8fb1a558aa5764fa5395b3f16aab551c3,SmarDex Token ((SDEX)),,Bridged Token
+0x9eba16f6b7e8848e440922861123f0bee957002a,Strudel Finance,https://multichain.org/,Bridged Token
+0x95555e4e4cb2c094914af53598eff14b9340881f,Wootrade Network ((anyWOO)),https://multichain.org/,Bridged Token
+0xf15d959fcd2b930dd3c5aa770d8add015d025b8d,aleph.im v2 (Wormhole) ((ALEPH)),,Bridged Token
+0xbfe6c07842f8788c681ee2b37ee588de1779fda1,SuperFarm (PoS) (Wormhole) ((SUPER)),,Bridged Token
+0xb869f435c80f62f446bf5ca3dcc9d958be35cf64,Wootrade Network ((WOO)),,Bridged Token
+0x43985d6111c56ef31c2d94cfa555ce527ea7e29e,CelerToken (Wormhole) ((CELR)),,Bridged Token
+0x6570326ff064a80281c53d7cb56d69074a7e1cd0,FTX Token (Portalbridge) ((FTT)),,Bridged Token
+0x7147f24d205202d79095767551fbbd8c8ea5c7e4,Wrapped Ether ((WETH)),,Bridged Token
+0x0bd19f6447cd676255c7c7b00428462b3da67e3a,anyTUSD,https://multichain.org/,Bridged Token
+0x0a0496d6f614b85bf727232a5ef78e07bb7ec402,HSBAFucked ((HSBAF)),,Bridged Token
+0xc63f5f8566fb58626adaa7e6f52a4ce16bf5d973,CelerToken ((CELR)),,Bridged Token
+0x39ebf69137d98fb7659ef8d4ea21ec26394389d7,USD Coin (Wormhole) ((USDC)),,Bridged Token
+0xdf200ee0c427e7ed5b7a8820a97bf50d2a443ba8,Starbucks Corporation (Wormhole) ((mSBUX)),,Bridged Token
+0x78bf7c4b653d80ca3a1aa878827bf1a240e53c43,Ether ((ETH)),,Bridged Token
+0xd15d88b106f325a8734ce339b204e9caf4832f61,__proto__,,Bridged Token
+0x1d4241f7370253c0f12efc536b7e16e462fb3526,Wrapped Ether ((WETH)),,Bridged Token
+0x656fac7f9f96703381f5854b9cac4df5a610cd09,Binance-Peg botXcoin (Wormhole) ((BOTX)),,Bridged Token
+0x4c8aa20a30b09591be01c49018acfba757f9fe10,USDe ((USDe)),,Bridged Token
+0xafaace7138ab3c2bcb2db4264f8312e1bbb80653,DEAPCOIN ((anyDEP)),https://multichain.org/,Bridged Token
+0x7e92b2865331642109173c92534acb09541a75e1,SHIBA INU (Wormhole) ((SHIB.e)),,Bridged Token
+0x03e6cc94598c1a1e45fb618d693cb1ad6929157e,Frax ((FRAX)),,Bridged Token
+0x9833c643f387ecfb76aa8114546ad524703c66fb,MetalSwap ((anyXMT)),https://multichain.org/,Bridged Token
+0x556f9d8b79bccba2c4e1ae10107de465079b0451,Tabi Token ((TABI)),,Bridged Token
+0x59fff6d21a0ee2ffee89d6ba0a67186e9d906fcf,USD Coin (Wormhole) ((USDC)),,Bridged Token
+0x82f0b8b456c1a451378467398982d4834b6829c1,CRUST ((anyCRU)),https://multichain.org/,Bridged Token
+0xae6dea511974a644c5a44480daa050714c971539,EUROe Stablecoin ((EUROe)),,Bridged Token
+0xbe4f5ece2bf11ca313a1a6efac258f7b2f648874,MOONSCRAT,,Bridged Token
+0x9aea32b459e96c8ef5010f69130bf95fd129ac05,Wrapped Klay (Wormhole) ((WKLAY)),,Bridged Token
+0x6fefd97f328342a8a840546a55fdcfee7542f9a8,Asian Fintech,https://multichain.org/,Bridged Token
+0xb50cc608b6e776072c049c8e7729837dd38ffc3a,,,Bridged Token
+0x366eb4f5bfa5ae7335a9558ac3bf15239d1871ce,Equilibria Token ((EQB)),,Bridged Token
+0x5124dc4b0bf39dd83388ea475d9dd391de9b4991,Genius ((GENI)),,Bridged Token
+0x9abbf44cbec01c0a8fdca841944fe316f7630c75,SAITO ((SAITO)),,Bridged Token
+0x56cf68df5293b7817be9e9512680eac5abe54862,Cryption Network Token ((CNT)),,Bridged Token
+0x418d75f65a02b3d53b2418fb8e1fe493759c7605,Wrapped BNB (Wormhole) ((WBNB)),https://wormholebridge.com/#/,Bridged Token
+0xb6dc2e8af7cebfa142db0925fd6e7e9f50dd60c1,0x0 Ai ((0x0)),,Bridged Token
+0x776b3df6c701a5e3a424e290241d61fa88efa05c,(Wormhole) (()),,Bridged Token
+0x0d1762dc8143e2198c73270e6ea4e519a4025fc4,Kanpai Panda ((YKPS)),,Bridged Token
+0xa48d6a9b1c7c75393a3729ea056d3a5646551f95,Cogito Governance Token ((CGV)),,Bridged Token
+0x0d0e1a30c98611121d6f0df966b05d9d0afb023d,BlockBears ((BBEARS)),,Bridged Token
+0xdc5f1600570126c6a1cdfdf504102b891ea76ef8,Virtual Protocol,,Bridged Token
+0x2ec04464693e3d45d82a2d1fdb7d0e47a2fd657b,Wrapped MIR Token (Wormhole) ((MIR)),,Bridged Token
+0x0bc86c59e70e205b30e5d7c63a351a5234d6939d,USDC ((USDC)),,Bridged Token
+0xc73c31696af85b244bfc83b2be268c9b1fab6b72,Buck ((BUCK)),,Bridged Token
+0x5755dd9dd4ec9ce0961778a551feb57a5027eaf3,SANSHU!,,Bridged Token
+0x6a02232eb189db3879b34bc984265816a6d8d313,Wrapped Ether ((WETH)),,Bridged Token
+0xf5cd5f0fde493ae6e8b7adff18c6eb8683b5a05d,$REKT (($REKT)),,Bridged Token
+0x6f6ce1c00909f2c511b67b83db4f0c582e2b936a,MCHCoin (PoS) ((MCHC)),,Bridged Token
+0xc97bae52924fd34cdef74ffad2d3dbd955d92553,DOGITA ((DOGA)),,Bridged Token
+0xe88a1537e75ec9100d04c6092fdb37319768704a,sheeshin’ on solana ((SHEESH)),,Bridged Token
+0x7dbae6014e87ab7e92d1e73bdf6c80996d71fefc,Terra Virtua Kolect (PoS) (Wormhole) ((TVK)),,Bridged Token
+0x8b5653ae095529155462eda8cf664ed96773f557,Wrapped Ether ((WETH)),,Bridged Token
+0x9d5d7d78a6452876aa4e1e98479e1b148f12c921,Lorenzo stBTC ((stBTC)),,Bridged Token
+0xb633ae09e7655ea65f33155ee99c905b27d8cd48,Jesus Minion ((Minion)),,Bridged Token
+0x2569d68d49a2ab408f250b8eebd5f84f286bd5b5,True Human Nature (Wormhole) ((TRUEHN)),http://www.truehn.org/,Bridged Token
+0x967fbec769b027e441e1db10fd7b1335f99e81eb,ChainLink ((LINK)),,Bridged Token
+0xc1b6aa2717e7446e9a97284817941a68936f6473,ROBBY (Wormhole) ((ROBBY)),,Bridged Token
+0x8c72a4180b52b325cd26aa2f36b22afc81aa1c7e,Milk ((MLK)),,Bridged Token
+0x7f8bc696bebbbd29255f871cbef55b74e8f10e57,anyKANGAL,https://multichain.org/,Bridged Token
+0xd5ac5fee49c016f66fcdb5767326fe0305215978,,,Bridged Token
+0x3d6c620d18c2c7f5d9de637fbead92d42050f26d,Wootrade Network ((WOO)),,Bridged Token
+0x01f369bf2d5a62ce60b0a2e92143cd623becb0fb,(Wormhole) (()),,Bridged Token
+0x23ada3106391162f11d34d99dc5df0336008cce3,Bitcoin (Wormhole) ((BTC)),,Bridged Token
+0xdf183a9717ef62e779ab11a660f5cd7febb13c7d,PAID Network ((PAID)),,Bridged Token
+0xef2408e063a1f2ce5d8f1cd4bb7b7fc105288c72,AlpaToken ((ALPA)),,Bridged Token
+0x2eaa12c0c76ea8192d82b63f8dbbb7ec2a270295,Totem Earth Systems,https://multichain.org/,Bridged Token
+0xf2be35d657fa8142bbaa297d7dfa0fa688d66447,Orso Token ((ORSO)),,Bridged Token
+0x6dc7ae7c030df9157b23a215e67b7c888b25bda4,Polkamon (PoS) ((PMON)),,Bridged Token
+0x700c42d001e3096e9e6aa8e9c6205483d9cb1f81,Nuklai Token ((NAI)),,Bridged Token
+0xa232fb57369a34cf3713c265f6b7897ea33b6d92,Zombie Inu (Wormhole) ((ZINU)),,Bridged Token
+0xa98e5f5051f852a02c2f769ba79f7b690b525e43,RED PILL ((RPILL)),,Bridged Token
+0x6fefa41830621e29f3bd8f2155bea368e90d8a25,Moneyfund.com ((MONEY)),,Bridged Token
+0x6b730045343eba439c633c30053edfb90c75abee,OmniCat ((OMNI)),,Bridged Token
+0xf58f533ac7bab8464348ef45df32ecba7bd112d8,Wavy ((Wavy)),,Bridged Token
+0xc3ca2bdbeecc1acbf8e50c3ce8c447ded3baaf1b,Token (($TOKEN)),,Bridged Token
+0x5a6a288d42be77a39c6b8cad38204f709c870451,(Wormhole) (()),,Bridged Token
+0x659d1792c0ad0a684ef96b6a4b9dbd0d4fb4024f,USD Coin ((USDC)),,Bridged Token
+0xa08336a3074050147bc729050cc908d166df8f0f,Wrapped ROSE ((wROSE)),,Bridged Token
+0x41a79e437d3e47a7120236691a1688810a6621ae,SHIBA INU ((SHIB)),,Bridged Token
+0x97f45d9ba82c435db81a59ced9b8b7fe552409c6,Alien Form ((A4M)),,Bridged Token
+0xc42e58535d0666b0756ae98a84fb1a38f5ffeb36,DAI on PulseChain ((DAI)),,Bridged Token
+0xaacf3c834396f2d9a18be2b3c2cd35af6ae1d415,SushiToken (Wormhole) ((SUSHI)),,Bridged Token
+0xed8af624722f6903e9fbc38633336410c0418a96,Autonolas ((OLAS)),,Bridged Token
+0xe3ab61371ecc88534c522922a026f2296116c109,DeFiner ((anyFIN)),https://multichain.org/,Bridged Token
+0x782617249085aa28a367feb49cf811434660cee5,anyURUS,https://multichain.org/,Bridged Token
+0x43373ae537945085ee1001928e96204034bf55e6,USDC ((USDC)),,Bridged Token
+0x36e84cc30f1bc8f5ac2c43007be778f0ce27f9d3,ClinTex ((CTI)),,Bridged Token
+0x3ff1af9e583d3790ec51e1407c9e94d8d1133dc3,Spice ((anySFI)),https://multichain.org/,Bridged Token
+0x582814738422459483d576e0b4072ca51d0b0dca,Matic Token (Wormhole) ((MATIC)),,Bridged Token
+0x776b3df6c701a5e3a424e290241d61fa88efa05c,(Wormhole) (()),,Bridged Token
+0x84e89be2b44a03a9f3cc00183035548bc9140d6a,USD Coin (Wormhole) ((USDC)),,Bridged Token
+0x2fd007a534eb7527b535a1df35aba6bd2a8b660f,50WETH-50OLAS,,Bridged Token
+0xa40aef48b3d7a8de6bb54c567d1cb8c200b37832,KardiaChain Token ((KAI)),,Bridged Token
+0x1a172dd6c9f36bea22de8d5193cd1e910be7d050,TikTokToken ((TIKTOK)),,Bridged Token
+0xfa514925f762aa558e2c0dd7b3272c7956247e93,Pibble Token ((PIB)),,Bridged Token
+0xd9b1a146f0bcb87203122394b91a704ff366b154,Minato (Wormhole) ((MNTO)),,Bridged Token
+0x126cb78939f5a1401b427e915c0d09e396a07a33,Bonded ETH (Wormhole) ((BETH)),,Bridged Token
+0x8d7b6caaabf0f5cc2f505db85ac50c1eff7117d1,Fuse Token ((FUSE)),,Bridged Token
+0xf6e7d4dca3da5e7d9b640f6d4e2c8416ef5c749d,VOVO Token ((VOVO)),,Bridged Token
+0xc5f92b9d9ca6793845954963ef47202ee7472065,USDT ((USDT)),,Bridged Token
+0xf887906e130349a624ffa3cf1fa5b56f48b11c08,anySMBR,https://multichain.org/,Bridged Token
+0x3b654a81ed23d93459ca52714fef08393591fd81,Dai Token (Wormhole) ((DAI)),,Bridged Token
+0xce0bec842e115c71ccc0502fb521019b276363fb,FABWELT ((WELT)),,Bridged Token
+0xd9809882c1ab0784869bb016fe421541178302d6,VBONE ((VBONE)),,Bridged Token
+0x5e283db38790b47409575c07418d204a98f89563,GMX ((GMX)),,Bridged Token
+0x3e01b7e242d5af8064cb9a8f9468ac0f8683617c,anyPOP!,https://multichain.org/,Bridged Token
+0xa76f832acf4ccc434929964978bb8747e0df33bf,(Wormhole) (()),,Bridged Token
+0xb633ae09e7655ea65f33155ee99c905b27d8cd48,Jesus Minion ((Minion)),,Bridged Token
+0x4dff0dcef4744dbad65764ab0da2a9b5976483b0,Bitcoin (Wormhole) ((BTC)),,Bridged Token
+0xe87d84dcbb848fe94c6daedc9c81c913f707f2d2,99Starz ((anySTZ)),https://multichain.org/,Bridged Token
+0x0abcfbfa8e3fda8b7fba18721caf7d5cf55cf5f5,ANY Litecoin ((anyLTC)),https://anyswap.exchange/bridge,Bridged Token
+0x2018b41905c5287d9140e621fa2d60e2823deba9,RougeCoin (Wormhole) ((XRGE)),,Bridged Token
+0x7e500f731bc93b0f8329dc13dfd97109fbb7ee0c,The Monster (Wormhole) ((MONST)),,Bridged Token
+0x12f6e2b7f3f8e1c1a63b7a18f6ba9b6ee3e4c886,USD Coin ((vUSDC)),,Bridged Token
+0x9721cb5f9edeb93b016cc2d5aba45691e8b6f618,ABITSHADOW TOKEN (Wormhole) ((ABST)),,Bridged Token
+0xfe77d71baf7a6cdabbd63a2ad1e0adb68ca64c06,anyDAWGS,https://multichain.org/,Bridged Token
+0xf14a9b2692caead5b647adf602be95895fb0c45f,ETFpepe,,Bridged Token
+0xd8acee38defede6b80eaf376936af1893a7865ed,TeddyDoge (Wormhole) ((TEDDY)),,Bridged Token
+0x717a0bc2683ff8083c62813ebe307fba1bcd5ad5,DizzyHavoc ((DZHV)),,Bridged Token
+0x065c01ee221e5cfd303320d652f6c834c73c007e,GARNET TOKEN ((GRNT)),,Bridged Token
+0x392638529e04ccadab4802fad7f94ac50a333ccd,TVestige ((TV)),,Bridged Token
+0x4c748b4bdbcbc832aea28314644c189627991c2d,TOWER ((TOWER)),,Bridged Token
+0xcd696c4efbbb2e1c6cd510aaa381715e00682149,Dogelon (Wormhole) ((11ELON)),,Bridged Token
+0xfff60b566ec04af626517edc03c5726cd42e1041,Gnosis Token ((GNO)),,Bridged Token
+0xe91eb4493d68e76408d10d68b6f31786a07dbeaa,BBS [via ChainPort.io] ((BBS)),,Bridged Token
+0xf5b64e96d81344e74e159ba90052f566c1efada6,Baby Luna by Virtuals,,Bridged Token
+0x5fcb9de282af6122ce3518cde28b7089c9f97b26,Staked Ice Tokens,https://multichain.org/,Bridged Token
+0x5469cae8982f34f3e8de2f70f54d8a1d108cfac4,Fantom ((FTM)),,Bridged Token
+0xf2fef8fa2c52b927c0a589a1a645c77189f24541,Cloudbit Classic ((CDBC)),https://cloudbitex.com/,Bridged Token
+0xed06840822448baac88118b3d937330d6eb694ba,MetaGaming Guild [via ChainPort. ((MGG)),,Bridged Token
+0x23ada3106391162f11d34d99dc5df0336008cce3,Bitcoin (Wormhole) ((BTC)),,Bridged Token
+0xd134feff35750e00da014572babb46e4659ad87a,The Doge NFT ((DOG)),,Bridged Token
+0xdab6ec7a7cff612b6b74928ac61c1a9662819d28,DIAToken ((DIA)),,Bridged Token
+0x0fb4ba5fb5d05053b1a01daed0d2ccca600e50ef,Frax ((FRAX)),,Bridged Token
+0x6acb9ac319bafe509af9e96be642ead00526b9fa,Wild Goat Coin ((WGC)),,Bridged Token
+0x9d8a797fae0da6b59f7d835ed48b1b83b3f1eef8,ApeCoin (Wormhole) ((APE)),,Bridged Token
+0xa8752333f6a6fe47323a4edac3d09bb1048a0e23,anyKONO,https://multichain.org/,Bridged Token
+0xa98b509e8da5d6ddc61e94528af3a6e4e05e6067,HEX (PoS) ((HEX)),,Bridged Token
+0xa65225a7c67d7e44183dbcc04ebd434bc32f29b7,anyUNBNK,https://multichain.org/,Bridged Token
+0x06a3c50697d83b10751551415fef30456054d71b,Aluna ((ALN)),,Bridged Token
+0x85f138bfee4ef8e540890cfb48f620571d67eda3,Wrapped AVAX (Wormhole) ((WAVAX)),https://wormholebridge.com/#/,Bridged Token
+0xa232fb57369a34cf3713c265f6b7897ea33b6d92,Zombie Inu (Wormhole) ((ZINU)),,Bridged Token
+0x126c39d3261472c83d0eadfcdb2ec41587b3efc5,Lido DAO Token (PoS) (Wormhole) ((LDO)),,Bridged Token
+0x6e642b4dfe787b8f101d1fb66c2ef56e2b4c6c52,peaq ((xcPEAQ)),https://www.peaq.network/,Bridged Token
+0xfcc349c14013edefaacae09ba30f4ef2571b8d2c,Bridged USDC ((USDC.e)),,Bridged Token
+0x77f92e2adcb4265c9535b05908d9b343a65f2691,FINNGRAM TOKEN (Wormhole) ((FINN)),,Bridged Token
+0x5ca5acc6c70bea48ebe26b8c77068b68827b743b,PolkastarterToken ((POLS)),,Bridged Token
+0x34324e1598bf02ccd3dea93f4e332b5507097473,anyKALLY,https://multichain.org/,Bridged Token
+0x7842711d7ee7d8bb2d165e9dce4dd7b91a0244c3,(Wormhole) (()),,Bridged Token
+0xda0d2670177f5892ea8883e1c35c1d664281cd5d,Penjamin Blinkerton ((PEN)),,Bridged Token
+0x962de5a0f597d23e3c5dcf5b4ebbd0419cd2fff1,pub.finance (Wormhole) ((PINT)),,Bridged Token
+0xfa9343c3897324496a05fc75abed6bac29f8a40f,XDEFI Governance Token,https://multichain.org/,Bridged Token
+0x814b531fcc696a6719cd1b0fa6e2e464706e5e87,🧻 ((L0AD)),,Bridged Token
+0xf3cc34d466068f77aff54cb594893b83180bf02d,Realio Network LTD ((RST)),,Bridged Token
+0x944a05c5acc46c9777aca7d8dd92b048b1b6d3e0,anyORBS,https://multichain.org/,Bridged Token
+0x1701616358a71ebc9ead1444fbb4f38118356057,Boo Token ((BOO)),,Bridged Token
+0xf51c60cfc8c7ebf7ef4e5a59d4d885e7fef29aa8,LuckyBlock (Wormhole) ((LBlock)),,Bridged Token
+0x99fca5214549fc0fd5afdfab4a3fbc19ffe55c77,(Wormhole) (()),,Bridged Token
+0x34f380a4e3389e99c0369264453523bbe5af7fab,anyMYOBU,https://multichain.org/,Bridged Token
+0xa1061739696dfd736968b9351617d46255b9b311,Radio Caca V2 (Wormhole) ((RACA)),,Bridged Token
+0x70c2205e49ab98a7cfd0859ddf431e9f19a0f7d6,Ethereum (Wormhole) ((ETH)),,Bridged Token
+0x1ca1ef3fb8ff4a480c0ae7eea5f91a24a5bb3344,Litecoin Token ((LTC)),,Bridged Token
+0x72ffde93eb16067474ad5e756a0667082441cfed,Axelar Wrapped LUNA (Wormhole) ((LUNA)),,Bridged Token
+0xaae9a36819ac4ae2541b99a8f70646dc5fbe19a9,SushiToken ((SUSHI)),,Bridged Token
+0x1c7d15256f807681d13b62953fc95e3361c7c55c,Asian Fintech ((Afin)),,Bridged Token
+0x40df1ae6074c35047bff66675488aa2f9f6384f3,WardenSwap ((anyWAD)),https://multichain.org/,Bridged Token
+0xd23d2a99042f43c64739a53dbe69c17e96895df9,OpenAI Sora ((SORA)),,Bridged Token
+0x887fe928645020db1ec4af4aa922c2327f96f90f,(Wormhole) (()),,Bridged Token
+0x52b3e9b6e1407e728e05e84fa0aa1f741d7119bb,Ume ((UME)),,Bridged Token
+0xf9cdbaa52929090e3e3febdf5ba6fd394bad5bb0,MANTRA DAO (PoS) ((OM)),,Bridged Token
+0x05fd24d50075e659811d2408cb5516a64a1958fe,Mojito ((MOJO)),,Bridged Token
+0xfc370c56f429da8e51db1febcd36015161f97d2a,Merlin ((MERLIN)),,Bridged Token
+0xd66c43bee6d49c4a4f3e6d1bc14d9d1f8bd1f6a7,Tether USDt ((USDt)),,Bridged Token
+0x5ed366749b5157504dfc3909af2207527a0cda00,PEPE UWU ((CUTE)),,Bridged Token
+0x6f9a89c9de394a5a42446ae2419d12b64368774f,Origin ((OGN)),,Bridged Token
+0xc5567405f8c6da109f2261810c46dab92d8284aa,Gera ((GERA)),,Bridged Token
+0x8b92ea35171e29948cc9e49c52ac8db0549b7d6b,Baby Doge Coin,https://multichain.org/,Bridged Token
+0xfe77d71baf7a6cdabbd63a2ad1e0adb68ca64c06,anyDAWGS,https://multichain.org/,Bridged Token
+0x1b7da363c09fa9f97c7b2409da9f342bd1882c14,Thala Token ((THL)),,Bridged Token
+0xa5e3b10d34c93a480517f9dc53b3e1fe52d4e1ee,CHEEMSINU (Wormhole) (($CINU)),,Bridged Token
+0xe7b3c873b0aacf8594322a87f0bbd2b3c07b31d3,uluna ((LUNA)),,Bridged Token
+0x6496994241804d7fe2b032901931e03bcd82301f,anySHINJA,https://multichain.org/,Bridged Token
+0xb8d1e0642bfd3744cabd2ca8830cfabe19b2ca54,Optimism tBTC v2 ((tBTC)),,Bridged Token
+0xed8af624722f6903e9fbc38633336410c0418a96,Autonolas ((OLAS)),,Bridged Token
+0xa28e49f73ca308267e8e83baaddd0bafe52484d1,IMMUTABLE (($IMX)),,Bridged Token
+0xe15179ed11544aa0b9df49726e8cbe6b7933d2c7,Rocket Pool ETH ((rETH)),,Bridged Token
+0xdfe0be0e9a8fffa68448b991d0c99a59780ef179,Tether USD (Wormhole) ((USDT)),,Bridged Token
+0x4662bb8b9223301fbfbced3db743ffa122e5e026,Feisty Doge NFT ((NFD)),,Bridged Token
+0xb83cc3a98c63454e2f0aef7af8d67aada0e9ad15,(Wormhole) (()),,Bridged Token
+0xe60b77af574da0c2fa6091820c5d5550c448097d,GovWorld Official (Wormhole) ((GOV)),,Bridged Token
+0xe1691c7ef3197a9d515aa67f1e237de06f39d934,0VIX MATIC ((oMATIC)),,Bridged Token
+0xf9de3209531ea7e0201ac49ae03bd20604b03362,Objects In Mirror May Be Closer ((ME)),,Bridged Token
+0x36b203cb3086269f005a4b987772452243c0767f,50OLAS-50WETH,,Bridged Token
+0x4cff05ac2ac5c8d8b07216492a3a0be4ce5ad358,Wrapped Ether (Wormhole) ((WETH)),,Bridged Token
+0x3c9533e3293aea283f2874572c595088ad64a7e9,donotfomoew ((MOEW)),,Bridged Token
+0x7c7ab80590708cd1b7cf15fe602301fe52bb1d18,Injective Protocol ((INJ)),,Bridged Token
+0x1e190a8f85e2037709f88a08078eabd81dc2858c,TOWER ((TOWER)),,Bridged Token
+0xf25575dac735add276323a659e5d3a1ec3f663ec,MOODENG,,Bridged Token
+0x8edae8b7b73855da8380693d270c9b6c160ac357,SOLANA (Wormhole) ((SOL)),,Bridged Token
+0x62c762951fc7d677010ead8d67d16a2df9f5c5a7,BeNFT Solutions (($BeNFT)),,Bridged Token
+0x5b0069fa07ef237d2982c5885ac249c45fdc7f23,CHEX ((CHEX)),,Bridged Token
+0x463f2aec19f935a8107de7bb84112c5e059ca2cd,Wrapped Bitcoin ((BTC)),,Bridged Token
+0x57e62e7d20f173bf4a14fdefefcbece0d4573e87,ZORKSEES,,Bridged Token
+0x28f740890f9fed4d402156ade2195fe6466382d2,Dogelon (PoS) ((ELON)),,Bridged Token
+0xd13987ddb05f1142d547d22b2ea6764c43b32a7b,anyUSDC,,Bridged Token
+0xaa1c34e070efd4991c31e5c641c3f33796df3f57,Wrapped LUNA Token (Wormhole) ((LUNA)),,Bridged Token
+0x967fbec769b027e441e1db10fd7b1335f99e81eb,ChainLink ((LINK)),,Bridged Token
+0x40df1ae6074c35047bff66675488aa2f9f6384f3,WardenSwap ((anyWAD)),https://multichain.org/,Bridged Token
+0xd6dc58c6390c1ebdb3385c6178778f6f9c6a0b62,Arix ((ARIX)),,Bridged Token
+0xf5b64e96d81344e74e159ba90052f566c1efada6,Baby Luna by Virtuals,,Bridged Token
+0x4548f48fdbb0a9fc952c201b28671d9f58aa16d3,Kalmar Token ((KALM)),,Bridged Token
+0xd163bc025954b2bae467b6d82527cc60500ad092,YuzuSwap LP Token (Wormhole) ((LPT)),,Bridged Token
+0x302f636d723c8ed75c0d1e9d9c714009184c5624,Wrapped liquid staked Ether 2.0 ((wstETH)),,Bridged Token
+0x5dbbb101cdc29443d12055ecdddd7ca037dce721,Ethereum Token (Wormhole) ((ETH)),,Bridged Token
+0xafc57f1e8f1ba7903389c4cc252e8bd5ab466630,FWT (Wormhole) ((FWT)),,Bridged Token
+0x79dbe8c482e2fdab1d1874560a9ba60161c7561d,contract address ((ca)),,Bridged Token
+0x1e1085efaa63edfe74aad7c05a28eae4ef917c3f,anyTNODE,https://multichain.org/,Bridged Token
+0x94582b8e2a21432b2568f7e60e5c3e1d5ab22436,,,Bridged Token
+0x1df721d242e0783f8fcab4a9ffe4f35bdf329909,Optimism ((OP)),,Bridged Token
+0xbcdef50c29003bf706440dae42be87c27c8bfae3,MagicCraft (Wormhole) ((MCRT)),,Bridged Token
+0x51600b0cff6bbf79e7767158c41fd15e968ec404,ANY Bitcoin ((anyBTC)),https://anyswap.exchange/,Bridged Token
+0xf478ef5a2565b05296f2bf166c65129bd9f66a37,XRB Gold Grams ((XRB)),,Bridged Token
+0x654ce029137b67e9190e7ae18034789035dd9fb3,Stake DAO Token (PoS) (Wormhole) ((SDT)),,Bridged Token
+0x78d02bb10141e0b7a8cd78aafb35c78abffa88a3,LABEL ((LBL)),,Bridged Token
+0x19f3731ee43db1546d9b23db95681439e2fa15e5,Relite (Wormhole) ((RELI)),,Bridged Token
+0x2e2c8d04ec61f80d8915e92193a8ce7c4066c75c,DOGITA ((DOGA)),,Bridged Token
+0x544b51d422840209c58e26685065a17ee5825038,Chess ((CHESS)),,Bridged Token
+0x1c9283595981223f3369a78290093541fe88ee6d,ButtCoin ((Butts)),,Bridged Token
+0x359a77d7f727a526a83636f9568c0ea0da69d987,Bonded SOL ((bSOL)),,Bridged Token
+0x355a510cdf8aa3e7654b988c6bd8788fa93173e6,looksgood ((sendit)),,Bridged Token
+0x52bdb2399dfe7b1e6ab3f65de46954606954d608,Realio Token ((RIO)),,Bridged Token
+0xfc9394de562eb175db2b8bb40eb0c9197f1d66bd,USD Coin ((USDC)),,Bridged Token
+0xfb60d8e684f21f38e50fd76a83bb07a7537a44f5,Merlin ((MERLIN)),,Bridged Token
+0x3f3ce70aea2a9e3a8188012a2597df0f44f9feda,OUTSYDE GLOBAL BVI CORP,,Bridged Token
+0xbbea1aa2741aa53d0c7ef038c4134dc812297d83,Swipe (Wormhole) ((SXP)),,Bridged Token
+0xa9b6f876657bd904dc07df9b2c3e5d42ea8fbb42,FiNANCiE Token (PoS) ((FNCT)),,Bridged Token
+0x5d47baba0d66083c52009271faf3f50dcc01023c,Ledgity ((anyLTY)),https://multichain.org/,Bridged Token
+0xf8a363cf116b6b633faedf66848ed52895ce703b,anyBLID,https://multichain.org/,Bridged Token
+0x5e9a06db7f2fbdaa18cb8618ea2b642b1069b80c,Morpheus Network ((MNW)),,Bridged Token
+0x2ba1726ca459a81541cd1b0d1d60943af1175f5d,Aave (PoS) ((AAVE)),,Bridged Token
+0xb8d4eecf46e52557a72636c2c356104bfc084ae0,Tether USD (Wormhole) ((USDT.e)),,Bridged Token
+0x7b4b0b9b024109d182dcf3831222fbda81369423,BUSD Token (Wormhole) ((BUSD)),https://wormholebridge.com/#/,Bridged Token
+0xdb7ef4674526e5afcde2bfe934c85e38817c2905,ERC-20 TOKEN*,,Bridged Token
+0x2feb15fd36661fc95aeeaaa5849d62a351bab521,GoldMiner (Wormhole) ((GM)),,Bridged Token
+0x17a95374f0a068250ab1961526215d61b594409f,UnitBias (Wormhole) ((UB)),,Bridged Token
+0x61183978fe02987d6ea79c5134a3368fe88c3296,Lery Fenk ((fenk)),,Bridged Token
+0xde2080cb7e7401c942bb75ff44d5a7cbe67e0b5d,USD Coin ((USDC)),,Bridged Token
+0x7495beb3483977118a2354c3e9b8548bc3aa7376,SubQueryToken ((SQT)),,Bridged Token
+0x0abd300ff1f5c90d8e6bb75c008ac5b46424cfb4,Liberland Dollar ((LLD)),,Bridged Token
+0xc6e05fe32584b6c9944896fd966761821fcecef0,Wrapped Ether (Wormhole) ((WETH)),,Bridged Token
+0x2018b41905c5287d9140e621fa2d60e2823deba9,RougeCoin (Wormhole) ((XRGE)),,Bridged Token
+0xd68b920c88f8837dd354b76409a06667ba026720,ChainLink Token ((LINK)),,Bridged Token
+0x4c53113be4b669b018104461c5838d3af814dbb5,SAND (Wormhole) ((SAND)),,Bridged Token
+0x07642c77d8a453cfbc1121f0c16ab00896d8d494,Tether USD ((USD₮)),,Bridged Token
+0x8f4f44939da874ce7fedc5f9283ffe847df7d9a4,ARBys ((ARB)),,Bridged Token
+0xa1ae26219565370fcfea073249309d117d805c39,Jupiter ((anyJUP)),https://multichain.org/,Bridged Token
+0x2ca108bfda688dacaecc7550fd2c83341f0a745b,Axie Infinity Shard (Wormhole) ((AXS)),,Bridged Token
+0xcf6033e4b1a2dfb2f5f9d2174a533b344137bb08,Waifu ((Waifu)),,Bridged Token
+0xab522e689796277e8661526407ca7fac8f225ef0,NFT Worlds ((WRLD)),,Bridged Token
+0x8effbf747d4a60bc6b68d9a1be4c4188ba8a3a0b,Cardano Token ((ADA)),,Bridged Token
+0x944a05c5acc46c9777aca7d8dd92b048b1b6d3e0,anyORBS,https://multichain.org/,Bridged Token
+0xfe3ead58f151f0c15c4fb30b15e941cbfec0ca63,zLINK (Wormhole) ((zLINK)),,Bridged Token
+0xd4c53b36e6b786ff19dbc27de959fefd00e6c959,Wormhole Bridge PPO,,Bridged Token
+0x6ebbdba6cf39ebfa1b1ac98244b32f3b735c9102,Wrapped ETHO (Wormhole) ((ETHO)),,Bridged Token
+0xd2af5442bd47461b37726fd323d95e569973fe6d,Kanpeki ((anyKAE)),https://multichain.org/,Bridged Token
+0xb53ec4ace420a62cfb75afdeba600d284777cd65,anyPOND,https://multichain.org/,Bridged Token
+0xc5c71cd0b734dae8c6eba9d79c3db693d112dda1,ShareToken ((anySHR)),https://multichain.org/,Bridged Token
+0xda4efed21502dcb8b0cb8fbfaeece76e5b6374b2,Fallen Angels (Wormhole) ((ANGELS)),,Bridged Token
+0x2c8988881fa08dbd283348993bed57ea0c971c94,SOLA-X ((SAX)),,Bridged Token
+0x0c0bd3c6fb34d56bc74ddf23ff391746598a228b,SHIBA INU (PoS) (Wormhole) ((SHIB)),,Bridged Token
+0x7beb05cf5681f402e762f8569c2fc138a2172978,Kyber Network Crystal v2 ((anyKNC)),https://multichain.org/,Bridged Token
+0x628f76eab0c1298f7a24d337bbbf1ef8a1ea6a24,XRP (IBC) ((XRP)),https://www.ibcprotocol.dev/,Bridged Token
+0xfb2244c47e2aaea5358a856061c96c890cd6e3b2,wMonero (Wormhole) ((wXMR)),,Bridged Token
+0xab6b8392397e25f3c977c847dd8c0ddeff98ad62,AppleSwap.ai Token (AP) ((AP)),,Bridged Token
+0xfa05c6e9207e3d6b23cddbbfced4dfebf13bf8d5,Dogelon Index from Mainnet from,,Bridged Token
+0x8fac219f5de3f22fcd93f4bf12b4d5011e9c9bac,Arbitraz ((ARBZ)),,Bridged Token
+0xc789b31511f1f9f0ebf8d7d0c3b93347a5f8b923,USDC ((USDC)),,Bridged Token
+0x8e60d469a94e1be77668e8c9c55c498701870762,anywsOHM,https://multichain.org/,Bridged Token
+0xe6bfcda5741011b80862cc2c245829fe29d30b0e,Sunny Governance Token ((SUNNY)),,Bridged Token
+0xd601556f1d5769449d66d743e0f7fe6d89767d8f,Synapse (Wormhole) ((SYN)),,Bridged Token
+0xd402e85dd92553edf0c299ef9d38f20aa27190b1,Altava ((TAVA)),,Bridged Token
+0x5755dd9dd4ec9ce0961778a551feb57a5027eaf3,SANSHU!,,Bridged Token
+0xf7ccbb993718fbddf6eb723fad9e5743c4a0d2d2,SATAN ((SATAN)),,Bridged Token
+0x4cc275eb37c59d14129cc2120964fb6595246dd9,BAM ((Bamboo)),,Bridged Token
+0xe1c2b1c0d06093553ee24fc1350822f41c8ae300,Metaverse Index (PoS) (Wormhole) ((MVI)),,Bridged Token
+0xda57f5e535ad758288180b8f487b970d3d904daf,Wrapped MIR Token (Wormhole) (Wormhole) ((MIR)),,Bridged Token
+0xb72842d6f5fedf91d22d56202802bb9a79c6322e,STASIS EURS Token,https://multichain.org/,Bridged Token
+0xe705af5f63fcabdcdf5016aa838eaaac35d12890,anyagEUR,https://multichain.org/,Bridged Token
+0xf9aeb8cda1fdddcfd8261fe3f8eac46ca3139259,USD Coin ((USDC)),,Bridged Token
+0xf2fef8fa2c52b927c0a589a1a645c77189f24541,Cloudbit Classic ((CDBC)),https://cloudbitex.com/,Bridged Token
+0xe31bfa27cae61568bd9ed55faf7124ff5ff96b89,Badger ((BADGER)),,Bridged Token
+0xf3a2a6c8e7cc346e1d230bb19fe5c3dbf7557fcd,Avalanche (Wormhole) ((AVAX)),,Bridged Token
+0x1be43a6209cd36de870f2dfc441b4d59eb57eb73,Zombie Inu (Wormhole) ((ZINU)),,Bridged Token
+0xbb1215e88e2ee6b9e179f7a1e323e8bdf326777e,WorldWideWeb (Wormhole) ((WWW)),,Bridged Token
+0x9243b3615ed297403c0cafa156c3fa16057526ca,Osmosis (IBC) ((OSMO)),https://www.ibcprotocol.dev/,Bridged Token
+0x3c8de9afc270a8e71c18ce63e84c8f4cb22ae44c,vEmpire Gamer Token ((VEMP)),,Bridged Token
+0xb2995cc105cd97d52cc05f402d01e014dd51e591,Sehlat (Wormhole) ((SHLT)),,Bridged Token
+0x81ca6cf763c5c6d102ddd7d9b9027c1adbdc351f,Request ((REQ)),,Bridged Token
+0x4d01c4acff7befe7f2408a1f823189fbd1a3e2bd,XPLA ((XPLA)),,Bridged Token
+0xf49818b5d7de5b0dbfccb3ddcd14e1f0aa1a6f01,anyalUSD,https://multichain.org/,Bridged Token
+0x99fca5214549fc0fd5afdfab4a3fbc19ffe55c77,(Wormhole) (()),,Bridged Token
+0x9cd5b561fe812a2557097e96d2b4a357c555626d,ARNI TOKEN ((ARNI)),,Bridged Token
+0xac86ad6a4dc773c7f98a89712cf2989b67fdba45,USD Coin (Wormhole) ((USDC.e)),,Bridged Token
+0x739ca6d71365a08f584c8fc4e1029045fa8abc4b,Dai Stablecoin ((anyDAI)),https://multichain.org/,Bridged Token
+0x0aa8d1e86ed13457a2530aa0c006e43520499382,Axelar Wrapped USDC,,Bridged Token
+0xde58658a05a8ce87bb8ab96a05a4c4544938e28f,Singularity Dao,https://multichain.org/,Bridged Token
+0x21035503f0e49b21837f7e05d449c545d315ddd8,Pendle ((PENDLE)),,Bridged Token
+0x806190231d49615c3a348b0cf67fa0f1b3d18458,Tenup DAO Token (Wormhole) ((TUP)),,Bridged Token
+0xe7f04e0fbde4b16feb4a67747133f251e4dbccd7,Gelato Network Token ((anyGEL)),https://multichain.org/,Bridged Token
+0x790cfdc6ab2e0ee45a433aac5434f183be1f6a20,Universal Store of Value ((anyUSV)),https://multichain.org/,Bridged Token
+0x0e972c1c6ae2e15efac516c67629ad110781facc,NinjaFloki_Dividen_Tracker (Wormhole),,Bridged Token
+0x8b2f48720a389858f5e2c851895c66fcfe8b4c12,Wrapped UST Token (PoS) (Wormhole) ((UST)),,Bridged Token
+0xde5a28817f9287024aded8ac9434ddefc2651d07,Aptos Coin ((vAPT)),,Bridged Token
+0x831def3b716dfcb890eff5cece62c5b9739c3df4,Stader xSD (Wormhole) ((xSD)),,Bridged Token
+0x92b983fa0e7d5717d2911123dc6137a33d41cd59,TrueUSD ((TUSD)),,Bridged Token
+0x648d6ce0548199ca541d2d52c7fb0d8bcb684fd2,Swilgotin ((Swil)),,Bridged Token
+0x986a4ea3679afe15b5963a6ec3437be859279bc1,any2022M,https://multichain.org/,Bridged Token
+0x247db9746755cf119d3ad68a6f8f60e7e650bfa1,Liquid Staking token (IBC) ((LST)),https://www.ibcprotocol.dev/,Bridged Token
+0x298cb70fcec56f12009e1c55d53fa87ca88f0ed5,GNY ((GNY)),,Bridged Token
+0xfd892a77227ed3a1bf93db0c18dcb465cb1ea006,Cross Chain Farming (Wormhole) ((CCF)),,Bridged Token
+0x7e79bd7eb290a96615d13debd1e36e08dd34b353,MITH ((MITH)),,Bridged Token
+0x17c79e9e791e64f968f6891c36154bebe8ec43b1,,,Bridged Token
+0x3017fbf177ac081ad592c5f7798f6124b7991630,,,Bridged Token
+0x99b345b1ee1bb318fb8a469509c31b2973f0e061,,,Bridged Token
+0x21eec43655057e4b774f59bc9b00638e77966d97,,,Bridged Token

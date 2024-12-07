@@ -1,0 +1,32 @@
+Address,Name Tag,Label
+0x27054b13b1b798b345b591a4d22e6562d47ea75a,AirSwap: AST Token,AirSwap
+0x7eeab4f134fcfa6fcaf3987d391f1d626f75f6e1,AirSwap: Legacy Deployer 1,AirSwap
+0x1ff808e34e4df60326a3fc4c2b0f80748a3d60c2,AirSwap: Legacy Deployer 2,AirSwap
+0x7f18bb4dd92cf2404c54cba1a9be4a1153bdb078,AirSwap: Legacy Deployer 3,AirSwap
+0xebbd58cd1c31c08ef7a17337c264ba502762e993,AirSwap: Legacy Multisig 1,AirSwap
+0x60b47716d3893b06cc43b66d7c8221e0cac63a9b,AirSwap: Legacy Multisig 2,AirSwap
+0xf8bb149f9525875fa47b8cc632d368eb600faba3,AirSwap: Ops Multisig,AirSwap
+0x24b4ce3ad4366b73f839c1b1fd11d1f636514534,AirSwap: Treasury Multisig,AirSwap
+0xa4c5107184a88d4b324dd10d98a11dd8037823fe,AirSwap: V1 DAO Staking,AirSwap
+0x704c5818b574358dfb5225563852639151a943ec,AirSwap: V1 DAO Staking (Deprecated),AirSwap
+0x8fd3121013a07c57f0d69646e86e7a4880b467b7,AirSwap: V1 DEX Swap,AirSwap
+0x579120871266ccd8de6c85ef59e2ff6743e7cd15,AirSwap: V2 DAO Staking,AirSwap
+0x072073f78a2d58610ee3d5e170ca7ac9cb58a345,AirSwap: V2 DEX Delegate,AirSwap
+0xba9ab9710bd461f30c247f4ca2cb7f453c22570e,AirSwap: V2 DEX Indexer,AirSwap
+0x4572f2554421bd64bef1c22c8a81840e8d496bea,AirSwap: V2 DEX Swap,AirSwap
+0xa42d613d8b8b6cb9507f46a5dd3fd98276570fd7,AirSwap: V2 DEX Types,AirSwap
+0x28de5c5f56b6216441ee114e832808d5b9d4a775,AirSwap: V2 DEX Wrapper,AirSwap
+0x6d88b09805b90dad911e5c5a512eedd984d6860b,AirSwap: V3 DAO Staking,AirSwap
+0xc549a5c701cb6e6cbc091007a80c089c49595468,AirSwap: V3 DEX Light (Swap),AirSwap
+0x8f9da6d38939411340b19401e8c54ea1f51b8f95,AirSwap: V3 DEX Registry,AirSwap
+0x54d2690e97e477a4b33f40d6e4afdd4832c07c57,AirSwap: V3 DEX Swap,AirSwap
+0x9fc450f9afe2833eb44f9a1369ab3678d3929860,AirSwap: V4 DAO Staking,AirSwap
+0xd82fa167727a4dc6d6f55830a2c47abbb4b3a0f8,AirSwap: V4 DEX SwapERC20,AirSwap
+0xbbcec987e4c189fcbab0a2534c77b3ba89229f11,AirSwap: V5 DAO Pool,AirSwap
+0x8bf384296a009723435ad5e8203da5736b895038,AirSwap: V5 DAO Staking,AirSwap
+0xc4ad1c6fbe2794a276c09dc8aadf7f4cf79df9e1,AirSwap: V5 DEX Delegate,AirSwap
+0xe30e9c001defb5f0b04fd21662454a2427f4257a,AirSwap: V5 DEX Registry,AirSwap
+0x01b28aa66a54c6f2be5c2ef905a2329270cca96f,AirSwap: V5 DEX Swap,AirSwap
+0xd82e10b9a4107939e55fcca9b53a9ede6cf2fc46,AirSwap: V5 DEX SwapERC20,AirSwap
+0x88d0d1a1472307d1853809c3aa455b1b76c9bcfe,AirSwap: V5 DEX Wrapper,AirSwap
+0xfaf0708d1aed2566205d61f471d7e4aeb10910ea,AirSwap: WBTC Merchant Deposit Address,AirSwap

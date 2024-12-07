@@ -1,0 +1,70 @@
+Contract Address,Token Name,Website,Label
+0x358d94b5b2f147d741088803d932acb566acb7b6,rSWELL ((rSWELL)),https://www.swellnetwork.io/,Yearn Vault
+0xec48e0b9579062770888aaf900d054a1bc10a3bf,yPT-USDe-Karak (auto-rolling Pendle PT),,Yearn Vault
+0x57a8b4061aa598d2bb5f70c5f931a75c9f511fc8,yPT-LBTC (auto-rolling Pendle PT),,Yearn Vault
+0x68b9f74372b257fad2c9a160d2f12ee526ea9510,yPT-rsETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0x8c6e6284ae2504fbde50a80d266e736e4b18d51c,yPT-rsENA (auto-rolling Pendle PT),,Yearn Vault
+0x38be95a8837d715b31e91f3e223d52af6ca37e1f,yPT-sUSDe-Karak (auto-rolling Pendle PT),,Yearn Vault
+0x93ebc3ca85f96afd72edb914e833fe18888de179,GHO aggregator,,Yearn Vault
+0xe403bbf2262643c2e996e7469be736e211d5b272,yPT-ezETH (auto-rolling Pendle PT),,Yearn Vault
+0xeeb4290377763a3fadbfbf81ab8f2958aec8bb96,yPT-rswETH (auto-rolling Pendle PT),,Yearn Vault
+0x8a878e3149051b810f078fd3f2e0924290be34a6,yPT-USDe (auto-rolling Pendle PT),,Yearn Vault
+0x42842754abce504e12c20e434af8960fdf85c833,yGOLD-styETH (Autocompounding),,Yearn Vault
+0x2d97ccda31fa1e97b1b7f6c046b9b9b36fc558aa,yPT-eETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0x254bd33e2f62713f893f0842c99e68f855cda315,Coinflakes Vault v2.0 ((FLAKES)),,Yearn Vault
+0x7810e336f8b3d9ae7c15632f11f80ae715dde900,yPT-ENA (auto-rolling Pendle PT),,Yearn Vault
+0xfb2e038f179f5dfb34a695225f8fd9b854360636,yPT-eETH (auto-rolling Pendle PT),,Yearn Vault
+0x66017371c032cd5a67fec6913a9e37d5bd1c690c,yPT-pufETH (auto-rolling Pendle PT),,Yearn Vault
+0x21b0f8109f7f797e8b40a6189d2b773be642666e,yPT-rswETH-L2 (auto-rolling Pendle PT),,Yearn Vault
+0x2f2bbc50db252eeadd2c9b9197beb6e5aef87e48,yPT-ENA (auto-rolling Pendle PT),,Yearn Vault
+0x70568ada62b82282b030c220ad96bebc4e57fadb,Morpho USDC aggregator,,Yearn Vault
+0x76e9b1711d85bc9c88a437420787c34282956ec5,yPT-USDe-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0x57fc2d9809f777cd5c8c433442264b6e8be7fce4,yPT-sUSDe (auto-rolling Pendle PT),,Yearn Vault
+0x8670120c32de7bc990e0fe3bbd04704e98492f0a,Usual aggregator,,Yearn Vault
+0x30dd04107dee5e64fbd2981f7ab980b9f82c2429,yPT-eETH-Karak (auto-rolling Pendle PT),,Yearn Vault
+0x00cb87656196dd835b9e4d67018ae0477a1de8c1,yPT-uniETH (auto-rolling Pendle PT),,Yearn Vault
+0x9c54050a66a2457c01b508155373ebe4d94aa0f5,yPT-sfrxETH (auto-rolling Pendle PT),,Yearn Vault
+0xbdac8353b03a883654d19ff60c8fcdc1a52f0be2,yPT-weETH (auto-rolling Pendle PT),,Yearn Vault
+0x87898bf3197e6713397a83c9ac0e04481c33f441,mock stcrvUSD,,Yearn Vault
+0x53eeddb86c822f8d4cc031ebfc84ccaaaa17d0a8,yPT-crvUSD-Silo (auto-rolling Pendle PT),,Yearn Vault
+0x4dd0fe8549641a04d7ab4f37dbb541ae7dbb2838,Silo-LRT USDC yVault,,Yearn Vault
+0xaed098db0e39bed6ddc2c07727b8ffc0ba470d9c,tBTC aggregator,,Yearn Vault
+0xe64542b15f18f6926b49e0ef53681a84dc8c28f1,yPT-rsETH (auto-rolling Pendle PT),,Yearn Vault
+0x8294bba6671d4094a7c0e9c98e615fbc11f96388,yPT-swETH (auto-rolling Pendle PT),,Yearn Vault
+0x4df40f310cd760e5f59850c1aeb58242cdc6e2fb,yPT-crvUSD-Silo (auto-rolling Pendle PT),,Yearn Vault
+0xdead8193791a6dc90564e6856ad12878200e90ec,yPT-ezETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0xdda02a2fa0bb0ee45ba9179a3fd7e65e5d3b2c90,yPT-agETH (auto-rolling Pendle PT),,Yearn Vault
+0xe838ab2eb50db41bd713f27346690d3ead2d98f1,yPT-weETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0xe4b0f1967a3098e26e4c939036d58d713b30ddbf,Yearn WETH aggregator,,Yearn Vault
+0xf1ce36c9c0db95a052eb4b075bc334e1f5a21ef0,yPT-rswETH (auto-rolling Pendle PT),,Yearn Vault
+0xf2a9ef3b50d7615b455691540ccc21ef934daab6,yPT-stETH (auto-rolling Pendle PT),,Yearn Vault
+0x281128b2099ab21e10ecb63750f52be5deffdecf,yPT-rsETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0xaca399117ac588e1f48398d34eca76cdb1e45fa5,Ondo aggregator,,Yearn Vault
+0xe3faed70ccaf49c9baa95ca8d41b1777d7ae440f,usdc-vaulty-moo ((eeepy)),,Yearn Vault
+0x9ff95d3a070259f579f26a4fe12e145edde8e65a,yPT-ezETH (auto-rolling Pendle PT),,Yearn Vault
+0xe30f5409c13f77ee94480800e7be329342e14718,yPT-stETH (auto-rolling Pendle PT),,Yearn Vault
+0x3ac911110c7d1d14d9a65af1204d5af58ac6bb57,Silo-LRT WETH yVault,,Yearn Vault
+0xdc0b53cc326b692a4d89e5f4cadc29a6b7265749,yPT-rswETH-L2 (auto-rolling Pendle PT),,Yearn Vault
+0xebf3581407ae0ceb07b8149b4c3ac995a72cb589,yPT-wstETH (auto-rolling Pendle PT),,Yearn Vault
+0x7c7569585ba5e7f5c0b1d18ab630d1769ca27193,yPT-sDAI (auto-rolling Pendle PT),,Yearn Vault
+0x968d4227eecc1d47e46c68d19de2b6858a3f39a7,yPT-eETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0x28b703ab847fb4a9548af7a4bce38cd94f508298,yPT-eETH (auto-rolling Pendle PT),,Yearn Vault
+0x1a985b7a40d19b7263e867d13cd89c787c787925,yPT-pufETH (auto-rolling Pendle PT),,Yearn Vault
+0xdcba6f240bb7e8ea00f23a4f970b29d22ddd860e,yPT-sDAI (auto-rolling Pendle PT),,Yearn Vault
+0xc9fb833f11d2d8169953b144fa5242e8aec25c01,yPT-sDAI (auto-rolling Pendle PT),,Yearn Vault
+0x3f540647b08e3e9bcd297e065e42e6cdaf37eba0,Silo-LRT WETH yVault,,Yearn Vault
+0xb2155ffa9807b2decb4a411f7330da5bb6e46c31,yPT-sfrxETH (auto-rolling Pendle PT),,Yearn Vault
+0xe5175a2eb7c40bc5f0e9de4152caa14eab0ffcb7,yPT-weETHs (auto-rolling Pendle PT),,Yearn Vault
+0x980703fae7ab5bdefc3e1cefc9d15014461fe39d,yPT-USDe-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0xe2fdf0526629d85b719dcbc6efe833b1b5b3cb36,Kelp aggregator,,Yearn Vault
+0x2478d5997324e8b47e9ff870166dba8d2e461993,yPT-eETH-Karak (auto-rolling Pendle PT),,Yearn Vault
+0x1489310ab64830aa242b957b3a0ff5efb28093b2,yPT-uniETH (auto-rolling Pendle PT),,Yearn Vault
+0x5326d3e4c769bf9ea532470ecbf6d4898b81756b,yPT-USDe (auto-rolling Pendle PT),,Yearn Vault
+0xb9ef23c587f3f3dea54f42de5b71e78f822c74e8,yPT-sUSDe-Karak (auto-rolling Pendle PT),,Yearn Vault
+0xf45eec3b50658054755a5055173ceeb82c94aa4e,yPT-eBTC (auto-rolling Pendle PT),,Yearn Vault
+0x17f211915f87f0aac4b67d8b311e7c38c38830d4,yPT-ezETH-Zircuit (auto-rolling Pendle PT),,Yearn Vault
+0xd789d846c1eed55161dbd135d7bf02450a836ffa,yPT-pzETH (auto-rolling Pendle PT),,Yearn Vault
+0x8f03f179d65fa98f27060c06eba6349852bae34a,EtherFi aggregator,,Yearn Vault
+0xcc209a1c5a3757597497c83d62d1d6b6a2c7395f,yPT-rsETH (auto-rolling Pendle PT),,Yearn Vault
+0xd469e2a86331a9286de08dfe76083d9e8b168ca9,yPT-swETH (auto-rolling Pendle PT),,Yearn Vault
+0x4d1ac746e4a71be24221d05a8dfcd3e1523a161c,yPT-USDe-Karak (auto-rolling Pendle PT),,Yearn Vault

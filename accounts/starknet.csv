@@ -1,0 +1,18 @@
+Address,Name Tag,Label
+0x9f96fe0633ee838d0298e8b8980e6716be81388d,StarkGate: DAI Bridge,Starknet
+0x659a00c33263d9254fed382de81349426c795bb6,StarkGate: Deprecated - DAI Bridge,Starknet
+0xbf67f59d2988a46fbff7ed79a621778a3cd3985b,StarkGate: wstETH Bridge,Starknet
+0xc662c410c0ecf747543f5ba90660f6abebd9c8c4,Starknet: Core Contract,Starknet
+0x0437465dfb5b79726e35f08559b0cbea55bb585c,StarkNet: L1 Escrow,Starknet
+0x96375087b2f6efc59e5e0dd5111b4d090ebfdd8b,StarkNet: Memory Page Fact Registry,Starknet
+0x2c169dfe5fbba12957bdd0ba47d9cedbfe260ca7,StarkNet: Operator,Starknet
+0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419,Starknet: StarkGate ETH Bridge,Starknet
+0xdc687e1e0b85cb589b2da3c47c933de9db3d1ebb,Starknet: StarkGate FRAX Bridge,Starknet
+0x66ba83ba3d3ad296424a2258145d9910e9e40b7c,Starknet: StarkGate FXS Bridge,Starknet
+0xf3f62f23df9c1d2c7c63d9ea6b90e8d24c7e3df5,Starknet: StarkGate LUSD Bridge,Starknet
+0xb27d0dcafd63db302c155c8864886f33bd2a41e5,Starknet: StarkGate R Bridge,Starknet
+0xcf58536d6fab5e59b654228a5a4ed89b13a876c2,Starknet: StarkGate rETH Bridge,Starknet
+0xd8e8531fdd446df5298819d3bc9189a5d8948ee8,Starknet: StarkGate sfrxETH Bridge,Starknet
+0xf6080d9fbeebcd44d89affbfd42f098cbff92816,Starknet: StarkGate USDC Bridge,Starknet
+0xbb3400f107804dfb482565ff1ec8d8ae66747605,Starknet: StarkGate USDT Bridge,Starknet
+0x283751a21eafbfcd52297820d27c1f1963d9b5b4,Starknet: StarkGate WBTC Bridge,Starknet

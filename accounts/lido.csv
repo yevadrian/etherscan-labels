@@ -1,0 +1,209 @@
+Address,Name Tag,Label
+0x1982b2f5814301d4e9a8b0201555376e62f82428,Lido: Aave interest bearing STETH,Lido
+0xff04ed5f7a6c3a0f1e5ea20617f8c6f513d5a77c,Aave: Default Reserve Interest Rate Strategy,Lido
+0xd8d93e91ea5f24d0e2a328bc242055d40f00be1a,Allnodes: Lido Node Operator,Lido
+0x07be9bb2b1789b8f5b2f9345f18378a8b036a171,Anchor Protocol: Anchor Vault impl,Lido
+0x8b90ac446d4360332129e92f857a9d536db9d7c2,Anyblock Analytics: Lido Node Operator,Lido
+0xcd51df5142156bd92e7a9494dd2b9362f5078d64,Attestant (BVI) Limited: Lido Node Operator,Lido
+0x4f42a816dc2dba82ff927b6996c14a741dcbd902,Blockdaemon: Lido Node Operator,Lido
+0x5f74a2db08d717c94457c550af54548c4241ace9,Blockscape: Lido Node Operator,Lido
+0x40c20da8d0214a7ef33a84e287992858db744e6d,BridgeTower Capital: Lido Node Operator,Lido
+0x8d689476eb446a1fb0065bffac32398ed7f89165,Certus One: Lido Node Operator,Lido
+0xd5ac23b1ade91a054c4974264c9dbddd0e52bb05,ChainLayer: Lido Node Operator,Lido
+0xf82b1fdcd493b2defab52c740399ff150baa7a2a,ChainSafe: Lido Node Operator,Lido
+0x0ac7e9af32422ac5968622585822e4d89ef51343,Chorus One: Lido Node Operator,Lido
+0x59ecf48345a221e0731e785ed79ed40d0a94e2a5,CryptoManufaktur: Lido Node Operator,Lido
+0xc0b581e041c17716ea1fcede4ec40e2e27a48aba,DSRV: Lido Node Operator,Lido
+0x3d5a107f7a5bcec8734c49ed54d41bc6f93eb97f,Everstake: Lido Node Operator,Lido
+0xfe78617ec612ac67bcc9cc145d376400f15a82cb,Figment Capital: Lido Node Operator,Lido
+0x065daab531e7cd50f900d644e8cae8a208eea4e9,hashQuark: Lido Node Operator,Lido
+0x60bc65e1cca448f98578f8d9f9ab64c3ba70a4c3,InfStones: Lido Node Operator,Lido
+0x8845d7f2bbfe82249c3b95e378a6ed039dd953f5,Kukis Global: Lido Node Operator,Lido
+0x8180949ac41ef18e844ff8dafe604a195d86aea9,Lido : Aave stable debt bearing STETH,Lido
+0xa9deac9f00dc4310c35603fcd9d34d1a750f81db,Lido : Aave variable debt bearing STETH,Lido
+0xcbb418f6f9bfd3525ce6aade8f74ecfefe2db5c8,Lido : Activate Node Operators,Lido
+0x1f809d2cb72a5ab13778811742050eda876129b6,Lido : Add Allowed Recipient,Lido
+0xcaa3af7460e83e665eefec73a7a542e5005c9639,Lido : Add Node Operators,Lido
+0xee60c6ebc91237d334230b12263e26ee3b480ec4,Lido : Allowed Recipients Factory,Lido
+0xdc7300622948a7adaf339783f6991f9cddd79776,Lido : Allowed Recipients Registry,Lido
+0xaac4fce2c5d55d1152512fe5faa94db267ee4863,Lido : Allowed Recipients Registry 2,Lido
+0x3f0534cccfb952470775c516dc2eff8396b8a368,Lido : Allowed Recipients Registry 3,Lido
+0x4ac40c34f8992bb1e5e856a448792158022551ca,Lido : Allowed Tokens Registry,Lido
+0xe31a0599a6772bcf9b2bfc9e25cf941e793c9a7d,Lido : Change Node Operator Managers,Lido
+0x8b82c1546d47330335a48406cc3a50da732672e7,Lido : Deactivate Node Operators,Lido
+0xd30dc38edefc21875257e8a3123503075226e14b,Lido : Remove Allowed Recipient,Lido
+0x7d509bff310d9460b1f613e4e40d342201a83ae4,Lido : Set Node Operator Names,Lido
+0x589e298964b9181d9938b84bb034c3bb9024e2c0,Lido : Set Node Operator Reward Addresses,Lido
+0xd75778b855886fc5e1ea7d6bfada9eb68b35c19d,Lido : Set Vetted Validators Limits,Lido
+0xbd08f9d6bf1d25cc7407e4855df1d46c2043b3ea,Lido : Top Up Allowed Recipients,Lido
+0x6ab39a8be67d9305799c3f8fdfc95caf3150d17c,Lido : Top Up Allowed Recipients 2,Lido
+0x75bdecbb6453a901ebbb945215416561547dfdd4,Lido : Top Up Allowed Recipients 3,Lido
+0xcd42eb8a5db5a80dc8f643745528dd77cf4c7d35,Lido : Top Up Allowed Recipients 4,Lido
+0x0d2aefa542afa8d9d1ec35376068b88042fef5f6,Lido : Top Up Allowed Recipients 5,Lido
+0x41cf3dbdc939c5115823fba1432c4ec5e7bd226c,Lido : Update Target Validator Limits,Lido
+0x958e0d946d014f377421a53ab5f9180d4485e63b,Lido:  Allowed Recipients Builder Tooling,Lido
+0x22010d1747cafc370b1f1fbba61022a313c5693b,Lido:  Remove Allowed Recipient,Lido
+0x1f2b79fe297b7098875930bba6dd17068103897e,Lido:  Top Up Allowed Recipients,Lido
+0xdb46c277da1599390eab394327602889e9546296,Lido: 1inch Liquidity Farming,Lido
+0xf5436129cf9d8fa2a1cb6e591347155276550635,Lido: 1inch LP Rewards Manager,Lido
+0xc1a900ae76db21dc5aa8e418ac0f4e888a4c7431,Lido: 1inch stETH-DAI Pool,Lido
+0xbd233d4ffdaa9b7d1d3e6b18cccb8d091142893a,Lido: Aave interest bearing STETH Imp,Lido
+0x66457616dd8489df5d0afd8678f4a260088aaf55,Lido: Aave stable debt bearing STETH,Lido
+0xde2c414b671d2db93617d1592f0490c13674de24,Lido: Aave variable debt bearing STETH,Lido
+0x852ded011285fe67063a08005c71a85690503cee,Lido: Accounting Oracle,Lido
+0xd624b08c83baecf0807dd2c6880c3154a5f0b288,Lido: Accounting Oracle Hash Consensus,Lido
+0xf3c5e0a67f32cf1dc07a8817590efa102079a1af,Lido: Accounting Oracle Impl 1.0.0,Lido
+0x935cb3366faf2cfc415b2099d1f974fd27202b77,Lido: Add Allowed Recipient,Lido
+0x9d15032b91d01d5c1d940eb919461426ab0dd4e3,Lido: Add Reward Program,Lido
+0x3e40d73eb977dc6a537af587d48316fee66e9c8c,Lido: Agent,Lido
+0x3a93c17fc82cc33420d1809dda9fb715cc89dd37,Lido: Agent Impl,Lido
+0x7e70de6d1877b3711b2beda7ba00013c7142d993,Lido: Allocation Strategy,Lido
+0x83e976758b7ab1bb676a4fea073fa0e2a807642b,Lido: Allowed Recipients Factory Tooling,Lido
+0x48c4929630099b217136b64089e8543db0e5163a,Lido: Allowed Recipients Registry,Lido
+0x9895f0f17cc1d1891b6f18ee0b483b6f221b37bb,Lido: Aragon ACL,Lido
+0x9f3b9198911054b122fdb865f8a5ac516201c339,Lido: Aragon ACL Impl,Lido
+0xb9e5cbb9ca5b0d659238807e84d0176930753d86,Lido: Aragon Finance,Lido
+0x836835289a2e81b66ae5d95b7c8dbc0480dcf9da,Lido: Aragon Finance Impl,Lido
+0x0cb113890b04b49455dfe06554e2d784598a29c9,Lido: Aragon PM,Lido
+0xf73a1260d222f447210581ddf212d915c09a3249,Lido: Aragon Token Manager,Lido
+0xde3a93028f2283cc28756b3674bd657eafb992f4,Lido: Aragon Token Manager Impl,Lido
+0x2e59a20f205bb85a89c53f1936454680651e618e,Lido: Aragon Voting,Lido
+0x72fb5253ad16307b9e773d2a78cac58e309d5ba4,Lido: Aragon Voting Impl,Lido
+0x0f25c1dc2a9922304f2eac71dca9b07e310e8e5a,Lido: Arbitrum L1 ERC20 Token Gateway,Lido
+0x6140182b2536ae7b6cfcfb2d2bab0f6fe0d7b58e,Lido: ARCx Manager Contract,Lido
+0xa74528edc289b1a597faf83fcff7eff871cc01d9,Lido: Asset Recoverer Lib,Lido
+0xe07305f43b11f230eaa951002f6a55a16419b707,Lido: ATC DAI Allowed Recipients Registry,Lido
+0x1dd909cddf3dbe61ac08112dc0fdf2ab949f79d8,Lido: Balancer LP rewards Manager Contract,Lido
+0x1220cccdc9bba5cf626a84586c74d6f940932342,Lido: Balancer LP Rewards Manager V2,Lido
+0x86f6c353a0965eb069cd7f4f91c1afef8c725551,Lido: Balancer LP Rewards Manager V3,Lido
+0x55c8de1ac17c1a937293416c9bce5789cbbf61d1,Lido: Balancer LP Rewards V2,Lido
+0x32296969ef14eb0c6d29669c550d4a0449130230,Lido: Balancer wstETH-ETH Pool,Lido
+0x75100bd564415731b5936a4a94d0dc29dde5db3c,Lido: Bokky PooBah's DateTime Library Tooling,Lido
+0xd15a672319cf0352560ee76d9e89eab0889046d3,Lido: Burner,Lido
+0x86392dc19c0b719886221c78ab11eb8cf5c52812,Lido: Chainlink stETH-ETH Price Feed,Lido
+0xcfe54b5cd566ab89272946f602d76ea879cab4a8,Lido: Chainlink stETH-USD Price Feed,Lido
+0xda7de2ecddfccc6c3af10108db212acbbf9ea83f,Lido: Community Staking Module,Lido
+0x55a7e1cbd678d9ebd50c7d69dc75203b0dbdd431,Lido: Composite Post Rebase Report Receiver,Lido
+0xd089cc83f5b803993e266aceb929e52a993ca2c8,Lido: Cover Multisig,Lido
+0x3d5148ad93e2ae5dedd1f7a8b3c19e7f67f90c0e,Lido: CS Early Adoption,Lido
+0xd99cc66fec647e68294c6477b40fc7e0f6f618d0,Lido: CS Fee Distributor,Lido
+0x4d4074628678bd302921c20573eea1ed38ddf7fb,Lido: CS Fee Oracle,Lido
+0x3dfc50f22aca652a0a6f28a0f892ab62074b5583,Lido: CS Verifier,Lido
+0x5cfca30450b1e5548f140c24a47e36c10ce306f0,Lido: CSM Gate Seal,Lido
+0xf6b6e7997338c48ea3a8bcfa4bb64a315fda76f4,Lido: CSM Settle El Stealing Penalty,Lido
+0x55032650b14df07b85bf18a3a3ec8e0af2e028d5,Lido: Curated Staking Module,Lido
+0x0d97e876ad14db2b183cfeeb8aa1a5c788eb1831,Lido: Curated Staking Module App Repo,Lido
+0x8538930c385c0438a357d2c25cb3ead95ab6d8ed,Lido: Curated Staking Module Impl 2.0.0,Lido
+0x753d5167c31fbeb5b49624314d74a957eb271709,Lido: Curve Liquidity Farming Manager Contract,Lido
+0xdc24316b9ae028f1497c275eb9192a3ea0f67022,Lido: Curve Liquidity Farming Pool Contract,Lido
+0x99ac10631f69c753ddb595d074422a0922d9056b,Lido: Curve Liquidity Farming Reward Contract,Lido
+0xf668e6d326945d499e5b35e7cd2e82acfbcfe6f0,Lido: Curve stETH-ETH Gauge,Lido
+0x828b154032950c8ff7cf8085d841723db2696056,Lido: Curve stETH-ETH Pool,Lido
+0x79f5e20996abe9f6a48af6f9b13f1e55aed6f06d,Lido: DAI - USDC,Lido
+0x8ba6d367d15ebc52f3ebbdb4a8710948c0918d42,Lido: DAI - USDT,Lido
+0xb8ffc3cd6e7cf5a098a1c92f48009765b24088dc,Lido: DAO,Lido
+0x2b33cf282f867a7ff693a66e11b0fcc5552e4425,Lido: DAO Impl 1.0.0,Lido
+0x8b3f33234abd88493c0cd28de33d583b70bede35,Lido: DAO Insurance Fund,Lido
+0x55bc991b2edf3ddb4c520b222be4f378418ff0fa,Lido: Deployer 1,Lido
+0xe19fc582dd93fa876cf4061eb5456f310144f57b,Lido: Deployer 3,Lido
+0xc77f8768774e1c9244beed705c4354f2113cfc09,Lido: Deposit Security Module,Lido
+0x710b3303fb508a84f10793c1106e32be873c24cd,Lido: Deposit Security Module 2,Lido
+0xffa96d84def2ea035c7ab153d8b991128e3d72fd,Lido: Deposit Security Module 3,Lido
+0x4b3edb22952fb4a70140e39fb1add05a6b49622b,Lido: Early Stakers Airdrop,Lido
+0xf0211b7660680b49de1a7e9f25c65660f0a13fea,Lido: Easy Track,Lido
+0x8f73e4c2a6d852bb4ab2a45e6a9cf5715b3228b7,Lido: EIP-721 for stETH,Lido
+0xfe5986e06210ac1ecc1adcafc0cc7f8d63b3f977,Lido: EVM Script Executor,Lido
+0x388c818ca8b9251b393131c08a736a67ccb19297,Lido: Execution Layer Rewards Vault,Lido
+0x48f300bd3c52c7da6aabde4b683deb27d38b9abb,Lido: Finance Multisig,Lido
+0x48c135ff690c2aa7f5b11c539104b5855a4f9252,Lido: Gas Supply stETH Add Allowed Recipient,Lido
+0x49d1363016aa899bba09ae972a1bf200ddf8c55f,Lido: Gas Supply stETH Allowed Recipients Registry,Lido
+0x7e8effab3083fb26ace6832bfca4c377905f97d7,Lido: Gas Supply stETH Remove Allowed Recipient,Lido
+0x200da0b6a9905a377cf8d469664c65db267009d1,Lido: Gas Supply stETH Top Up Allowed Recipients,Lido
+0x79243345edbe01a7e42edff5900156700d22611c,Lido: Gate Seal,Lido
+0x1ad5cb2955940f998081c1ef5f5f00875431aa90,Lido: GateSeal,Lido
+0xee06ea501f7d9dc6f4200385a8d910182d155d3e,Lido: GateSeal Blueprint,Lido
+0x6c82877cac5a7a739f16ca0a89c0a328b8764a24,Lido: GateSeal Factory,Lido
+0xfebd8fac16de88206d4b18764e826af38546afe0,Lido: Increase Node Operator Staking Limit,Lido
+0x13c6ef8d45afbccf15ec0701567cc9fad2b63ce8,Lido: Jumpgate Solana Referral Program,Lido
+0xe3224542066d3bbc02bc3d70b641be4bc6f40e36,Lido: Jumpgate Solana Reward Program,Lido
+0x5a98fcbea516cf06857215779fd812ca3bef1b32,Lido: LDO Token,Lido
+0x442af784a788a5bd6f42a01ebe9f287a871243fb,Lido: Legacy Oracle,Lido
+0xf9339de629973c60c4d2b76749c81e6f40960e3a,Lido: Legacy Oracle App Repo,Lido
+0xa29b819654ce6224a222bb5f586920105e2d7e0e,Lido: Legacy Oracle Impl 4.0.0,Lido
+0xb0fe4d300334461523d9d61aad90d0494e1abb43,Lido: LEGO DAI Allowed Recipients Registry,Lido
+0x97615f72c3428a393d65a84a3ea6bbd9ad6c0d74,Lido: LEGO LDO Allowed Recipients Registry,Lido
+0x00caaef11ec545b192f16313f53912e453c91458,Lido: LEGO LDO Top Up Allowed Recipients,Lido
+0xf5dc67e54fc96f993cd06073f71ca732c1e654b1,Lido: Lido App Repo,Lido
+0xb8d83908aab38a159f3da47a59d84db8e1838712,Lido: LIDO Vesting Recipient 1,Lido
+0x945755de7eac99008c8c57bda96772d50872168b,Lido: LIDO Vesting Recipient 2,Lido
+0xb3dfe140a77ec43006499cb8c2e5e31975cad909,Lido: LIDO Vesting Recipient 3,Lido
+0x695c388153bea0fbe3e1c049c149bad3bc917740,Lido: LIDO Vesting Recipient 4,Lido
+0xa2dfc431297aee387c05beef507e5335e684fbcd,Lido: LIDO Vesting Recipient 5,Lido
+0x1597d19659f3de52abd475f7d2314dcca29359bd,Lido: LIDO Vesting Recipient 6,Lido
+0xd7f0ddcbb0117a53e9ff2cad814b8b810a314f59,Lido: LIDO Vesting Recipient 7,Lido
+0xfea88380baff95e85305419eb97247981b1a8eee,Lido: LIDO Vesting Recipient 8,Lido
+0x58a764028350ab15899fdccafffd3940e602ceea,Lido: LIDO Vesting Recipient 9,Lido
+0xc1d0b3de6792bf6b4b37eccdcc24e45978cfd2eb,Lido: Locator,Lido
+0x1d920cc5bacf7ee506a271a5259f2417cadece1d,Lido: Locator Impl 1.0.0,Lido
+0xf95f069f9ad107938f6ba802a3da87892298610e,Lido: MEV Boost Relay Allowed List,Lido
+0xf8e5de8baf8ad7c93dcb61d13d00eb3d57131c72,Lido: NO Addresses,Lido
+0xdb149235b6f40dc08810aa69869783be101790e7,Lido: Old Deposit Security Module,Lido
+0x76943c0d61395d8f2edf9060e1533529cae05de6,Lido: Optimism L1 ERC20 Token Bridge,Lido
+0xbf05a929c3d7885a6aead833a992da6e5ac23b09,Lido: Oracle Daemon Config,Lido
+0x9305c1dbfe22c12c66339184c0025d7006f0f1cc,Lido: Oracle Report Sanity Checker,Lido
+0x6232397ebac4f5772e53285b26c47914e9461e75,Lido: Oracle Report Sanity Checker 2,Lido
+0xdffcd3bf14796a62a804c1b16f877cf7120379db,Lido: PML DAI Allowed Recipients Registry,Lido
+0xd19b40cb5401f1413d014a56529f03b3452f70f9,Lido: Queue Lib,Lido
+0xdc1a0c7849150f466f07d48b38eaa6ce99079f80,Lido: RCC DAI Allowed Recipients Registry,Lido
+0xc21e5e72ffc223f02fc410aaede3084a63963932,Lido: Remove Reward Program,Lido
+0xa8a358e9bbb9ff60d4b89cbe5b2fe88f98b51b9d,Lido: Repo Impl,Lido
+0x1bdffe0ebef3feadf2723d3330727d73f538959c,Lido: Reward Programs,Lido
+0x3129c041b372ee93a5a8756dc4ec6f154d85bc9a,Lido: Reward Programs Registry,Lido
+0x87d93d9b2c672bf9c9642d853a8682546a5012b5,Lido: Rewards Committee Multisig,Lido
+0xb280e33812c0b09353180e92e27b8ad399b07f26,Lido: Self Owned stETH Burner,Lido
+0x2325b0a607808de42d918db07f925ffccfbb2968,Lido: Simple DVT Repo,Lido
+0xae7b191a31f627b4eb1d4dac64eab9976995b433,Lido: Simple DVT Staking Module,Lido
+0x3a6bd15abf19581e411621d669b6a2bbe741ffd6,Lido: Stable Swap Oracle,Lido
+0xfddf38947afb03c621c71b06c9c70bce73f12999,Lido: Staking Router,Lido
+0xd8784e748f59ba711fb5643191ec3fadd50fb6df,Lido: Staking Router Impl 1.0.0,Lido
+0x3e2d251275a92a8169a3b17a2c49016e2de492a7,Lido: stETH - DAI,Lido
+0xf4f6a03e3dbf0aa22083be80fdd340943d275ea5,Lido: stETH - USDC,Lido
+0x7c2a1e25ca6d778ecaebc8549371062487846aaf,Lido: stETH - USDT,Lido
+0xab55bf4dfbf469ebfe082b7872557d1f87692fe6,Lido: stETH Price Feed,Lido
+0xae7ab96520de3a18e5e111b5eaab095312d7fe84,Lido: stETH Token,Lido
+0x17144556fd3424edc8fc8a4c940b2d04936d17eb,Lido: stETH Token Impl 2.0.0,Lido
+0xe5576eb1dd4aa524d67cf9a32c8742540252b6f4,Lido: SushiSwap LP rewards Manager Contract,Lido
+0x75ff3dd673ef9fc459a52e1054db5df2a1101212,Lido: SushiSwap LP rewards Reward Contract,Lido
+0x648c8be548f43eca4e482c0801ebccccfb944931,Lido: Top Up Lego Program,Lido
+0x77781a93c4824d2299a38ac8bbb11eb3cd6bc3b7,Lido: Top Up Reward Programs,Lido
+0xa9b2f5ce3aae7374a62313473a74c98baa7fa70e,Lido: Treasury Diversification DAO-ops Aug,Lido
+0x489f04eeff0ba8441d42736549a1f1d6cca74775,Lido: Treasury Diversification DAO-ops May,Lido
+0x689e03565e36b034eccf12d182c3dc38b2bb7d33,Lido: Treasury Diversification DAO-ops Oct,Lido
+0xda1df6442afd2ec36abea91029794b9b2156add0,Lido: TRP Escrow Factory,Lido
+0x231ac69a1a37649c6b06a71ab32ddd92158c80b8,Lido: TRP LDO Allowed Recipients Registry,Lido
+0xbd2b6dc189eefd51b273f5cb2d99ba1ce565fb8c,Lido: TRP LDO Top Up Allowed Recipients,Lido
+0x161a4552a625844c822954c5acbac928ee0f399b,Lido: Update Target Validator Limits,Lido
+0x2b5a3944a654439379b206de999639508ba2e850,Lido: USDC - DAI,Lido
+0x278f7b6cbb3cc37374e6a40bdfebfff08f65a5c7,Lido: USDC - USDT,Lido
+0x64b6af9a108dcdf470e48e4c0147127f26221a7c,Lido: USDT - DAI,Lido
+0x281e6bb6f26a94250aceb24396a8e4190726c97e,Lido: USDT - USDC,Lido
+0x0de4ea0184c2ad0baca7183356aea5b8d5bf5c6e,Lido: Validators Exit Bus Oracle,Lido
+0x7fadb6358950c5faa66cb5eb8ee5147de3df355a,Lido: Validators Exit Bus Oracle Hash Consensus,Lido
+0xa89ea51fdde660f67d1850e03c9c9862d33bc42c,Lido: Validators Exit Bus Oracle Impl 1.0.0,Lido
+0x4ee3118e3858e8d7164a634825bfe0f73d99c792,Lido: Voting Repo,Lido
+0x889edc2edab5f40e902b864ad4d7ade8e412f9b1,Lido: Withdrawal Queue,Lido
+0xe42c659dc09109566720ea8b2de186c2be7d94d9,Lido: Withdrawal Queue Impl 1.0.0,Lido
+0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f,Lido: Withdrawal Vault,Lido
+0xcc52f17756c04bba7e377716d7062fc36d7f69fd,Lido: Withdrawal Vault Impl 1.0.0,Lido
+0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0,Lido: wstETH Token,Lido
+0x237dee529a47750becdfa8a59a1d766e3e7b5f91,Nethermind: Lido Node Operator,Lido
+0x9a66fd7948a6834176fbb1c4127c61cb6d349561,P2P.ORG: Lido Node Operator,Lido
+0x3bf3a9260fe18a1239767ac6f0f0bc7c1e5d1cbc,Prysmatic Labs: Lido Node Operator,Lido
+0x258cb32b1875168858e57bb31482054e008d344e,RockX: Lido Node Operator,Lido
+0x07fe5f404778c27f4d3a0ab56dc59f8efdd32d96,Sigma Prime: Lido Node Operator,Lido
+0xfef3c7aa6956d03dbad8959c59155c4a465dcacd,Simply Staking: Lido Node Operator,Lido
+0x987cc5111389a1f58bc7f678c95f485631205ec3,stakefish: Lido Node Operator,Lido
+0x77d2cf58aa4da90b3afcd283646568e4383193bf,Stakely: Lido Node Operator,Lido
+0xf6b0a1b771633db40a3e21cc49fd2fe35669ef46,Stakin: Lido Node Operator,Lido
+0xdd4bc51496dc93a0c47008e820e0d80745476f22,Staking Facilities: Lido Node Operator,Lido
+0x49df3cca2670eb0d591146b16359fe336e476f29,stereum.net 2: Eth2 Depositor,Lido
